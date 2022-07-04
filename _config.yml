@@ -1,3 +1,5 @@
 url: 'https://www.elclaustro.cl'
 name: 'El Claustro'
 description: 'Contracultura Underground'
+
+theme: jekyll-theme-slate
