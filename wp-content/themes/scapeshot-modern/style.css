@@ -1,0 +1,27 @@
+/*
+Theme Name: Scapeshot Modern
+Theme URI: https://catchthemes.com/themes/scapeshot-modern/
+Author: Catch Themes
+Author URI: https://catchthemes.com/
+Description: ScapeShot Modern is a clean, minimal, and elegant Fullscreen Modern Photography WordPress theme. The theme is ideal for all modern photography blogs and websites. ScapeShot Modern is a child theme of ScapeShot, a multipurpose Photography WordPress theme. ScapeShot Modern focuses on photography websites with a modern, clean design and incredible features. This theme has a modern Fullscreen design that fits all kinds of photography blogs and other businesses related. It includes modern features and sections that are absolutely crucial for photography blogs. For instance, Featured Content, Featured Slider, Hero Content, Layout Options, Portfolio, Services, Testimonials, WooCommerce Ready, and more. You can use the features mindfully and promote your photography business. All of these features are fully responsive and easy to customize.  This freshly released modern photography theme has everything to take your photography blogs and websites to the next level. Also, the theme is translation-ready. For more information, check out Theme Instructions at https://catchthemes.com/themes/scapeshot-modern/#theme-instructions and Demo at https://catchthemes.com/demo/scapeshot-modern/
+Version: 1.2
+Requires at least: 5.6
+Tested up to: 6.0
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: scapeshot-modern
+Template: scapeshot
+Tags: one-column, two-columns, right-sidebar, grid-layout, custom-background, custom-header, custom-menu, custom-logo, editor-style, featured-image-header, featured-images, flexible-header, footer-widgets,  microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, theme-options, translation-ready, blog, entertainment, portfolio
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.promotion-section .post-thumbnail-background:before {
+	background-color: rgba(0, 0, 0, 0.5 );
+}
+
+#feature-slider-section .post-thumbnail:before {
+background-color: rgba(0, 0, 0, 0 );
+}
