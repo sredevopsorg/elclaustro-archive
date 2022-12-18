@@ -79,3 +79,5 @@ typings/
 
 # Serverless directories
 .serverless
+.DS**
+DS_Stor*
