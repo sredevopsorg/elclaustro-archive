@@ -1,10 +1,10 @@
 # THis is the Main Hugo Configuration File.
 # For more information, please see https://gohugo.io/getting-started/configuration/
-baseURL: 'https://elclaustro.cl/'
+baseURL: 'https://gh.elclaustro.cl/'
 languageCode: es-es
 title: El Claustro
 theme: ananke
-url: https://elclaustro.cl
+url: https://gh.elclaustro.cl
 name: El Claustro
 description: Cultura Dark, Gótica y Alternativa
 paginate: 10
