@@ -14,9 +14,7 @@ categories:
   - Entrevistas
 tags:
   - Christian Death
-  - Entrevista
   - Entrevistas
-
 ---
   <p>
     Luego de varios mensajes de ida y vuelta entre los cuasi legendarios y no poco polémicos Christian Death y El Claustro, accedieron gustosamente a brindarle una entrevista a nuestro amigo y corresponsal en España, Vladimir Muñoz luego de su presentación en Barcelona junto a Ava Inferi.

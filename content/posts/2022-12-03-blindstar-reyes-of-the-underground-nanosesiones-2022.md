@@ -18,10 +18,7 @@ categories:
   - Videos
 
 ---
-<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L3r5cW6glSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <blockquote class="wp-block-quote">
   <p>
@@ -29,10 +26,7 @@ categories:
   </p>
   
   <p>
-    Belleza pura, gracias BlindStar. Todo el material, producción., creación y amor que hay, es propiio de BlindStar y/o <a href="https://studio.youtube.com/channel/UC5h8MHqzAsCTA9JqB4NPhJg">&nbsp;@nanosesiones48&nbsp;</a>, no pertenece ni es idea de <a href="https://studio.youtube.com/channel/UCFBqyRbKUMpJN3a7OHO97jA">&nbsp;@elclaustrocl&nbsp;</a>.
+    Belleza pura, gracias BlindStar. Todo el material, producción., creación y amor que hay, es propiio de BlindStar y/o <a href="https://studio.youtube.com/channel/UC5h8MHqzAsCTA9JqB4NPhJg">&nbsp;@nanosesiones48&nbsp;</a>, no pertenece ni es idea de <a href="https://youtube.com/@elclaustrocl">&nbsp;@elclaustrocl&nbsp;</a>.
   </p>
-  
-  <p>
-    ​
-  </p>
+
 </blockquote>

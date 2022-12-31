@@ -7,16 +7,11 @@ theme: ananke
 url: https://gh.elclaustro.cl
 name: El Claustro
 description: Cultura Dark, Gótica y Alternativa
-paginate: 10
+paginate: 3
 enableRobotsTXT: true
 defaultContentLanguage: es
 enableGitInfo: true
 enableInlineShortcodes: true
-params:
-  AuthorName: Nicolas Georger
-  GitHubUser: ngeorger
-  SidebarRecentLimit: 5
-  Subtitle: Cultura Dark, Gótica y Alternativa
 permalinks:
   posts: /:title/
 mediaTypes:
@@ -103,3 +98,42 @@ markup:
       hardWraps: false
       unsafe: true
       xhtml: true
+resourceDir: resources
+DefaultContentLanguage: es
+SectionPagesMenu: main
+Paginate: 10
+googleAnalytics: ''
+languages:
+  es:
+    title: El Claustro
+    weight: 1
+    contentDir: content
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+params:
+  AuthorName: Nicolas Georger
+  GitHubUser: ngeorger
+  SidebarRecentLimit: 5
+  Subtitle: Cultura Dark, Gótica y Alternativa
+  text_color: ''
+  author: ''
+  favicon: 'favicon.ico'
+  site_logo: 'logo.png'
+  description: Cultura Dark, Gótica y Alternativa
+  background_color_class: bg-black
+  recent_posts_number: 10
+
+  ananke_socials:
+    - name: instagram
+      url: 'https://www.instagram.com/elclaustrocl'
+    - name: youtube
+      url: 'https://www.youtube.com/@elclaustrocl'
+    - name: facebook
+      url: 'https://www.facebook.com/elclaustrocl'
+    - name: twitter
+      url: 'https://www.twitter.com/elclaustrocl'
+    - name: github
+      url: 'https://www.github.com/sredevopsdev/elclaustro'
+

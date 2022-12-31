@@ -1,9 +1,9 @@
 ---
-title: Génesis de un Sueño Oscuro (O la historia de la música gotica)
+title: "Génesis de un Sueño Oscuro -la historia de la música gotica-"
 author: Niennor
 type: post
 date: 2011-09-05T20:29:00+00:00
-url: /genesis-de-un-sueno-oscuro-o-la-historia-de-la-musica-go/
+# url: /genesis-de-un-sueno-oscuro-o-la-historia-de-la-musica-go/
 featured_image: /wp-content/uploads/web-salvador-santiago-chile-10-paz-cc-by-nc-sa-2.0.webp
 tumblr_elclaustro-blog_permalink:
   - https://elclaustro-blog.tumblr.com/post/9847153996/genesis-de-un-sueno-oscuro-o-la-historia-de-la-musica-go
@@ -18,13 +18,13 @@ tags:
   - Gothic Rock
   - gótico
   - Post Punk
-
+slug: genesis-de-sueno-oscuro-la-historia-de-la-musica-gotica
 ---
 _<span class="post-date right">Publicado originalmente el 15 de diciembre del 2006, como una adaptación libre del artículo de Wikipedia en inglés sobre la música gotica o el rock gotico.</span>_
 
 <img decoding="async" class="alignleft" src="https://64.media.tumblr.com/tumblr_lr2gzeA1Ud1r04xdq.jpg" /> 
 
-Hoy en día cada vez me es más frecuente encontrarme con personas que lucen lustrosos abrigos largos, enormes botas hebillosas, camisas de cuello ahumado y de características barrocas/victorianas, al igual que mucho maquillaje: pero hay un enorme problema: **La mayoría no conoce muy bien la historia de su cultura.<!-- more -->&nbsp;**
+Hoy en día cada vez me es más frecuente encontrarme con personas que lucen lustrosos abrigos largos, enormes botas hebillosas, camisas de características barrocas/victorianas, al igual que mucho maquillaje: pero hay un enorme problema: **La mayoría no conoce muy bien la historia de su cultura.**
 
   
 Para poder conocer los orígenes de la música gótica, como también las características de esta subcultura, tenemos que situarnos en un Londres de fines de los 70 y principios de los 80: Sí: imagínate la situación de ese momento. Una inminente guerra nuclear entre los dos grandes bloques económicos e ideológicos (EEUU y la URSS), varias crisis económicas y una muy&nbsp;**baja expectativa respecto a lo que deparaba el futuro**. Ese era el panorama en el Londres ochentero.  

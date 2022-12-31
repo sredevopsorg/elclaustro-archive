@@ -86,6 +86,11 @@
           "choices": [
             "default"
           ]
+        },
+        {
+          "title": "omit_header_text",
+          "name": "omit_header_text",
+          "type": "boolean"
         }
       ]
     }
@@ -114,7 +119,6 @@
     "Deadchovsky",
     "Deathrock",
     "En Vivo",
-    "Entrevista",
     "Entrevistas",
     "España",
     "Fields of the Nephilim",
@@ -143,14 +147,21 @@
   "frontMatter.taxonomy.categories": [
     "Chile",
     "Columnas",
-    "Comentarios",
     "Destacados",
     "Discos Completos",
     "Entrevistas",
     "Noticias",
+    "Opinión",
     "Repositorio y archivo del Underground",
     "Setlists",
     "Sin categoría",
     "Videos"
-  ]
+  ],
+  "frontMatter.content.snippets": {
+    "TITUÑLO SNIPPET": {
+      "description": "DESC. SNIPPET",
+      "body": "Lorea lo que puse",
+      "fields": []
+    }
+  }
 }

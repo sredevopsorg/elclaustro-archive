@@ -1,5 +1,10 @@
 {
     "[markdown]": {
+        "editor.fontSize": 14,
+        "editor.lineHeight": 26,
+        "editor.lineNumbers": "off",
+        "editor.quickSuggestions": false,
+        "editor.minimap.enabled": false
     },
     "frontMatter.preview.host": "http://localhost:1313"
 }

@@ -9,8 +9,7 @@ tumblr_elclaustro-blog_permalink:
 tumblr_elclaustro-blog_id:
   - 27882872489
 categories:
-  - Comentarios
-
+  - Opinión
 ---
 Como bien decíamos con Amadeus, hemos llegado al <strike>pachangoth</strike> ultragoth (suena engrupido, pero en sentido literal significa más allá del goth), en el sentido de una complejidad cultural mayor a simples dogmas o paradigmas culturales establecidos.  
 Saludos!

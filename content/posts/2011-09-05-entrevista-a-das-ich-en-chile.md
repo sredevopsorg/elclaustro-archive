@@ -12,7 +12,6 @@ tags:
   - Alemania
   - Cerro Santa Lucía
   - Das Ich
-  - Entrevista
   - Entrevistas
 format: video
 ---
