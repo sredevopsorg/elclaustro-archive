@@ -29,7 +29,7 @@
           "type": "image"
         },
         {
-          "title": "Is in draft",
+          "title": "Es borrador",
           "name": "draft",
           "type": "draft"
         },

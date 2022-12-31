@@ -82,3 +82,5 @@ typings/
 .DS**
 DS_Stor*
 
+public/**
+!elclaustro.WordPress.2022-12-31.xml

@@ -4,7 +4,12 @@ name: Deploy Hugo site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches:
+      - main
+    paths:
+      - content/**
+      - resources/**
+      - themes/**
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -45,6 +50,27 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
+      - name: Cache Node.js dependencies
+        uses: actions/cache@v2
+        with:
+          path: |
+            node_modules
+            **/node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+        continue-on-error: true
+      - name: Cache Hugo modules
+        uses: actions/cache@v2
+        continue-on-error: true
+        with:
+          path: |
+            themes
+            **/themes
+          key: ${{ runner.os }}-hugo-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
+
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
