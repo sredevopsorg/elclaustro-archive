@@ -12,13 +12,13 @@ Actualmente estamos en terreno firme para nuestro netabel y el 2023 será un añ
 
 # Por qué este repositorio? 🦇
 
-Creemos que la creación es abierta y comunitaria. Invitamos a que puedas publicar tu propio contemnido a través de tus pull requests.
+Creemos que la creación es abierta y comunitaria. Invitamos a que puedas publicar tu propio contenido a través de tus pull requests.
 
 # Cómo puedo publicar? 🧛🏻‍♂️
 
-Fácil! 👻 Usamos Hugo como framework y basta que agregues tu contenido como Markdowsn.
+Fácil! 👻 Usamos Hugo como framework y basta que agregues tu contenido en formato Markdown. Para eso debes:
 
-Clones y agregues tu contenido, luego hagas tu pull request para que revisemos y listo.
+Clonar y agregar tu contenido dentro de la carpeta **content/posts**, luego hagas tu pull request para que revisemos y listo.
 
 	git clone --recursive https://github.com/sredevopsdev/elclaustro.git  
 
