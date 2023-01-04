@@ -7,7 +7,7 @@ theme: ananke2
 url: https://elclaustro.cl
 name: El Claustro
 description: Cultura Dark, Gótica y Alternativa
-paginate: 3
+paginate: 10
 enableRobotsTXT: true
 defaultContentLanguage: es
 enableGitInfo: true
@@ -48,7 +48,7 @@ markup:
 resourceDir: resources
 DefaultContentLanguage: es
 SectionPagesMenu: main
-Paginate: 5
+Paginate: 10
 googleAnalytics: 'UA-1838316-1'
 languages:
   es:

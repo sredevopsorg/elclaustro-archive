@@ -15,4 +15,4 @@ tags:
   - repositorio
 
 ---
-{{< spotify type="album" id="5k8TdRdGaFlvelCikmpcdc" width="100%" height="250" >}}
+{{< spotify type="album" id="5k8TdRdGaFlvelCikmpcdc" width="100%" height="80%" >}}
