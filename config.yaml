@@ -49,7 +49,7 @@ resourceDir: resources
 DefaultContentLanguage: es
 SectionPagesMenu: main
 Paginate: 5
-googleAnalytics: 'G-2HWJP3HCNE'
+googleAnalytics: 'UA-1838316-1'
 languages:
   es:
     title: El Claustro
@@ -61,10 +61,10 @@ sitemap:
   priority: 0.5
   filename: sitemap.xml
 params:
-  body_classes: 'avenir bg-near-black light-gray tj'
+  body_classes: 'avenir bg-near-black light-gray'
+  text_color: 'light-gray'
   AuthorName: Nicolas Georger
   GitHubUser: ngeorger
-  SidebarRecentLimit: 5
   SiteTitle: El Claustro
   Subtitle: Difundimos Cultura Dark, Gótica y Alternativa
   author: 'Nicolas Georger'

@@ -1,7 +1,7 @@
 ---
 title: Entrevista a Christian Death (actualizada)
 author: Niennor
-type: post
+type: page
 date: 2011-09-05T04:42:23+00:00
 url: /entrevista-a-christian-death/
 featured_image: /wp-content/uploads/Screenshot-2022-11-20-at-14.42.47.jpeg

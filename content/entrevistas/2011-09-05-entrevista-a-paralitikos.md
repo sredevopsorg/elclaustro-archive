@@ -1,7 +1,7 @@
 ---
 title: Entrevista a Paralitikos
 author: Niennor
-type: post
+type: page
 date: 2011-09-05T04:22:05+00:00
 url: /entrevista-a-paralitikos/
 tumblr_elclaustro-blog_permalink:
