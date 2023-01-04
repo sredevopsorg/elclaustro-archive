@@ -15,13 +15,6 @@ tags:
   - release the bats
 
 ---
- 
+{{< spotify type="playlist" id="2f8G8LP5oO20cXwhhmVJBK" width="100%" height="250" >}}
 
 Selección de música del darkeo que solía poner en Release the Bats, Blondie, Bal le Duc, Teatro de Sombras y otros tantos eventos o antros en los que bailábamos con las manitos y desatábamos la pena gótica.
-
-<div style="position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%;">
-  <div class="tidal-embed" data-type="p" data-id="b5730b46-85e4-4f49-8209-c71c1f6ab187">
-  </div>
-  
-  <!-- -->
-</div>

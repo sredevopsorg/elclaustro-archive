@@ -11,7 +11,4 @@ categories:
   - Repositorio y archivo del Underground
 
 ---
- <figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< spotify type="album" id="3YY5MSFRfoWiNw8fMQjGJA" width="100%" height="250" >}}
