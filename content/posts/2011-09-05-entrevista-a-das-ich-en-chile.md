@@ -15,13 +15,11 @@ tags:
   - Entrevistas
 format: video
 ---
-<div class="is-layout-constrained wp-block-group">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DzxLqGIUJeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
   <p>
     Escrito por Amadeus en Septiembre &#8211; 6 &#8211; 2009
-  </p><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-  
-  <div class="wp-block-embed__wrapper">
-  </div></figure> 
+  </p>
   
   <p>
     Por ahí por el 2006, me encontraba yo terminando el semestre con mis compañeros (incluido mi compadre <strong>Phillipe</strong>, que murió la semana pasada, <em>godspeed, fella!</em>) cuando me llama la mina de turno para invitarme jotísticamente al concierto de <strong>Das Ich</strong>, al que no iba ir por andar sin ni uno, no haberme acreditado y haberme pasado como una semana en la casa del <strong>Nico Schmidt, Kamus</strong> incluido, editando el examen anual consistente en un video estilo <strong>CQC</strong> sobre nuestra casa de estudios, que nos valió el odio de todo el plantel administrativo y docente, ya que nos burlamos grotescamente de todos (si lo encuentro, lo subo de nuevo, después que me entreguen el titulo, obvio).
@@ -47,7 +45,3 @@ format: video
     <em>PD: la wea tiene subtitulos incrustados en las opciones de youtube</em>
   </p>
   
-  <div class="attribution">
-    (Source: <a style="pointer-events: none;" tabindex="-1" href="https://www.youtube.com/">https://www.youtube.com/</a>)
-  </div>
-</div>

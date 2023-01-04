@@ -1,10 +1,10 @@
 ---
-title: El Claustro
-featured_image: ""
-omit_header_text: true
+title: Inicio
 description: Cultura Dark, Gótica y Alternativa
 type: page
-menu: main 
-
+featured_image: ''
+omit_header_text: true
+menu:
+  main:
+    weight: 1
 ---
-

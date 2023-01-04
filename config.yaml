@@ -14,68 +14,15 @@ enableGitInfo: true
 enableInlineShortcodes: true
 permalinks:
   posts: /:title/
-mediaTypes:
-  - application/javascript
-  - application/json
-  - application/xml
-  - application/rss+xml
-  - application/atom+xml
-  - application/rdf+xml
-  - application/ld+json
-  - application/x-web-app-manifest+json
-  - application/x-font-ttf
-  - application/x-font-opentype
-  - application/vnd.ms-fontobject
-  - application/x-font-woff
-  - application/x-font-woff2
-  - application/x-font-truetype
-  - application/x-font-ttf
-  - application/x-font-opentype
-  - application/vnd.ms-fontobject
-  - application/x-font-woff
-  - application/x-font-woff2
-  - application/x-font-truetype
-  - application/x-font-ttf
-  - application/x-font-opentype
-  - application/vnd.ms-fontobject
-  - application/x-font-woff
-  - application/x-font-woff2
-  - application/x-font-truetype
-  - application/x-font-ttf
-  - application/x-font-opentype
-  - application/vnd.ms-fontobject
-  - application/x-font-woff
-  - application/x-font-woff2
-  - application/x-font-truetype
-  - application/x-font-ttf
-  - application/x-font-opentype
-  - application/vnd.ms-fontobject
-  - application/x-font-woff
-  - application/x-font-woff2
-  - application/x-font-truetype
-  - application/x-font-ttf
-  - application/x-font-opentype
-  - application/vnd.ms-fontobject
-  - application/x-font-woff
-  - application/x-font-woff2
-  - application/x-font-truetype
-  - application/x-font-ttf
-  - application/x-font-opentype
-  - application/vnd.ms-fontobject
-  - application/x-font-woff
-  - application/x-font-woff2
-  - application/x-font-truetype
-  - application/x-font-ttf
-  - application/x-font-opentype
-  - application/vnd.ms-fontobject
-  - application/x-font-woff
-  - application/x-font-woff2
-  - application/x-font-truetype
-  - application/x-font-ttf
-  - application/x-font-opentype
-  - application/vnd.ms-fontobject
-  - application/x-font-woff
-  - application/x-font-woff2
+  pages: /:title/
+  section: /:section/
+  taxonomies: /:section/:slug/
+  year: /:year/
+  month: /:year/:month/
+  day: /:year/:month/:day/
+  tag: /tag/:slug/
+  category: /categoria/:slug/
+
 markup:
   goldmark:
     extensions:
@@ -101,30 +48,35 @@ markup:
 resourceDir: resources
 DefaultContentLanguage: es
 SectionPagesMenu: main
-Paginate: 10
-googleAnalytics: ''
+Paginate: 5
+googleAnalytics: 'G-2HWJP3HCNE'
 languages:
   es:
     title: El Claustro
     weight: 1
     contentDir: content
+    imageDir: content/wp-content/uploads
 sitemap:
-  changefreq: monthly
+  changefreq: weekly
   priority: 0.5
   filename: sitemap.xml
 params:
+  body_classes: 'avenir bg-near-black light-gray tj'
   AuthorName: Nicolas Georger
   GitHubUser: ngeorger
   SidebarRecentLimit: 5
-  Subtitle: Cultura Dark, Gótica y Alternativa
-  text_color: ''
-  author: ''
+  SiteTitle: El Claustro
+  Subtitle: Difundimos Cultura Dark, Gótica y Alternativa
+  author: 'Nicolas Georger'
   favicon: 'favicon.ico'
   site_logo: 'logo.png'
-  description: Cultura Dark, Gótica y Alternativa
-  background_color_class: bg-black
-  recent_posts_number: 10
-
+  description: Difundimos Cultura Dark, Gótica y Alternativa
+  show_sidebar: false
+  show_reading_time: true
+  recent_posts_number: 4
+  recent_posts_title: Recientes
+  recent_posts_show_date: false
+  breadcrumbs: true
   ananke_socials:
     - name: instagram
       url: 'https://www.instagram.com/elclaustrocl'
@@ -133,7 +85,9 @@ params:
     - name: facebook
       url: 'https://www.facebook.com/elclaustrocl'
     - name: twitter
-      url: 'https://www.twitter.com/elclaustrocl'
+      url: 'https://www.twitter.com/elclaustro'
     - name: github
       url: 'https://www.github.com/sredevopsdev/elclaustro'
+    - name: rss
+      url: 'https://gh.elclaustro.cl/index.xml'
 

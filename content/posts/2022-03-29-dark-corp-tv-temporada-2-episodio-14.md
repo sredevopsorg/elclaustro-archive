@@ -8,7 +8,6 @@ featured_image: /wp-content/uploads/2022/03/277555545_509345807550929_4471107181
 categories:
   - Noticias
 tags:
-  - Entrevistas
   - chile
   - goth
   - gótico
