@@ -7,14 +7,14 @@ excerpt: Selección de música del darkeo que solía poner en Release the Bats, 
   Bal le Duc, Teatro de Sombras y otros tantos eventos o antros en los que
   bailábamos con las manitos y desatábamos la pena gótica.
 url: /dj-niennor-setlist-gothic-rock-darkwave-deathrock-post-punk/
-featured_image: /wp-content/rtb1.jpeg
+image: /wp-content/rtb1.jpeg
 categories:
   - Discos, Videos y Playlists
   - Repositorio y archivo del Underground
 tags:
   - niennor
   - release the bats
-lastmod: 2023-01-04T20:08:56.527Z
+lastmod: 2023-01-05T11:36:12.108Z
 description: |-
   Selección de música del darkeo que solía poner en Release the Bats, Blondie,
     Bal le Duc, Teatro de Sombras y otros tantos eventos o antros.

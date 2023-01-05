@@ -4,11 +4,11 @@ author: Niennor
 type: post
 date: 2021-05-12T00:01:33+00:00
 url: /binzatina-anestesia/
-featured_image: /wp-content/uploads/2021/05/binzatina.jpeg
+image: /wp-content/uploads/2021/05/binzatina.jpeg
 categories:
   - Discos, Videos y Playlists
   - Repositorio y archivo del Underground
-lastmod: 2023-01-04T22:45:52.970Z
+lastmod: 2023-01-05T11:36:12.095Z
 excerpt: "El álbum Anestesia de Binzatina es tan potente como emotivo, guitarras
   simples, elegantes y una *drum machine* que hace las veces de andamiaje que
   sostiene melodías que tienen una gracia que sólo existen cuando hay talento,

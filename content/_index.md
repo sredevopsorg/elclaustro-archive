@@ -1,11 +1,4 @@
 ---
-title: Inicio
-description: Cultura Dark, Gótica y Alternativa
-type: page
-featured_image: ""
-omit_header_text: true
-menu:
-  main:
-    weight: 1
+title: El Claustro
+lastmod: 2023-01-05T11:39:55.038Z
 ---
-

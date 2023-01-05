@@ -2,8 +2,8 @@
 title: Discos, Videos y Playlists
 type: page
 description: Discos, Videos y Playlists
-featured_image: ""
+image: ""
 omit_header_text: true
-lastmod: 2023-01-04T20:08:59.790Z
+lastmod: 2023-01-05T11:36:12.092Z
 author: Niennor
 ---

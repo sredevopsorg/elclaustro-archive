@@ -4,7 +4,7 @@ author: Niennor
 type: page
 date: 2011-09-05T04:42:23+00:00
 url: /entrevista-a-christian-death/
-featured_image: /wp-content/uploads/Screenshot-2022-11-20-at-14.42.47.jpeg
+image: /wp-content/uploads/Screenshot-2022-11-20-at-14.42.47.jpeg
 tumblr_elclaustro-blog_permalink:
   - https://elclaustro-blog.tumblr.com/post/9822367176/entrevista-a-christian-death
 tumblr_elclaustro-blog_id:
@@ -15,6 +15,7 @@ categories:
 tags:
   - Christian Death
   - Entrevistas
+lastmod: 2023-01-05T11:36:12.125Z
 ---
   <p>
     Luego de varios mensajes de ida y vuelta entre los cuasi legendarios y no poco polémicos Christian Death y El Claustro, accedieron gustosamente a brindarle una entrevista a nuestro amigo y corresponsal en España, Vladimir Muñoz luego de su presentación en Barcelona junto a Ava Inferi.

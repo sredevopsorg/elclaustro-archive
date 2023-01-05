@@ -1,12 +1,10 @@
 ---
 title: Contacto
-featured_image: ''
+image: ""
 omit_header_text: true
 description: Queremos integrar e integrarnos, escríbenos.
 type: page
-menu:
-  main:
-    weight: 4
+lastmod: 2023-01-05T09:48:40.813Z
 ---
 ## Queremos integrar e integrarnos, escríbenos
 

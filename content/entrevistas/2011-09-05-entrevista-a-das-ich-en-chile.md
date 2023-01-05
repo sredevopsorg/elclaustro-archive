@@ -4,7 +4,7 @@ author: Amadeus
 type: page
 date: 2011-09-05T04:55:15+00:00
 url: /entrevista-a-das-ich-en-chile/
-featured_image: /wp-content/uploads/unnamed-file.jpeg
+image: /wp-content/uploads/unnamed-file.jpeg
 categories:
   - Destacados
   - Entrevistas
@@ -14,6 +14,7 @@ tags:
   - Das Ich
   - Entrevistas
 format: video
+lastmod: 2023-01-05T11:36:12.121Z
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DzxLqGIUJeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

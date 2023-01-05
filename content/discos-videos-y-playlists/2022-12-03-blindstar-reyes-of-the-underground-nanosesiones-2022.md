@@ -12,13 +12,14 @@ excerpt: >
 
   Todo el material, producción., creación y amor que hay, es propiio de BlindStar y/o  @nanosesiones48 , no pertenece ni es idea de  @elclaustrocl ​
 url: /blindstar-reyes-of-the-underground-nanosesiones-2022/
-featured_image: /wp-content/uploads/Untitled-scaled.webp
+image: /wp-content/uploads/Untitled-scaled.webp
 origin:
   - https://youtu.be/L3r5cW6glSM
 categories:
   - Destacados
   - Discos, Videos y Playlists
   - Repositorio y archivo del Underground
+lastmod: 2023-01-05T11:36:12.115Z
 ---
 {{< youtube id="L3r5cW6glSM" title="BlindStar – Reyes of the Underground (nanosesiones, 2022)" >}}
 

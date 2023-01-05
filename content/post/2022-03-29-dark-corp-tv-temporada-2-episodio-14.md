@@ -4,13 +4,14 @@ author: Niennor
 type: post
 date: 2022-03-29T16:06:47+00:00
 url: /dark-corp-tv-temporada-2-episodio-14/
-featured_image: /wp-content/uploads/2022/03/277555545_509345807550929_4471107181600591093_n.jpg
+image: /wp-content/uploads/2022/03/277555545_509345807550929_4471107181600591093_n.jpg
 categories:
   - Noticias
 tags:
   - chile
   - goth
   - gótico
+lastmod: 2023-01-05T09:48:40.822Z
 ---
  
 

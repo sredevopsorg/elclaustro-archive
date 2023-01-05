@@ -1,10 +1,10 @@
 ---
-title: "Génesis de un Sueño Oscuro -la historia de la música gotica-"
+title: Génesis de un Sueño Oscuro -la historia de la música gotica-
 author: Niennor
 type: post
 date: 2011-09-05T20:29:00+00:00
 # url: /genesis-de-un-sueno-oscuro-o-la-historia-de-la-musica-go/
-featured_image: /wp-content/uploads/web-salvador-santiago-chile-10-paz-cc-by-nc-sa-2.0.webp
+image: /wp-content/uploads/web-salvador-santiago-chile-10-paz-cc-by-nc-sa-2.0.webp
 tumblr_elclaustro-blog_permalink:
   - https://elclaustro-blog.tumblr.com/post/9847153996/genesis-de-un-sueno-oscuro-o-la-historia-de-la-musica-go
 tumblr_elclaustro-blog_id:
@@ -19,6 +19,7 @@ tags:
   - gótico
   - Post Punk
 slug: genesis-de-sueno-oscuro-la-historia-de-la-musica-gotica
+lastmod: 2023-01-05T09:48:40.819Z
 ---
 _<span class="post-date right">Publicado originalmente el 15 de diciembre del 2006, como una adaptación libre del artículo de Wikipedia en inglés sobre la música gotica o el rock gotico.</span>_
 

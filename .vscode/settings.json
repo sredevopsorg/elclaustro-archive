@@ -1,16 +1,31 @@
 {
-    "[markdown]": {
-        "editor.fontSize": 14,
-        "editor.lineHeight": 26,
-        "editor.lineNumbers": "on",
-        "editor.quickSuggestions": {
-            "comments": "on",
-            "strings": "on",
-            "other": "on"
-        },
-        "editor.minimap.enabled": true
-    },
-    "frontMatter.preview.host": "http://localhost:1313",
-    "frontMatter.content.autoUpdateDate": true,
-    "frontMatter.dashboard.openOnStart": true
+    "frontMatter.taxonomy.tags": [
+        "Argentina",
+        "Brasil",
+        "Coleman",
+        "Darkwave",
+        "En Vivo",
+        "Fields of the Nephilim",
+        "Fricción",
+        "Gothic Rock",
+        "Gustavo Cerati",
+        "Peter Murphy",
+        "Post Punk",
+        "The Mission UK",
+        "chile",
+        "development",
+        "go",
+        "golang",
+        "goth",
+        "gótico",
+        "hugo"
+    ],
+    "frontMatter.taxonomy.categories": [
+        "Columnas",
+        "Destacados",
+        "Development",
+        "Noticias",
+        "Repositorio y archivo del Underground",
+        "golang"
+    ]
 }

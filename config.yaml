@@ -1,30 +1,19 @@
-# THis is the Main Hugo Configuration File.
-# For more information, please see https://gohugo.io/getting-started/configuration/
-baseURL: 'https://elclaustro.cl/'
-languageCode: es-es
+
+baseurl: 'https://elclaustro.cl/'
 title: El Claustro
-theme: ananke2
-url: https://elclaustro.cl
-name: El Claustro
-description: Cultura Dark, Gótica y Alternativa
+theme: newsroom
+# author: Weru
+copyright: 'Copyleft.'
+canonifyurls: true
 paginate: 10
-enableRobotsTXT: true
-defaultContentLanguage: es
-enableGitInfo: true
-enableInlineShortcodes: true
-permalinks:
-  posts: /categoria/:title/
-  pages: /:title/
-  section: /:section/:title/
-  taxonomies: /:slug/
-  year: /:year/
-  month: /:year/:month/
-  day: /:year/:month/:day/
-  tag: /tag/:slug/
-  category: /categoria/:slug/
+
 
 markup:
   goldmark:
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: true
     extensions:
       definitionList: true
       footnote: true
@@ -36,59 +25,97 @@ markup:
       typographer: true
     parser:
       attribute:
-        block: true
+        block: false
         title: true
-      autoHeadingID: false
+      autoHeadingID: true
       autoHeadingIDType: github
       wrapStandAloneImageWithinParagraph: true
-    renderer:
-      hardWraps: false
-      unsafe: true
-      xhtml: true
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    hl_Lines: ''
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: false
+    noClasses: false
+    tabWidth: 2
+    disqusShortname: yourdiscussshortname
+# params:
+# # THis is the Main Hugo Configuration File.
+# # For more information, please see https://gohugo.io/getting-started/configuration/
+baseURL: 'https://elclaustro.cl/'
+languageCode: es-es
+url: https://elclaustro.cl
+name: El Claustro
+description: Cultura Dark, Gótica y Alternativa
+enableRobotsTXT: true
+defaultContentLanguage: es
+enableGitInfo: true
+enableInlineShortcodes: true
+permalinks:
+  posts: /:title/
+  pages: /:title/
+  section: /:section/
+  taxonomies: /:section/:slug/
+  year: /:year/
+  month: /:year/:month/
+  day: /:year/:month/:day/
+  tag: /tag/:slug/
+  category: /categoria/:slug/
+
 resourceDir: resources
 DefaultContentLanguage: es
 SectionPagesMenu: main
 Paginate: 10
-googleAnalytics: 'UA-1838316-1'
-languages:
-  es:
-    title: El Claustro
-    weight: 1
-    contentDir: content
-    imageDir: static/wp-content/
-    languageName: Castellano
-
+# googleAnalytics: 'UA-1838316-1'
 sitemap:
   changefreq: weekly
   priority: 0.5
   filename: sitemap.xml
 params:
-  body_classes: 'avenir bg-near-black light-gray'
-  text_color: 'light-gray'
-  AuthorName: 'Nicolás Georger'
+#   body_classes: 'avenir bg-near-black light-gray'
+#   text_color: 'light-gray'
+  AuthorName: Nicolas Georger
   GitHubUser: ngeorger
-  SiteTitle: 'El Claustro'
-  Subtitle: 'Difundimos Cultura Dark, Gótica y Alternativa'
-  author: 'Nicolás G.'
-  favicon: '/wp-content/favicon.ico'
-  site_logo: '/wp-content/logo.png'
-  description: 'Difundimos Cultura Dark, Gótica y Alternativa'
-  show_sidebar: true
-  show_reading_time: true
-  recent_posts_number: 2
-  recent_posts_title: ''
-  recent_posts_show_date: false
-  breadcrumbs: true
-  ananke_socials:
-    - name: instagram
-      url: 'https://www.instagram.com/elclaustrocl'
-    - name: youtube
-      url: 'https://www.youtube.com/@elclaustrocl'
-    - name: facebook
-      url: 'https://www.facebook.com/elclaustrocl'
-    - name: twitter
-      url: 'https://www.twitter.com/elclaustro'
-    - name: github
-      url: 'https://www.github.com/sredevopsdev/elclaustro'
-    - name: rss
-      url: 'https://elclaustro.cl/index.xml'
+  SiteTitle: El Claustro
+  Subtitle: Difundimos Cultura Dark, Gótica y Alternativa
+  author: 'Nicolas Georger'
+  favicon: 'favicon.ico'
+  site_logo: 'logo.png'
+  description: Difundimos Cultura Dark, Gótica y Alternativa
+#   show_sidebar: false
+#   show_reading_time: true
+#   recent_posts_number: 4
+#   recent_posts_title: Recientes
+#   recent_posts_show_date: false
+#   breadcrumbs: true
+  locale: es-es
+  keywords: 'El Claustro'
+  ga_analytics: 'UA-1838316-1'
+#   ga_verify: ''
+  instagram: 'elclaustrocl'
+  twitter: 'elclaustro'
+  twitter_card: 'summary'
+  twitter_creator: 'elclaustro'
+
+  # mainSections:
+  #   - blog
+  #   - noticias
+  #   - posts
+
+    # - docs
+  disableDarkMode: false
+
+#   ananke_socials:
+#     - name: instagram
+#       url: 'https://www.instagram.com/elclaustrocl'
+#     - name: youtube
+#       url: 'https://www.youtube.com/@elclaustrocl'
+#     - name: facebook
+#       url: 'https://www.facebook.com/elclaustrocl'
+#     - name: twitter
+#       url: 'https://www.twitter.com/elclaustro'
+#     - name: github
+#       url: 'https://www.github.com/sredevopsdev/elclaustro'
+#     - name: rss
+#       url: 'https://elclaustro.cl/index.xml'

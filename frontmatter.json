@@ -1,7 +1,5 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
-  "frontMatter.git.enabled": true,
-  "frontMatter.git.commitMessage": "Front Matter: Update [[file]]",
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -9,174 +7,55 @@
       "previewPath": null,
       "fields": [
         {
-          "title": "title",
+          "title": "Title",
           "name": "title",
           "type": "string"
         },
         {
-          "title": "author",
-          "name": "author",
-          "type": "string"
-        },
-        {
-          "title": "type",
-          "name": "type",
-          "taxonomyId": "contentTypes",
-          "type": "taxonomy"
-        },
-        {
-          "title": "date",
-          "name": "date",
-          "type": "datetime"
-        },
-        {
-          "title": "excerpt",
-          "name": "excerpt",
-          "type": "string"
-        },
-        {
-          "title": "url",
-          "name": "url",
-          "type": "string"
-        },
-        {
-          "title": "featured_image",
-          "name": "featured_image",
-          "type": "string"
-        },
-        {
-          "title": "categories",
-          "name": "categories",
-          "type": "categories"
-        },
-        {
-          "title": "tags",
-          "name": "tags",
-          "type": "tags"
-        },
-        {
-          "title": "lastmod",
-          "name": "lastmod",
-          "type": "datetime"
-        },
-        {
-          "title": "description",
+          "title": "Description",
           "name": "description",
           "type": "string"
         },
         {
-          "title": "preview",
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
           "name": "preview",
-          "type": "string"
+          "type": "image"
         },
         {
-          "title": "menu",
-          "name": "menu",
-          "type": "fields",
-          "fields": [
-            {
-              "title": "main",
-              "name": "main",
-              "type": "fields",
-              "fields": [
-                {
-                  "title": "weight",
-                  "name": "weight",
-                  "type": "number"
-                }
-              ]
-            }
-          ]
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
         },
         {
-          "title": "omit_header_text",
-          "name": "omit_header_text",
-          "type": "boolean"
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
         }
       ]
     }
   ],
   "frontMatter.framework.id": "hugo",
   "frontMatter.content.publicFolder": "static",
-  "frontMatter.taxonomy.categories": [
-    "Columnas",
-    "Destacados",
-    "Discos, Videos y Playlists",
-    "Entrevistas",
-    "Noticias"
-    ],
-  "frontMatter.taxonomy.tags": [
-    "Alemania",
-    "Argentina",
-    "Binzatina",
-    "Brasil",
-    "Cerro Santa Lucía",
-    "Christian Death",
-    "Coleman",
-    "Darkwave",
-    "Das Ich",
-    "Deadchovsky",
-    "Deathrock",
-    "Discos Completos",
-    "En Vivo",
-    "Entrevistas",
-    "España",
-    "Fields of the Nephilim",
-    "Francia",
-    "Fricción",
-    "Gothic Rock",
-    "Gustavo Cerati",
-    "Paralitikos",
-    "Peter Murphy",
-    "Post Punk",
-    "Santander",
-    "The Mission UK",
-    "archivo",
-    "bandas",
-    "chile",
-    "dark",
-    "discografía",
-    "dj",
-    "goth",
-    "gótico",
-    "niennor",
-    "release the bats",
-    "repositorio",
-    "underground"
-  ],
   "frontMatter.content.pageFolders": [
     {
-      "title": "columnas",
-      "path": "[[workspace]]/content/columnas"
+      "title": "content",
+      "path": "[[workspace]]/content"
     },
     {
-      "title": "entrevistas",
-      "path": "[[workspace]]/content/entrevistas"
-    },
-    {
-      "title": "discos-videos-y-playlists",
-      "path": "[[workspace]]/content/discos-videos-y-playlists"
-    },
-    {
-      "title": "noticias",
-      "path": "[[workspace]]/content/noticias"
-    },
-    {
-      "title": "destacados",
-      "path": "[[workspace]]/content",
-      "excludeSubdir": true
+      "title": "post",
+      "path": "[[workspace]]/content/post"
     }
-  ],
-  "frontMatter.content.snippets": {
-    "Spotify": {
-      "description": "Code Embed",
-      "body": "{{< spotify type=\"album\" id=\"\" >}}",
-      "fields": []
-    },
-    "Youtube": {
-      "description": "Code Embed",
-      "body": "{{< youtube id=\"\" title=\"\" >}}",
-      "fields": []
-    }
-  }
+  ]
 }
