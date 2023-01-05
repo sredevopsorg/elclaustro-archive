@@ -1,5 +1,5 @@
 ---
-title: 'No estaba muerto, andaba de gira: Peter Murphy en Chile'
+title: "No estaba muerto, andaba de gira: Peter Murphy en Chile"
 author: Niennor
 type: post
 date: 2011-09-05T08:37:00+00:00
@@ -10,12 +10,11 @@ tumblr_elclaustro-blog_id:
   - 9822183465
 categories:
   - Noticias
-  - Sin categoría
+  - Repositorio y archivo del Underground
 tags:
   - chile
   - En Vivo
   - Peter Murphy
-
 ---
 <img decoding="async" src="https://64.media.tumblr.com/tumblr_lr18sggExI1r04xdq.jpg" />Escrito por Malinconia el Miércoles, 18 Febrero 2009, foto por ElBeso.cl 
 

@@ -1,21 +1,34 @@
 ---
-title: "Label & Promotion"
+title: Label & Promotion
 description: "El Claustro: Label & Promotion"
-featured_image: ''
-type: "page"
+featured_image: ""
+type: page
 menu:
   main:
     weight: 3
+slug: label-and-promotion
+date: 2023-01-04T21:22:50.826Z
+excerpt: Nuestro label tiene como objetivo disponibilizar en plataformas de streaming
+  el mayor catálogo de bandas y discos de la escena oscura, gótica, dark, etc.
+  de Chile y Latinoamérica.
+author: ngeorger
 ---
 ![Logo El Claustro](https://github.com/sredevopsdev/elclaustro/raw/main/content/wp-content/uploads/2020/08/cropped-banner-light-333x111.png)
 
 Nuestro label tiene como objetivo disponibilizar en plataformas de streaming el mayor catálogo de bandas y discos de la escena oscura, gótica, dark, etc. de Chile y Latinoamérica. Para ello, utilizamos la [plataforma Boost Collective](https://platform.boost-collective.com/), la cual nos permite distribuir el contenido que hoy no existe en plataformas de streaming (Spotify, Apple Music, Tidal, Youtube, etc) o simplemente se ha perdido en los vaivenes del tiempo, generando la pérdida de mucho material de calidad, que merece ser disfrutado por las nuevas generaciones y por el público en general de manera fácil y simple.
 
-### Cómo puedo publicar mi música?
+## Cómo puedo publicar mi música?
 
-Para publicar tu música en El Claustro: Label & Promotion, debes enviar un correo a info@elclaustro.cl para que podamos coordinar la publicación de tu material. Nuestro catálogo busca tener licencias Creative Commons o similares, por lo que si tu música no tiene licencia, debes enviarla con una licencia Creative Commons o similar.
-No perseguimos fines lucrativos, por lo que no cobramos por la publicación de tu música.
+Para publicar tu música en **El Claustro: Label & Promotion**, debes enviar un correo a info@elclaustro.cl para que podamos coordinar la publicación de tu material. Nuestro catálogo busca tener licencias Creative Commons o similares, ya que creemos en la creación abierta, colectiva y que respete las atribuciones de sus creadores.
 
-### Catálogo
+No perseguimos fines lucrativos, por lo que no cobramos por la publicación de tu música, nuestro propósito es generar un legado cultural e identitario, que permita a las nuevas generaciones conocer y disfrutar la música que amamos.
 
-<table class="table"><thead><tr><th tabindex="0" aria-label="Album Name sortable" class="sortable">Nombre Lanzamiento<span class="order"><span class="dropdown"><span class="caret"></span></span><span class="dropup"><span class="caret"></span></span></span></th><th tabindex="0">Artista</th><th tabindex="0" aria-label="Catalog sortable" class="sortable" style="width: 175px;">ID Catálogo<span class="order"><span class="dropdown"><span class="caret"></span></span><span class="dropup"><span class="caret"></span></span></span></th></tr></thead><tbody><tr><td><div class="flexContainer"><img src="https://boostcollectiveprod.s3.amazonaws.com/media/__sized__/direct/release_artwork/3dda4731f7224d7885d315ec502d9cac_convulsionesjpg-thumbnail-150x150-70.jpg?AWSAccessKeyId=AKIAX3HIZXU5HPVXNJ54&amp;Signature=SgkOoagJAeUf2vWdIpKgDTHTFtM%3D&amp;Expires=1672816649" alt="El Último Minuto" style="width: 50px; height: 50px;"><p class="fontWeight660">El Último Minuto</p></div></td><td><p class="fontWeight700">Convulsiones</p></td><td>ELCLAUSTRO001</td></tr><tr><td><div class="flexContainer"><img src="https://boostcollectiveprod.s3.amazonaws.com/media/__sized__/direct/release_artwork/b27075a911994bd1a34db4d16a9ab3bb_coverjpg-thumbnail-150x150-70.jpg?AWSAccessKeyId=AKIAX3HIZXU5HPVXNJ54&amp;Signature=Yim6DP2Bd%2Ba0Sdl4tmgmCF0Des0%3D&amp;Expires=1672816649" alt="This Abyss in your Arms" style="width: 50px; height: 50px;"><p class="fontWeight660">This Abyss in your Arms</p></div></td><td><p class="fontWeight700">Xianotic</p></td><td>ELCLAUSTRO005</td></tr><tr><td><div class="flexContainer"><img src="https://boostcollectiveprod.s3.amazonaws.com/media/__sized__/direct/release_artwork/c0591643fb5349f6bb613c55da6fa35e_01-copia_rojojpg-thumbnail-150x150-70.jpg?AWSAccessKeyId=AKIAX3HIZXU5HPVXNJ54&amp;Signature=l9tZQGs%2Fc9XZVNpGcTKne4RsYwU%3D&amp;Expires=1672816649" alt="Convulsiones" style="width: 50px; height: 50px;"><p class="fontWeight660">Convulsiones</p></div></td><td><p class="fontWeight700">Convulsiones</p></td><td>ELCLAUSTRO002</td></tr><tr><td><div class="flexContainer"><img src="https://boostcollectiveprod.s3.amazonaws.com/media/__sized__/direct/release_artwork/782ecbc85bc340f881cd9b4a6c16e90f_coverjpg-thumbnail-150x150-70.jpg?AWSAccessKeyId=AKIAX3HIZXU5HPVXNJ54&amp;Signature=jYFJr9Oz7uaD7IbD0ojlxAHgy4U%3D&amp;Expires=1672816649" alt="Craving" style="width: 50px; height: 50px;"><p class="fontWeight660">Craving</p></div></td><td><p class="fontWeight700">Denébola</p></td><td>ELCLAUSTRO004</td></tr><tr><td><div class="flexContainer"><img src="https://boostcollectiveprod.s3.amazonaws.com/media/__sized__/direct/release_artwork/ef47b7ae4d3d4a65a1af3031433eaaea_coverjpg-thumbnail-150x150-70.jpg?AWSAccessKeyId=AKIAX3HIZXU5HPVXNJ54&amp;Signature=t%2Bx8g6JOb%2FP3HI72EdM40w9wpL8%3D&amp;Expires=1672816649" alt="Burn!" style="width: 50px; height: 50px;"><p class="fontWeight660">Burn!</p></div></td><td><p class="fontWeight700">Insider</p></td><td>ELCLAUSTRO666</td></tr></tbody></table>
+## Catálogo
+
+| Nombre  | Artista | Tipo  | Distribución | Link | Carátula |
+|---|---|---|---|---|---|
+| This Abyss in your Arms | Xianotic | Single | OK | - | - |
+| El Último Minuto | Convulsiones | Single | OK | [Spotify](https://open.spotify.com/track/5R7fCx89TRSsJ0lK1TPPX2?si=f477ba95f7d84e9e) | ![](/wp-content/uploads/2021/05/f1caae1b6dde55456d37ae9cb022a267.jpg) |
+| Craving | Denébola | Album | OK | - | - |
+| Convulsiones | Convulsiones | Album | OK | - | ![](/wp-content/uploads/2021/05/f1caae1b6dde55456d37ae9cb022a267.jpg) |
+| Burn! | Insider | Album | Pendiente | - | ![](/wp-content/uploads/2021/05/ins-666x666.jpeg) |

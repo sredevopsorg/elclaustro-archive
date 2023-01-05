@@ -10,10 +10,9 @@ tumblr_elclaustro-blog_id:
   - 17557931799
 categories:
   - Noticias
-  - Sin categoría
+  - Repositorio y archivo del Underground
 tags:
   - Fields of the Nephilim
-
 ---
 <img decoding="async" align="left" src="http://www.fields-of-the-nephilim.com/files/stacks_image_336_1.png" />La legendaria banda Fields of the Nephilim acaba de revelar el primer track de su próximo album &ldquo;Ceremonies&rdquo;, disco que muestra una faceta más cargada al metal y sonidos más extremos.
 

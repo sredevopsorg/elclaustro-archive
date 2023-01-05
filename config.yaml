@@ -13,10 +13,10 @@ defaultContentLanguage: es
 enableGitInfo: true
 enableInlineShortcodes: true
 permalinks:
-  posts: /:title/
+  posts: /categoria/:title/
   pages: /:title/
-  section: /:section/
-  taxonomies: /:section/:slug/
+  section: /:section/:title/
+  taxonomies: /:slug/
   year: /:year/
   month: /:year/:month/
   day: /:year/:month/:day/
@@ -36,9 +36,9 @@ markup:
       typographer: true
     parser:
       attribute:
-        block: false
+        block: true
         title: true
-      autoHeadingID: true
+      autoHeadingID: false
       autoHeadingIDType: github
       wrapStandAloneImageWithinParagraph: true
     renderer:
@@ -55,7 +55,9 @@ languages:
     title: El Claustro
     weight: 1
     contentDir: content
-    imageDir: content/wp-content/uploads
+    imageDir: static/wp-content/
+    languageName: Castellano
+
 sitemap:
   changefreq: weekly
   priority: 0.5
@@ -63,18 +65,18 @@ sitemap:
 params:
   body_classes: 'avenir bg-near-black light-gray'
   text_color: 'light-gray'
-  AuthorName: Nicolas Georger
+  AuthorName: 'Nicolás Georger'
   GitHubUser: ngeorger
-  SiteTitle: El Claustro
-  Subtitle: Difundimos Cultura Dark, Gótica y Alternativa
-  author: 'Nicolas Georger'
-  favicon: 'favicon.ico'
-  site_logo: 'logo.png'
-  description: Difundimos Cultura Dark, Gótica y Alternativa
-  show_sidebar: false
+  SiteTitle: 'El Claustro'
+  Subtitle: 'Difundimos Cultura Dark, Gótica y Alternativa'
+  author: 'Nicolás G.'
+  favicon: '/wp-content/favicon.ico'
+  site_logo: '/wp-content/logo.png'
+  description: 'Difundimos Cultura Dark, Gótica y Alternativa'
+  show_sidebar: true
   show_reading_time: true
-  recent_posts_number: 4
-  recent_posts_title: Recientes
+  recent_posts_number: 2
+  recent_posts_title: ''
   recent_posts_show_date: false
   breadcrumbs: true
   ananke_socials:
@@ -90,4 +92,3 @@ params:
       url: 'https://www.github.com/sredevopsdev/elclaustro'
     - name: rss
       url: 'https://elclaustro.cl/index.xml'
-

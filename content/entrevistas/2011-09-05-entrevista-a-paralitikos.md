@@ -10,23 +10,21 @@ tumblr_elclaustro-blog_id:
   - 9821616453
 categories:
   - Entrevistas
-  - Sin categoría
+  - Repositorio y archivo del Underground
 tags:
   - Entrevistas
   - España
   - Paralitikos
   - Santander
-
+lastmod: 2023-01-04T19:01:59.971Z
 ---
 Es un placer y un honor poder presentar esta entrevista a Paralítikos, una de las bandas afterpunk mas destacadas de España. En esta ocasión nos han respondido entusiasmadamente a las preguntas Ricardo, Kike, Elizia y Carmelo, quienes conforman la banda en la actualidad.
 
 Entrevista por Niennor Georger
 
-<figure class="tmblr-full" data-orig-height="299" data-orig-width="400"><img decoding="async" src="https://64.media.tumblr.com/7f97d297f78c84f6e0f22dd31acfc601/90616573c4dc6ef3-ee/s540x810/c01644fecc8ce602a965ae48e97df32939ae280c.jpg" data-orig-height="299" data-orig-width="400" /></figure> 
+<img decoding="async" src="https://64.media.tumblr.com/7f97d297f78c84f6e0f22dd31acfc601/90616573c4dc6ef3-ee/s540x810/c01644fecc8ce602a965ae48e97df32939ae280c.jpg" data-orig-height="299" data-orig-width="400" />
 
-<!-- more -->
-
-**1.- Ã‚Â¡Saludos!, primero que todo muchas gracias por darte el tiempo de contestar a nuestras preguntas. Dentro de la escena oscura en general se está sintiendo poco a poco como la escena oscura tiende a volver a sus raíces (post punk, deathrock, etc). Ã‚Â¿Ustedes se sienten parte de esta idea de volver a lo original, volver a sentir ese encantamiento curioso con la música?**
+**1.- ‚¡Saludos!, primero que todo muchas gracias por darte el tiempo de contestar a nuestras preguntas. Dentro de la escena oscura en general se está sintiendo poco a poco como la escena oscura tiende a volver a sus raíces (post punk, deathrock, etc). ‚¿Ustedes se sienten parte de esta idea de volver a lo original, volver a sentir ese encantamiento curioso con la música?**
 
 Ricardo.- En realidad nunca hemos abandonado el criterio Afterpunk con el que empezamos. Es obvio que no hemos cambiado de estilo y tampoco nos subimos al carro de la música comercial pues creo que mermaría nuestra capacidad expresiva, es decir, el &ldquo;feeling&rdquo; de la banda.
 
@@ -36,7 +34,7 @@ Es verdad que sí ha evolucionado el sonido de la banda ya que son muchos años 
 
 Por ello, me alegra especialmente este resurgimiento del Afterpunk y además espero que ello &ldquo;limpie&rdquo; en parte esa imagen que en los últimos tiempos se ha formado de los &ldquo;góticos&rdquo; como una especie de &ldquo;heavies light&rdquo; o &ldquo;bakaladeros&rdquo;.
 
-**2.– Siempre que se nombra a Paralítikos es casi inevitable que la gente los relacione con Parálisis Permanente, pese a vuestra vasta trayectoria. Ã‚Â¿Eso les molesta, les agrada, les da lo mismo?**
+**2.– Siempre que se nombra a Paralítikos es casi inevitable que la gente los relacione con Parálisis Permanente, pese a vuestra vasta trayectoria. ‚¿Eso les molesta, les agrada, les da lo mismo?**
 
 Elizia.- A mí no me resulta desagradable en absoluto que nos relacionen con Parálisis Permanente, puesto que ellos han sido un grupo que nos ha influenciado, al menos a mí siempre me han encantado y he sentido una especial admiración por Ana Curra.
 
@@ -52,7 +50,7 @@ R.- Yo lo he oído tantas veces que ya me da igual. Y respecto a este tema de la
 
 Lo único tangible y común respecto a los dos grupos es la igual forma en que nos trato &ldquo;Mamá Decadencia&rdquo;.
 
-**3.- He tenido el placer de escuchar Recopilación de Resurrección pero aún no he podido escuchar Alas de Cuervo. Según ustedes Ã‚Â¿cuál es la mayor diferencia de ambos discos en cuanto a música y temáticas?**
+**3.- He tenido el placer de escuchar Recopilación de Resurrección pero aún no he podido escuchar Alas de Cuervo. Según ustedes ‚¿cuál es la mayor diferencia de ambos discos en cuanto a música y temáticas?**
 
 R.- Las temáticas son las mismas: asco, muerte, olvido, rencor… quizás sea más &ldquo;presentable&rdquo; socialmente pero me siguen dando arcadas el rebaño y su silencio.
 
@@ -66,7 +64,7 @@ Carmelo.- Por mi parte, yo aún no estaba en el grupo cuando se grabó &ldquo;Al
 
 E.- En el disco &ldquo;Alas de Cuervo&rdquo; aparecen más teclados y con más diferentes registros; hay más variedad. Aparecen violines, cello, etc… y en algunos temas el teclado lleva un peso fundamental como en &ldquo;Alas de Cuervo&rdquo; donde va a contratiempo.
 
-**4.- Ã‚Â¿Cómo ven el mundo actual? Ã‚Â¿Tienen alguna esperanza respecto a la idea de “futuro”?**
+**4.- ‚¿Cómo ven el mundo actual? ‚¿Tienen alguna esperanza respecto a la idea de “futuro”?**
 
 K.-Se van reduciendo cada vez las posibilidades de poder hacer algo distinto y a contracorriente de lo generalmente establecido. Nos proporcionan placeres insípidos a cambio de coartar nuestras ideas y limitar nuestras iniciativas. Y la gente se deja someter con total indolencia a este control… con ver su partido, beber sus cervezas o disfrutar de sus cuatro aparatos domésticos se dan por satisfechos.
 
@@ -78,23 +76,22 @@ Como teclista lo veo así. Luego, individualmente, el futuro creo que es inciert
 
 R.- Para mí el futuro es como una tela de araña, extenso y frágil, tramposo y cruel. Por el pasado ya nada se puede hacer pero con él se construye el futuro. Por éso me gustan tanto las arañas, dueñas absolutas de un submundo lúgubre y descarnado.
 
-**5.- Ã‚Â¿Tienen en mente más canciones para algún futuro disco?** 
+**5.- ‚¿Tienen en mente más canciones para algún futuro disco?** 
+‚¿Podrías contarnos cuál es el futuro que pretenden darle a la banda?
 
-Ã‚Â¿Podrías contarnos cuál es el futuro que pretenden darle a la banda?
-
-R.- Estamos construyendo lo que será la carpeta del tercer CD y va a estar en una línea más visceral que el anterior, con el toque antisocial de los primeros trabajos. Se titulará: &ldquo;Roma no paga traidores&rdquo; y se pueden dar por aludidos los hipócritas camaleones que cambian de chaqueta y de color Ã‚Â¡puag!
+R.- Estamos construyendo lo que será la carpeta del tercer CD y va a estar en una línea más visceral que el anterior, con el toque antisocial de los primeros trabajos. Se titulará: &ldquo;Roma no paga traidores&rdquo; y se pueden dar por aludidos los hipócritas camaleones que cambian de chaqueta y de color ‚¡puag!
 
 K.- Tenemos tres nuevos temas y seguimos trabajando en algunas ideas para ir sumando más con vistas a nuestro próximo CD.Por ahora, parece que el sonido de los mismos nos esta llevando a los primeros trabajos del grupo.
 
-**6.- Ã‚Â¿Qué relación podrías darle a las realidades individuales o grupales frente a las temáticas de las líricas de Paralitikos?**
+**6.- ‚¿Qué relación podrías darle a las realidades individuales o grupales frente a las temáticas de las líricas de Paralitikos?**
 
 R.- La relación es directa y es una conexión decadente con esta puta vida. Solo te tienes que fijar en el día a día de esta vida y conseguiras plasmar un relato espeluznante.
 
-**7.- Ã‚Â¿Tenéis algún proyecto artístico paralelo?**
+**7.- ‚¿Tenéis algún proyecto artístico paralelo?**
 
 K.- Aunque últimamente lo he dejado algo aparcado, tengo en mente seguir realizando mis cuadros. He participado en alguns exposiciones he incluso he encontrado algún comprador para mis cuadros pero no lo llevo de una forma profesional.
 
-**8.- Ã‚Â¿Conoces algo sobre la escena oscura chilena y latinoamericana?**
+**8.- ‚¿Conoces algo sobre la escena oscura chilena y latinoamericana?**
 
 K.- En cuanto a bandas chilenas, Luna in Caelo es la banda más conocida por aquí. En referencia al resto de Latinoamérica, las bandas de EBM provinientes de México gozan de gran aceptación en Europa: Hocico, Amducsia, etc… aunque a mí me gustaban más algunos de los temas de Caifanes.
 

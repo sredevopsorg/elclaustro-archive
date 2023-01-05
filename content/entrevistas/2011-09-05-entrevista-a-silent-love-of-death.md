@@ -10,10 +10,9 @@ tumblr_elclaustro-blog_id:
   - 9821879325
 categories:
   - Entrevistas
-  - Sin categoría
+  - Repositorio y archivo del Underground
 tags:
   - Entrevistas
-
 ---
 <img decoding="async" src="https://64.media.tumblr.com/tumblr_lr18eoo4661r04xdq.jpg" />
 

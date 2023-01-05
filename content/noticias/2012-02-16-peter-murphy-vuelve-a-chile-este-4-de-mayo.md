@@ -10,8 +10,7 @@ tumblr_elclaustro-blog_id:
   - 17711123936
 categories:
   - Noticias
-  - Sin categoría
-
+  - Repositorio y archivo del Underground
 ---
 <img decoding="async" loading="lazy" align="left" height="261" src="https://64.media.tumblr.com/tumblr_lzhph8vY8O1r04xdq.jpg" width="261" />Una de las voces más aclamadas de la música británica vuelve por segunda vez a Santiago este Viernes 4 de Mayo, enmarcado en la gira de presentación de su más reciente trabajo titulado &ldquo;Ninth&rdquo;.
 

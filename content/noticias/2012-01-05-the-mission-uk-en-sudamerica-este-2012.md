@@ -10,14 +10,13 @@ tumblr_elclaustro-blog_id:
   - 15327380488
 categories:
   - Noticias
-  - Sin categoría
+  - Repositorio y archivo del Underground
 tags:
   - Argentina
   - Brasil
   - chile
   - En Vivo
   - The Mission UK
-
 ---
 <figure class="tmblr-full" data-orig-height="333" data-orig-width="500"><img decoding="async" src="https://64.media.tumblr.com/fe48451b8edeb37efff160795ee45bef/785a715e1c2f3fca-7e/s540x810/0d39b42acd2adf0c0e6dab324a0e9fa9fa7188bc.jpg" data-orig-height="333" data-orig-width="500" /></figure> 
 

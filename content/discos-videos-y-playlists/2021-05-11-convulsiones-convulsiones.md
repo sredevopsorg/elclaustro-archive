@@ -12,8 +12,7 @@ site-content-layout:
 theme-transparent-header-meta:
   - default
 categories:
-  - Chile
-  - Discos Completos
+  - Discos, Videos y Playlists
   - Repositorio y archivo del Underground
 tags:
   - archivo

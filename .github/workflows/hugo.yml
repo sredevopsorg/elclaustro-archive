@@ -52,22 +52,24 @@ jobs:
         id: pages
         uses: actions/configure-pages@v2
       - name: Cache Node.js dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: |
-            node_modules
-            **/node_modules
+            themes/**/node_modules
+            themes/**/package-lock.json
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
         continue-on-error: true
       - name: Cache Hugo modules
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         continue-on-error: true
         with:
           path: |
             themes
             **/themes
+            content/**
+            public/**
           key: ${{ runner.os }}-hugo-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-hugo-
