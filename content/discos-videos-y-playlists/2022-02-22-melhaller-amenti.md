@@ -7,12 +7,12 @@ url: /melhaller-amenti/
 image: /wp-content/uploads/2022/02/a0751635646_10-920x613.jpg
 categories:
   - Discos, Videos y Playlists
-  - Repositorio y archivo del Underground
 tags:
   - goth
   - gótico
   - repositorio
-lastmod: 2023-01-05T11:36:12.119Z
+lastmod: 2023-01-05T13:16:36.036Z
+preview: /images/wp-content/uploads/2022/02/a0751635646_10.jpg
 ---
 
-{{< spotify type="album" id="5k8TdRdGaFlvelCikmpcdc" width="100%" height="80%" >}}
+{{< spotify type="album" id="5k8TdRdGaFlvelCikmpcdc" width="100%"  >}}
