@@ -13,7 +13,6 @@ theme-transparent-header-meta:
   - default
 categories:
   - Discos, Videos y Playlists
-  - Repositorio y archivo del Underground
 tags:
   - archivo
   - bandas

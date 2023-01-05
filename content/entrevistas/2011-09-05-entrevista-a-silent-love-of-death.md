@@ -9,8 +9,8 @@ tumblr_elclaustro-blog_permalink:
 tumblr_elclaustro-blog_id:
   - 9821879325
 categories:
+  - Discos, Videos y Playlists
   - Entrevistas
-  - Repositorio y archivo del Underground
 tags:
   - Entrevistas
 ---

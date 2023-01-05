@@ -9,7 +9,7 @@ excerpt: Nuestro label tiene como objetivo disponibilizar en plataformas de stre
   el mayor catálogo de bandas y discos de la escena oscura, gótica, dark, etc.
   de Chile y Latinoamérica.
 author: ngeorger
-lastmod: 2023-01-05T09:48:40.815Z
+lastmod: 2023-01-05T14:04:31.658Z
 ---
 
 Nuestro label tiene como objetivo disponibilizar en plataformas de streaming el mayor catálogo de bandas y discos de la escena oscura, gótica, dark, etc. de Chile y Latinoamérica. Para ello, utilizamos la [plataforma Boost Collective](https://platform.boost-collective.com/), la cual nos permite distribuir el contenido que hoy no existe en plataformas de streaming (Spotify, Apple Music, Tidal, Youtube, etc) o simplemente se ha perdido en los vaivenes del tiempo, generando la pérdida de mucho material de calidad, que merece ser disfrutado por las nuevas generaciones y por el público en general de manera fácil y simple.
@@ -25,7 +25,7 @@ No perseguimos fines lucrativos, por lo que no cobramos por la publicación de t
 | Nombre  | Artista | Tipo  | Distribución | Link | Carátula |
 |---|---|---|---|---|---|
 | This Abyss in your Arms | Xianotic | Single | OK | - | - |
-| El Último Minuto | Convulsiones | Single | OK | [Spotify](https://open.spotify.com/track/5R7fCx89TRSsJ0lK1TPPX2?si=f477ba95f7d84e9e) | ![](/wp-content/uploads/2021/05/f1caae1b6dde55456d37ae9cb022a267.jpg) |
+| El Último Minuto | Convulsiones | Single | OK | [Spotify](https://open.spotify.com/track/5R7fCx89TRSsJ0lK1TPPX2?si=f477ba95f7d84e9e) | - |
 | Craving | Denébola | Album | OK | - | - |
-| Convulsiones | Convulsiones | Album | OK | - | ![](/wp-content/uploads/2021/05/f1caae1b6dde55456d37ae9cb022a267.jpg) |
-| Burn! | Insider | Album | Pendiente | - | ![](/wp-content/uploads/2021/05/ins-666x666.jpeg) |
+| Convulsiones | Convulsiones | Album | OK | - | - |
+| Burn! | Insider | Album | Pendiente | - | - |

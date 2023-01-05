@@ -9,8 +9,8 @@ tumblr_elclaustro-blog_permalink:
 tumblr_elclaustro-blog_id:
   - 17557931799
 categories:
+  - Discos, Videos y Playlists
   - Noticias
-  - Repositorio y archivo del Underground
 tags:
   - Fields of the Nephilim
 ---

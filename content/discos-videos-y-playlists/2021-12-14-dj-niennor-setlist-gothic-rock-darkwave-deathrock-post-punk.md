@@ -10,7 +10,6 @@ url: /dj-niennor-setlist-gothic-rock-darkwave-deathrock-post-punk/
 image: /wp-content/rtb1.jpeg
 categories:
   - Discos, Videos y Playlists
-  - Repositorio y archivo del Underground
 tags:
   - niennor
   - release the bats

@@ -88,5 +88,13 @@
       "title": "content",
       "path": "[[workspace]]/content"
     }
+  ],
+  "frontMatter.taxonomy.categories": [
+    "Archivo",
+    "Columnas",
+    "Destacados",
+    "Discos, Videos y Playlists",
+    "Entrevistas",
+    "Noticias"
   ]
 }
