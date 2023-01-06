@@ -1,11 +1,4 @@
 {
-    "frontMatter.taxonomy.tags": [
-        "Columnas",
-        "Destacados",
-        "Development",
-        "Noticias",
-        "Archivo",
-    ],
     "[markdown]": {
         "editor.fontSize": 14,
         "editor.lineHeight": 26,
@@ -18,6 +11,5 @@
             "other": "on"
         },
         "editor.minimap.enabled": false
-    },
-    "frontMatter.dashboard.openOnStart": true
+    }
 }

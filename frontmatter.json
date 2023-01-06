@@ -1,5 +1,11 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.data.folders": [
+    {
+      "title": "data",
+      "path": "[[workspace]]/data"
+    }
+  ],
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -66,7 +72,7 @@
         {
           "title": "image",
           "name": "image",
-          "type": "string"
+          "type": "image"
         },
         {
           "title": "lastmod",
@@ -87,6 +93,10 @@
     {
       "title": "content",
       "path": "[[workspace]]/content"
+    },
+    {
+      "title": "data",
+      "path": "[[workspace]]/data"
     }
   ],
   "frontMatter.taxonomy.categories": [
@@ -96,5 +106,15 @@
     "Discos, Videos y Playlists",
     "Entrevistas",
     "Noticias"
+  ],
+  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.taxonomy.tags": [
+    "Columnas",
+    "Destacados",
+    "Noticias",
+    "Archivo",
+    "Discos, Videos y Playlists",
+    "Entrevistas",
+    "Eventos"
   ]
 }
