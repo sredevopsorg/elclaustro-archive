@@ -25,7 +25,7 @@ markup:
       typographer: true
     parser:
       attribute:
-        block: false
+        block: true
         title: true
       autoHeadingID: true
       autoHeadingIDType: github
@@ -44,16 +44,17 @@ markup:
 # # THis is the Main Hugo Configuration File.
 # # For more information, please see https://gohugo.io/getting-started/configuration/
 baseURL: 'https://elclaustro.cl/'
-languageCode: es-es
+languageCode: es-CL
 url: https://elclaustro.cl
 name: El Claustro
-description: Cultura Dark, Gótica y Alternativa
+description: Difundimos Cultura Dark, Gótica y Alternativa
 enableRobotsTXT: true
 defaultContentLanguage: es
 enableGitInfo: true
 enableInlineShortcodes: true
+# default hugo permalinks 
 permalinks:
-  posts: /:title/
+  posts: /categoria/:slug/:title/
   pages: /:title/
   section: /:section/
   taxonomies: /:section/:slug/
@@ -62,6 +63,17 @@ permalinks:
   day: /:year/:month/:day/
   tag: /tag/:slug/
   category: /categoria/:slug/
+# permalinks:
+# permalinks:
+#   posts: /:title/
+#   pages: /:title/
+#   section: /:section/
+#   taxonomies: /:section/:slug/
+#   year: /:year/
+#   month: /:year/:month/
+#   day: /:year/:month/:day/
+#   tag: /tag/:slug/
+#   category: /categoria/:slug/
 
 resourceDir: resources
 DefaultContentLanguage: es
@@ -82,7 +94,9 @@ params:
   author: 'Nicolas Georger'
   favicon: 'favicon.ico'
   site_logo: 'logo.png'
+  logo: 'logo.png'
   description: Difundimos Cultura Dark, Gótica y Alternativa
+  summary: Difundimos Cultura Dark, Gótica y Alternativa
 #   show_sidebar: false
 #   show_reading_time: true
 #   recent_posts_number: 4
@@ -98,12 +112,9 @@ params:
   twitter_card: 'summary'
   twitter_creator: 'elclaustro'
 
-  # mainSections:
-  #   - blog
-  #   - noticias
-  #   - posts
-
-    # - docs
+  mainSections:
+    - post
+    # - page
   disableDarkMode: false
 
 #   ananke_socials:
