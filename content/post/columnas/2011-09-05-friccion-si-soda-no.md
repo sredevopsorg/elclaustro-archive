@@ -14,8 +14,6 @@ tags:
   - Argentina
   - Coleman
   - Fricción
-  - Gustavo Cerati
-
 ---
 <figure class="tmblr-full" data-orig-height="500" data-orig-width="483"><img fetchpriority="high" decoding="async" src="https://64.media.tumblr.com/665904e80e2c61df804b03b9989837ca/c9183e3831a935fa-c7/s540x810/52bdbe9bcebb4f9a80ffbd939354482aab042fe6.jpg" data-orig-height="500" data-orig-width="483" /></figure> 
 

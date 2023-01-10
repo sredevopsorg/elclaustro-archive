@@ -4,19 +4,13 @@ author: Niennor
 type: page
 date: 2011-09-05T04:22:05+00:00
 url: /entrevista-a-paralitikos/
-tumblr_elclaustro-blog_permalink:
-  - https://elclaustro-blog.tumblr.com/post/9821616453/entrevista-a-paralitikos
+tumblr_elclaustro-blog_permalink: ""
 tumblr_elclaustro-blog_id:
   - 9821616453
 categories:
-  - Discos, Videos y Playlists
   - Entrevistas
-tags:
-  - Entrevistas
-  - España
-  - Paralitikos
-  - Santander
-lastmod: 2023-01-04T19:01:59.971Z
+tags: []
+lastmod: 2023-01-10T04:11:28.124Z
 ---
 Es un placer y un honor poder presentar esta entrevista a Paralítikos, una de las bandas afterpunk mas destacadas de España. En esta ocasión nos han respondido entusiasmadamente a las preguntas Ricardo, Kike, Elizia y Carmelo, quienes conforman la banda en la actualidad.
 

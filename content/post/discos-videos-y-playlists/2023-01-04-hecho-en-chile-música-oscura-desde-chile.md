@@ -8,7 +8,8 @@ url: el-claustro-presenta-hecho-en-chile
 image: /wp-content/chile.jpeg
 categories:
   - Discos, Videos y Playlists
-tags: playlist
+tags:
+  - Discos, Videos y Playlists
 lastmod: 2023-01-08T11:00:35.150Z
 description: Selección de músca dark, gótica y/o oscura hecha en Chile o por chilenos.
 preview: /wp-content/chile.jpeg

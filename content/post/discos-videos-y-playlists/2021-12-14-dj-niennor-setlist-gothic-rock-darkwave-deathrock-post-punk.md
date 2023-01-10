@@ -11,8 +11,8 @@ image: /wp-content/rtb1.jpeg
 categories:
   - Discos, Videos y Playlists
 tags:
+  - Release the Bats
   - niennor
-  - release the bats
 lastmod: 2023-01-05T11:36:12.108Z
 description: |-
   Selección de música del darkeo que solía poner en Release the Bats, Blondie,

@@ -14,11 +14,11 @@ theme-transparent-header-meta:
 categories:
   - Discos, Videos y Playlists
 tags:
+  - Discos, Videos y Playlists
   - archivo
   - bandas
   - chile
   - dark
-  - discografía
   - goth
   - gótico
   - repositorio

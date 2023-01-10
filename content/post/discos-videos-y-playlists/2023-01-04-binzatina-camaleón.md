@@ -7,7 +7,7 @@ draft: false
 image: /wp-content/uploads/camaleon.jpg
 tags:
   - Binzatina
-  - Discos Completos
+  - Discos, Videos y Playlists
 categories:
   - Discos, Videos y Playlists
 lastmod: 2023-01-05T11:58:51.377Z

@@ -7,7 +7,6 @@ copyright: 'Copyleft.'
 canonifyurls: true
 paginate: 10
 
-
 markup:
   goldmark:
     renderer:
@@ -27,6 +26,16 @@ markup:
       attribute:
         block: true
         title: true
+        url: true
+        type: true
+        subfolder: true
+        excerpt: true
+        date: true
+        draft: true
+        slug: true
+        tags: true
+        categories: true
+
       autoHeadingID: true
       autoHeadingIDType: github
       wrapStandAloneImageWithinParagraph: true
@@ -39,10 +48,7 @@ markup:
     lineNumbersInTable: false
     noClasses: false
     tabWidth: 2
-    disqusShortname: elclaustrocl
-# params:
-# # THis is the Main Hugo Configuration File.
-# # For more information, please see https://gohugo.io/getting-started/configuration/
+disqusShortname: elclaustrocl
 baseURL: 'https://elclaustro.cl/'
 languageCode: es-CL
 url: https://elclaustro.cl
@@ -52,32 +58,20 @@ enableRobotsTXT: true
 defaultContentLanguage: es
 enableGitInfo: true
 enableInlineShortcodes: true
-# default hugo permalinks 
+
 permalinks:
-  posts: /categoria/:slug/:title/
+  posts: /:title/
   pages: /:title/
-  section: /:section/
-  taxonomies: /:section/:slug/
-  year: /:year/
-  month: /:year/:month/
-  day: /:year/:month/:day/
-  tag: /tag/:slug/
-  category: /categoria/:slug/
-# permalinks:
-# permalinks:
-#   posts: /:title/
-#   pages: /:title/
 #   section: /:section/
-#   taxonomies: /:section/:slug/
+  taxonomies: /:section/:slug/
 #   year: /:year/
 #   month: /:year/:month/
 #   day: /:year/:month/:day/
 #   tag: /tag/:slug/
-#   category: /categoria/:slug/
+  # category: /categoria/:slug/
 
 resourceDir: resources
 DefaultContentLanguage: es
-SectionPagesMenu: main
 Paginate: 10
 # googleAnalytics: 'UA-1838316-1'
 sitemap:
@@ -85,8 +79,6 @@ sitemap:
   priority: 0.5
   filename: sitemap.xml
 params:
-#   body_classes: 'avenir bg-near-black light-gray'
-#   text_color: 'light-gray'
   AuthorName: Nicolas Georger
   GitHubUser: ngeorger
   SiteTitle: El Claustro
@@ -97,12 +89,6 @@ params:
   logo: 'logo.png'
   description: Difundimos Cultura Dark, Gótica y Alternativa
   summary: Difundimos Cultura Dark, Gótica y Alternativa
-#   show_sidebar: false
-#   show_reading_time: true
-#   recent_posts_number: 4
-#   recent_posts_title: Recientes
-#   recent_posts_show_date: false
-#   breadcrumbs: true
   locale: es-es
   keywords: 'El Claustro'
   ga_analytics: 'UA-1838316-1'
@@ -114,6 +100,8 @@ params:
 
   mainSections:
     - post
+    - destacados
+    # - Columnas
     # - page
   disableDarkMode: false
 
