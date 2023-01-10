@@ -29,7 +29,7 @@ markup:
         url: true
         type: true
         subfolder: true
-        excerpt: true
+        excerpt: false
         date: true
         draft: true
         slug: true
@@ -62,13 +62,13 @@ enableInlineShortcodes: true
 permalinks:
   posts: /:title/
   pages: /:title/
-#   section: /:section/
+  section: /:section/
   taxonomies: /:section/:slug/
 #   year: /:year/
 #   month: /:year/:month/
 #   day: /:year/:month/:day/
-#   tag: /tag/:slug/
-  # category: /categoria/:slug/
+  tag: /tag/:slug/
+  category: /categoria/:slug/
 
 resourceDir: resources
 DefaultContentLanguage: es
@@ -89,7 +89,7 @@ params:
   logo: 'logo.png'
   description: Difundimos Cultura Dark, Gótica y Alternativa
   summary: Difundimos Cultura Dark, Gótica y Alternativa
-  locale: es-es
+  locale: es-CL
   keywords: 'El Claustro'
   ga_analytics: 'UA-1838316-1'
 #   ga_verify: ''
@@ -97,10 +97,10 @@ params:
   twitter: 'elclaustro'
   twitter_card: 'summary'
   twitter_creator: 'elclaustro'
-
+  blogDir: 
   mainSections:
     - post
-    - destacados
+    # - destacados
     # - Columnas
     # - page
   disableDarkMode: false

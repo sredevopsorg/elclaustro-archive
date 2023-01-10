@@ -3,7 +3,7 @@ title: The Mission UK en sudamérica este 2012
 author: Niennor
 type: post
 date: 2012-01-05T03:25:20+00:00
-url: /the-mission-uk-en-sudamerica-este-2012/
+# url: /the-mission-uk-en-sudamerica-este-2012/
 tumblr_elclaustro-blog_permalink:
   - https://elclaustro-blog.tumblr.com/post/15327380488/the-mission-uk-en-sudam%C3%A9rica-este-2012
 tumblr_elclaustro-blog_id:

@@ -3,7 +3,7 @@ title: "Euroshima en Chile: Sábado 21 de Mayo 2022"
 author: Niennor
 type: post
 date: 2022-04-21T16:27:08+00:00
-url: /euroshima-en-chile-sabado-21-de-mayo-2022/
+# url: /euroshima-en-chile-sabado-21-de-mayo-2022/
 image: /wp-content/uploads/2022/04/278143867_1639602806405241_4507035180442723711_n-920x613.jpg
 categories:
   - Noticias

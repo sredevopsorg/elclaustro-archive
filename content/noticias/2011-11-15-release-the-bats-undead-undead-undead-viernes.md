@@ -3,7 +3,7 @@ title: 'Release the Bats: Undead, Undead Undead!!! Viernes 16 de Diciembre, Sant
 author: Niennor
 type: post
 date: 2011-11-15T17:43:00+00:00
-url: /release-the-bats-undead-undead-undead-viernes/
+# # url: /release-the-bats-undead-undead-undead-viernes/
 tumblr_elclaustro-blog_permalink:
   - https://elclaustro-blog.tumblr.com/post/12841098841/release-the-bats-undead-undead-undead-viernes
 tumblr_elclaustro-blog_id:

@@ -3,7 +3,7 @@ title: Entrevista a Das Ich en Cerro Santa Lucía
 author: Amadeus
 type: page
 date: 2011-09-05T04:55:15+00:00
-url: /entrevista-a-das-ich-en-chile/
+# url: /entrevista-a-das-ich-en-chile/
 image: /wp-content/uploads/unnamed-file.jpeg
 categories:
   - Destacados

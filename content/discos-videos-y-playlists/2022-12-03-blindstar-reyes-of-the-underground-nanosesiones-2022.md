@@ -11,7 +11,7 @@ excerpt: >
 
 
   Todo el material, producción., creación y amor que hay, es propiio de BlindStar y/o  @nanosesiones48 , no pertenece ni es idea de  @elclaustrocl ​
-url: /blindstar-reyes-of-the-underground-nanosesiones-2022/
+# url: /blindstar-reyes-of-the-underground-nanosesiones-2022/
 image: /wp-content/uploads/Untitled-scaled.webp
 origin:
   - https://youtu.be/L3r5cW6glSM

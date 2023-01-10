@@ -3,7 +3,7 @@ title: Fricción Si! Soda No!
 author: Amadeus
 type: post
 date: 2011-09-05T06:48:00+00:00
-url: /friccion-si-soda-no/
+# # url: /friccion-si-soda-no/
 tumblr_elclaustro-blog_permalink:
   - https://elclaustro-blog.tumblr.com/post/9820468910/friccion-si-soda-no
 tumblr_elclaustro-blog_id:

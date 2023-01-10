@@ -3,7 +3,7 @@ title: Fields of the Nephilim anuncia “Ceremonies”
 author: Niennor
 type: post
 date: 2012-02-13T17:57:00+00:00
-url: /fields-of-the-nephilim-anuncia-ceremonies/
+# url: /fields-of-the-nephilim-anuncia-ceremonies/
 tumblr_elclaustro-blog_permalink:
   - https://elclaustro-blog.tumblr.com/post/17557931799/fields-of-the-nephilim-anuncia-ceremonies
 tumblr_elclaustro-blog_id:

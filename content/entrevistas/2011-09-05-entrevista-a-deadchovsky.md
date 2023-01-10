@@ -3,7 +3,7 @@ title: Entrevista a Deadchovsky
 author: Niennor
 type: page
 date: 2011-09-05T04:21:00+00:00
-url: /entrevista-a-deadchovsky/
+# url: /entrevista-a-deadchovsky/
 tumblr_elclaustro-blog_permalink:
   - https://elclaustro-blog.tumblr.com/post/9821352588/entrevista-a-deadchovsky
 tumblr_elclaustro-blog_id:

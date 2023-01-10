@@ -3,7 +3,7 @@ title: "No estaba muerto, andaba de gira: Peter Murphy en Chile"
 author: Niennor
 type: post
 date: 2011-09-05T08:37:00+00:00
-url: /no-estaba-muerto-andaba-de-gira-peter-murphy-en/
+# # url: /no-estaba-muerto-andaba-de-gira-peter-murphy-en/
 tumblr_elclaustro-blog_permalink:
   - https://elclaustro-blog.tumblr.com/post/9822183465/no-estaba-muerto-andaba-de-gira-peter-murphy-en
 tumblr_elclaustro-blog_id:

@@ -3,7 +3,7 @@ title: Peter Murphy vuelve a Chile este 4 de Mayo
 author: Niennor
 type: post
 date: 2012-02-16T14:29:00+00:00
-url: /peter-murphy-vuelve-a-chile-este-4-de-mayo/
+# url: /peter-murphy-vuelve-a-chile-este-4-de-mayo/
 tumblr_elclaustro-blog_permalink:
   - https://elclaustro-blog.tumblr.com/post/17711123936/peter-murphy-vuelve-a-chile-este-4-de-mayo
 tumblr_elclaustro-blog_id:

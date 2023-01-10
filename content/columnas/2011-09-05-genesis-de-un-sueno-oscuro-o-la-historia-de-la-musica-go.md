@@ -3,7 +3,7 @@ title: Génesis de un Sueño Oscuro -la historia de la música gotica-
 author: Niennor
 type: post
 date: 2011-09-05T20:29:00+00:00
-# url: /genesis-de-un-sueno-oscuro-o-la-historia-de-la-musica-go/
+# # url: /genesis-de-un-sueno-oscuro-o-la-historia-de-la-musica-go/
 image: /wp-content/uploads/web-salvador-santiago-chile-10-paz-cc-by-nc-sa-2.0.webp
 tumblr_elclaustro-blog_permalink:
   - https://elclaustro-blog.tumblr.com/post/9847153996/genesis-de-un-sueno-oscuro-o-la-historia-de-la-musica-go
