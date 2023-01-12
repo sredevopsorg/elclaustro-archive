@@ -9,7 +9,6 @@ categories:
   - Destacados
   - Entrevistas
 tags:
-  - Alemania
   - Das Ich
   - Entrevistas
 format: video
