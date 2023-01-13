@@ -5,7 +5,13 @@
         "editor.wordWrap": "wordWrapColumn",
         "editor.wordWrapColumn": 64,
         "editor.lineNumbers": "on",
-        "editor.quickSuggestions": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        },
         "editor.minimap.enabled": true
-    }
+    },
+    "frontMatter.content.autoUpdateDate": true,
+    "frontMatter.preview.host": "http://localhost:1313/"
 }
