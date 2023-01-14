@@ -2,6 +2,7 @@ name: Publicar en ElClaustro.cl
 description: Formulario para publicar contenido en ElClaustro.cl
 title: "[Contenido]: "
 labels: ["Contenido", "Comunidad"]
+blank_issues_enabled: false
 assignees:
   - ngeorger
 body:
