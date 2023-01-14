@@ -13,5 +13,6 @@
         "editor.minimap.enabled": true
     },
     "frontMatter.content.autoUpdateDate": true,
-    "frontMatter.preview.host": "http://localhost:1313/"
+    "frontMatter.preview.host": "http://localhost:1313/",
+    "frontMatter.dashboard.openOnStart": true
 }
