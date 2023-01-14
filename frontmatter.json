@@ -57,24 +57,9 @@
           "type": "tags"
         },
         {
-          "title": "tumblr_elclaustro-blog_permalink",
-          "name": "tumblr_elclaustro-blog_permalink",
-          "type": "choice",
-          "choices": [
-            "https://elclaustro-blog.tumblr.com/post/9822367176/entrevista-a-christian-death"
-          ]
-        },
-        {
-          "title": "tumblr_elclaustro-blog_id",
-          "name": "tumblr_elclaustro-blog_id",
-          "type": "fields",
-          "fields": [
-            {
-              "title": "0",
-              "name": "0",
-              "type": "datetime"
-            }
-          ]
+          "title": "format",
+          "name": "format",
+          "type": "string"
         }
       ]
     },
