@@ -48,7 +48,7 @@ markup:
     lineNumbersInTable: false
     noClasses: false
     tabWidth: 2
-disqusShortname: elclaustrocl
+# disqusShortname: elclaustrocl
 baseURL: https://elclaustro.cl/
 languageCode: es-CL
 url: https://elclaustro.cl
