@@ -1,11 +1,11 @@
 ---
 title: Contacto
 image: ""
-omit_header_text: true
 description: Queremos integrar e integrarnos, escríbenos.
 type: page
-lastmod: 2023-01-05T09:48:40.813Z
+lastmod: 2023-01-14T06:39:56.967Z
 url: /contacto/
+slug: contacto
 ---
 ## Queremos integrar e integrarnos, escríbenos
 

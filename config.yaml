@@ -49,7 +49,7 @@ markup:
     noClasses: false
     tabWidth: 2
 disqusShortname: elclaustrocl
-baseURL: 'https://elclaustro.cl/'
+baseURL: https://elclaustro.cl/
 languageCode: es-CL
 url: https://elclaustro.cl
 name: El Claustro
@@ -97,7 +97,7 @@ params:
   twitter: 'elclaustro'
   twitter_card: 'summary'
   twitter_creator: 'elclaustro'
-  blogDir: 
+  # blogDir: content/posts
   mainSections:
     - post
     # - destacados

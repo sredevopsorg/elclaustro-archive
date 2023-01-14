@@ -1,16 +1,18 @@
 ---
-title: Label & Promotion
-description: "El Claustro: Label & Promotion"
+title: "El Claustro: Label & Promotion"
+description: Disponibilizar en plataformas de streaming el mayor catálogo de bandas y
+  discos de la escena oscura (gótica, dark, etc), tanto de Chile como
+  Latinoamérica.
 image: ""
-type: paginas
-slug: label-and-promotion
+type: page
+slug: el-claustro-label-promotion
 date: 2023-01-04T21:22:50.826Z
 excerpt: Nuestro label tiene como objetivo disponibilizar en plataformas de streaming
-  el mayor catálogo de bandas y discos de la escena oscura, gótica, dark, etc.
-  de Chile y Latinoamérica.
+  el mayor catálogo de bandas y discos de la escena oscura (gótica, dark, etc),
+  tanto de Chile como Latinoamérica.
 author: ngeorger
-lastmod: 2023-01-08T16:33:39.768Z
-url: /label-and-promotion/
+lastmod: 2023-01-14T07:06:47.006Z
+url: label-and-promotion
 ---
 
 Nuestro label tiene como objetivo disponibilizar en plataformas de streaming el mayor catálogo de bandas y discos de la escena oscura, gótica, dark, etc. de Chile y Latinoamérica. Para ello, utilizamos la [plataforma Boost Collective](https://platform.boost-collective.com/), la cual nos permite distribuir el contenido que hoy no existe en plataformas de streaming (Spotify, Apple Music, Tidal, Youtube, etc) o simplemente se ha perdido en los vaivenes del tiempo, generando la pérdida de mucho material de calidad, que merece ser disfrutado por las nuevas generaciones y por el público en general de manera fácil y simple.
