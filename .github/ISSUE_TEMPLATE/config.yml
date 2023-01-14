@@ -1,21 +1,28 @@
 name: Publicar en ElClaustro.cl
 description: Formulario para publicar contenido en ElClaustro.cl
 title: "[Contenido]: "
-labels: ["Contenido", "Comunidad"]
-blank_issues_enabled: false
+labels: [contenido]
 assignees:
   - ngeorger
 body:
   - type: markdown
     attributes:
       value: |
-        Gracias por publicar en ElClaustro.cl!
+        ¡Hola! Gracias por querer publicar en ElClaustro.cl. Por favor, completa el siguiente formulario para que podamos revisar tu contenido y publicarlo en el sitio.
   - type: input
     id: contact
     attributes:
       label: Datos de contacto
       description: Cómo podemos contactarnos contigo?
-      placeholder: ejemplo: mail@correo.com (puede ser tu IG, etc)
+      placeholder: "Correo, Instagram, etc"
+    validations:
+      required: true
+  - type: input
+    id: titulo
+    attributes:
+      label: Título
+      description: El título de tu contenido
+      placeholder: "Escribe el título aquí"
     validations:
       required: true
   - type: textarea
@@ -42,9 +49,9 @@ body:
   - type: textarea
     id: contenido
     attributes:
-      label: post
+      label: Contenido
       description: El contenido de tu mensaje
-      render: markdown
+      placeholder: "Escribe tu contenido aquí"
   - type: checkboxes
     id: terms
     attributes:
@@ -53,3 +60,4 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+
