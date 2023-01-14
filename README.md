@@ -1,6 +1,6 @@
 # Qué es ElClaustro.cl? ☥
 
-[![Deploy Hugo site to Pages](https://github.com/sredevopsdev/elclaustro/actions/workflows/hugo.yml/badge.svg?branch=main)](https://github.com/sredevopsdev/elclaustro/actions/workflows/hugo.yml)
+[![Deploy Hugo site to Pages](https://github.com/sredevopsdev/elclaustro/actions/workflows/hugo-default.yml/badge.svg)](https://github.com/sredevopsdev/elclaustro/actions/workflows/hugo-default.yml)
 
 ![Logo El Claustro](https://github.com/sredevopsdev/elclaustro/raw/main/static/images/wp-content/logo.png)
 
@@ -21,16 +21,7 @@ Creemos que la creación es abierta y comunitaria. Invitamos a que puedas public
 
 ## Cómo puedo publicar mi contenido? 🧛🏻‍♂️
 
-Fácil! 👻 Usamos Hugo como framework y basta que agregues tu contenido en formato Markdown. Para eso debes:
-
-Clonar y agregar tu contenido dentro de la carpeta **content/posts**, luego hagas tu pull request para que revisemos y listo.
-
-También puedes utilizar el editor de Github para crear tu contenido. Para eso debes hacer [click en el botón **Add file** y luego **Create new file** dentro de la carpeta **content/posts** (Link directo)](https://github.com/sredevopsdev/elclaustro/new/main/content/posts)
-
-```bash
-git clone --recursive https://github.com/sredevopsdev/elclaustro.git
-```
+Puedes notificar un bug o solicitar una nueva característica a través de los [issues de este repositorio (link)](https://github.com/sredevopsdev/elclaustro/issues/new/choose).
 
 ## Toda duda, sugerencia, solicitud es bien recibida! 🧛🏻‍♀️
 
-Puedes notificar un bug o solicitar una nueva característica a través de los [issues de este repositorio (link)](https://github.com/sredevopsdev/elclaustro/issues/new/choose).
