@@ -57,8 +57,13 @@
           "type": "tags"
         },
         {
-          "title": "format",
-          "name": "format",
+          "title": "draft",
+          "name": "draft",
+          "type": "boolean"
+        },
+        {
+          "title": "excerpt",
+          "name": "excerpt",
           "type": "string"
         }
       ]
@@ -114,24 +119,9 @@
           "type": "datetime"
         },
         {
-          "title": "categories",
-          "name": "categories",
-          "type": "categories"
-        },
-        {
-          "title": "tags",
-          "name": "tags",
-          "type": "tags"
-        },
-        {
           "title": "draft",
           "name": "draft",
           "type": "boolean"
-        },
-        {
-          "title": "type",
-          "name": "type",
-          "type": "string"
         },
         {
           "title": "excerpt",
