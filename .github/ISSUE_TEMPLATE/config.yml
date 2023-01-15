@@ -1,10 +1,9 @@
-name: Publicar en ElClaustro.cl
-description: Formulario para publicar contenido en ElClaustro.cl
-title: "[Contenido]: "
-labels: [contenido]
-assignees:
-  - ngeorger
-body:
+name: Publicar
+title: "Publicación: "
+labels: ["publicación"]
+assignees: ["@ngeorger"]
+description: "Publicar contenido en ElClaustro.cl"
+body: 
   - type: markdown
     attributes:
       value: |
@@ -60,4 +59,3 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
-

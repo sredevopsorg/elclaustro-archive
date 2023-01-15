@@ -14,5 +14,8 @@
     },
     "frontMatter.content.autoUpdateDate": true,
     "frontMatter.preview.host": "http://localhost:1313/",
-    "frontMatter.dashboard.openOnStart": true
+    "frontMatter.dashboard.openOnStart": true,
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-issue-config.json": "file:///Users/ngeorger/elclaustro/.github/ISSUE_TEMPLATE/config.yml"
+    }
 }
