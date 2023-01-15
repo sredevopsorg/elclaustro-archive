@@ -18,19 +18,19 @@ body:
       placeholder: ej. email@example.com o @instagram
     validations:
       required: true
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
-    validations:
-      required: true
+  # - type: textarea
+  #   id: what-happened
+  #   attributes:
+  #     label: What happened?
+  #     description: Also tell us, what did you expect to happen?
+  #     placeholder: Tell us what you see!
+  #     value: "A bug happened!"
+  #   validations:
+  #     required: true
   - type: dropdown
     id: category
     attributes:
-      label: categoria
+      label: Categoria
       description: En qué categoría deseas publicar?
       options:
         - Noticias
@@ -53,12 +53,12 @@ body:
     attributes:
       label: Contenido
       description: Puedes copiar y pegar el contenido de tu publicación, o editar directamente con Markdown (Editor integrado 🧛🏻‍♂️)
-      render: Markdown
+      placeholder: Puedes agregar texto con formato, imágenes, videos e incluso emojis 👻
   - type: checkboxes
     id: terms
     attributes:
-      label: Cod de conducta
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Términos y condiciones
+      description: Al enviar tu contenido, aceptas que sea publicado en ElClaustro.cl bajo licecia Creative Commons NC SA 4.0.
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: Acepto publicar mi contenido bajo la licencia Creative Commons NC SA 4.0.
           required: true
