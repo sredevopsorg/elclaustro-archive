@@ -1,19 +1,20 @@
-name: Enviar Contenido
-description: Envia tu contenido
+name: Publicar en ElClaustro.cl
+description: Envia tu contenido desde Github!
 title: "[Post]: "
-labels: ["contenido", "triage"]
+labels:
+  - contenido
 assignees:
   - ngeorger
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Gracias por el tiempo para enviar tu contenido.
   - type: input
     id: contact
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
+      label: Detalles de contacto
+      description: ¿Cómo podemos ponernos en contacto contigo si necesitamos más información?
       placeholder: ex. email@example.com
     validations:
       required: false
@@ -30,10 +31,13 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of our software are you running?
+      description: En qué categoría deseas publicar?
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - Noticias
+        - Discos Y Multimedia
+        - Entrevistas
+        - Columnas
+        - Otra
     validations:
       required: true
   - type: dropdown
