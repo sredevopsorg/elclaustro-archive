@@ -11,24 +11,15 @@ body:
       value: |
         Gracias por el tiempo para enviar tu contenido.
   - type: input
-    id: contact
+    id: author
     attributes:
       label: Detalles de contacto
       description: ¿Cómo podemos ponernos en contacto contigo si necesitamos más información?
       placeholder: ej. email@example.com o @instagram
     validations:
       required: true
-  # - type: textarea
-  #   id: what-happened
-  #   attributes:
-  #     label: What happened?
-  #     description: Also tell us, what did you expect to happen?
-  #     placeholder: Tell us what you see!
-  #     value: "A bug happened!"
-  #   validations:
-  #     required: true
   - type: dropdown
-    id: category
+    id: categories
     attributes:
       label: Categoria
       description: En qué categoría deseas publicar?
@@ -40,8 +31,8 @@ body:
         - Otra
     validations:
       required: true
-  - type: textarea
-    id: img
+  - type: textarea    
+    id: image
     attributes:
       label: imagen
       description: ¿Tienes una imagen para acompañar tu contenido?
@@ -54,6 +45,8 @@ body:
       label: Contenido
       description: Puedes copiar y pegar el contenido de tu publicación, o editar directamente con Markdown (Editor integrado 🧛🏻‍♂️)
       placeholder: Puedes agregar texto con formato, imágenes, videos e incluso emojis 👻
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
