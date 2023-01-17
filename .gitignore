@@ -88,3 +88,4 @@ repository-open-graph-template.png
 repository-open-graph-template.png.kra
 repository-open-graph-template.png~
 .tmp.driveupload
+resources/_gen/**

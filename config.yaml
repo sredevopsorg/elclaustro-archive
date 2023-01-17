@@ -29,7 +29,7 @@ markup:
         url: true
         type: true
         subfolder: true
-        excerpt: false
+        excerpt: true
         date: true
         draft: true
         slug: true
@@ -50,9 +50,9 @@ markup:
     tabWidth: 2
 # disqusShortname: elclaustrocl
 baseURL: https://elclaustro.cl/
-languageCode: es-CL
+languageCode: es_CL
 url: https://elclaustro.cl
-name: El Claustro
+name: "El Claustro"
 description: Difundimos Cultura Dark, Gótica y Alternativa
 enableRobotsTXT: true
 defaultContentLanguage: es
@@ -68,7 +68,9 @@ permalinks:
 #   month: /:year/:month/
 #   day: /:year/:month/:day/
   tag: /tag/:slug/
-  category: /categoria/:slug/
+  category: /category/:slug/
+  categories: /categories/:slug/
+
 
 resourceDir: resources
 DefaultContentLanguage: es
@@ -83,6 +85,7 @@ params:
   GitHubUser: ngeorger
   SiteTitle: El Claustro
   Subtitle: Difundimos Cultura Dark, Gótica y Alternativa
+  Summary: Difundimos Cultura Dark, Gótica y Alternativa
   author: 'Nicolas Georger'
   favicon: 'favicon.ico'
   site_logo: 'logo.png'
@@ -99,8 +102,9 @@ params:
   twitter_creator: 'elclaustro'
   # blogDir: content/posts
   mainSections:
+    # - post
+    # - page
     - post
-    # - destacados
     # - Columnas
     # - page
   disableDarkMode: false

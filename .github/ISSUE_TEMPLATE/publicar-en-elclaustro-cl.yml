@@ -1,57 +1,62 @@
 name: Publicar en ElClaustro.cl
 description: Envia tu contenido desde Github!
-title: "[Post]: "
-labels:
-  - contenido
+title: "[Ingresa el título a publicar] "
+labels: ["Contenido Enviado", "Noticias"]
 assignees:
   - ngeorger
 body:
   - type: markdown
     attributes:
       value: |
+        # Publicar en ElClaustro.cl
+
+        ![](https://github.com/sredevopsdev/elclaustro/blob/1af34e052af120f96372d21b1711a1fa6e845ad6/static/images/wp-content/uploads/2020/08/cropped-cropped-banner-light-300x100.png)
+        
         Gracias por el tiempo para enviar tu contenido.
-  - type: input
-    id: author
-    attributes:
-      label: Detalles de contacto
-      description: ¿Cómo podemos ponernos en contacto contigo si necesitamos más información?
-      placeholder: ej. email@example.com o @instagram
-    validations:
-      required: true
-  - type: dropdown
-    id: categories
-    attributes:
-      label: Categoria
-      description: En qué categoría deseas publicar?
-      options:
-        - Noticias
-        - Discos Y Multimedia
-        - Entrevistas
-        - Columnas
-        - Otra
-    validations:
-      required: true
-  - type: textarea    
-    id: image
-    attributes:
-      label: imagen
-      description: ¿Tienes una imagen para acompañar tu contenido?
-      placeholder: "Arrastra y suelta tu imagen aquí o la URL de la imagen"
-    validations:
-      required: false
+        
+
+  # - type: input
+  #   id: author
+  #   attributes:
+  #     label: Autor
+  #     description: Cómo te gustaría que aparezcas como autor?
+  #     placeholder: "Ejemplo: Alias o Nombre"
+  #   validations:
+  #     required: true
+  # - type: dropdown
+  #   id: categories
+  #   attributes:
+  #     label: Categoria
+  #     description: En qué categoría deseas publicar?
+  #     options:
+  #       - Noticias
+  #       - Discos Y Multimedia
+  #       - Entrevistas
+  #       - Columnas
+  #       - Otra
+  #   validations:
+  #     required: true
+  # - type: textarea    
+  #   id: image
+  #   attributes:
+  #     label: image
+  #     description: ¿Tienes una imagen para acompañar tu contenido?
+  #     placeholder: "Arrastra y suelta tu imagen aquí o la URL de la imagen"
+  #     # render: bash
+  #   validations:
+  #     required: false
   - type: textarea
     id: contenido
     attributes:
       label: Contenido
       description: Puedes copiar y pegar el contenido de tu publicación, o editar directamente con Markdown (Editor integrado 🧛🏻‍♂️)
-      placeholder: Puedes agregar texto con formato, imágenes, videos e incluso emojis 👻
+      placeholder: Aquí arriba puedes editar el formato, agregar imágenes (puedes arrastrar o usar una URL) 👆🏻
     validations:
       required: true
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Términos y condiciones
-      description: Al enviar tu contenido, aceptas que sea publicado en ElClaustro.cl bajo licecia Creative Commons NC SA 4.0.
-      options:
-        - label: Acepto publicar mi contenido bajo la licencia Creative Commons NC SA 4.0.
-          required: true
+  - type: markdown
+    attributes: 
+      value: |
+        
+        ## Términos y condiciones
+        
+        Al enviar tu contenido, aceptas que sea publicado en ElClaustro.cl bajo [licecia Creative Commons NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

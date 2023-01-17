@@ -9,7 +9,6 @@ categories:
   - Destacados
   - Entrevistas
 tags:
-  - Das Ich
   - Entrevistas
 lastmod: 2023-01-14T07:43:49.656Z
 slug: entrevista-das-ich-en-cerro-santa-lucia
