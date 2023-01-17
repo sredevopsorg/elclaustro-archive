@@ -12,11 +12,20 @@ on:
 jobs:
   convert-issues-to-markdown:
     runs-on: ubuntu-latest
+    permissions:
+      issues: read
+      pull-requests: read
+      contents: write
 
     name: Convert issues to markdown.
     steps:
       - name: checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+
 
       - name: Fetch issues and generate markdowns
         uses: sredevopsdev/hugo-with-github-issues@main
@@ -25,22 +34,20 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           repo: elclaustro
           owner: sredevopsdev
-#          skip-author: ''
+          skip-author: 'false'
           use-issue-seperator: 'true'
           output: 'content/posts'
           issue-state: 'open'
           skip-pull-requests: 'true'
-      - name: Set output
-        continue-on-error: true
-        run: |
-          echo "ISSUES_ADDED=${{ steps.hugoissues.outputs }}" >> $GITHUB_OUTPUT
+          
       - name: Commit files
         env:
           GITHUB_USERNAME: ${{ github.actor }}
           GITHUB_EMAIL: ${{ github.actor }}@gmail.com
         run: |
-          git config --local user.email ${{ env.GITHUB_EMAIL }} &&
-          git config --local user.name ${{ env.GITHUB_USERNAME }} &&
+          git config --global user.email ${{ env.GITHUB_EMAIL }} &&
+          git config --global user.name ${{ env.GITHUB_USERNAME }} &&
+          git config --global --add safe.directory $(pwd) &&
           git add . &&
-          git commit -m "Create new posts from issues, added ${{ github.event.issue.title }}"
+          git commit -m "Update posts from issues ${{ github.sha }}" &&
           git push
