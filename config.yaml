@@ -75,7 +75,7 @@ permalinks:
 resourceDir: resources
 DefaultContentLanguage: es
 Paginate: 10
-# googleAnalytics: 'UA-1838316-1'
+googleAnalytics: 'G-PJ5PR0W1LV'
 sitemap:
   changefreq: weekly
   priority: 0.5
@@ -94,7 +94,7 @@ params:
   summary: Difundimos Cultura Dark, Gótica y Alternativa
   locale: es-CL
   keywords: 'El Claustro'
-  ga_analytics: 'UA-1838316-1'
+  ga_analytics: 'G-PJ5PR0W1LV'
 #   ga_verify: ''
   instagram: 'elclaustrocl'
   twitter: 'elclaustro'
