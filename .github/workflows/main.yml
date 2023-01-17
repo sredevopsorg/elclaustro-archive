@@ -37,7 +37,7 @@ jobs:
       - name: Commit files
         env:
           GITHUB_USERNAME: ${{ github.actor }}
-          GITHUB_EMAIL: ${{ github.actor }}@users.noreply.github.com
+          GITHUB_EMAIL: ${{ github.actor }}@gmail.com
         run: |
           git config --local user.email ${{ env.GITHUB_EMAIL }} &&
           git config --local user.name ${{ env.GITHUB_USERNAME }} &&
