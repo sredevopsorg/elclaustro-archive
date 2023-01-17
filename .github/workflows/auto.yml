@@ -20,7 +20,7 @@ jobs:
 
       - name: Fetch issues and generate markdowns
         uses: sredevopsdev/hugo-with-github-issues@main
-        id: hugo-with-github-issues
+        id: hugoissues
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           repo: elclaustro
@@ -32,13 +32,13 @@ jobs:
           skip-pull-requests: 'true'
       - name: Set output
         continue-on-error: true
-        run: echo "ISSUES_ADDED=${{ steps.hugo-with-github-issues.outputs.filenames }}" >> $GITHUB_OUTPUT
+        run: |
+          echo "ISSUES_ADDED=${{ steps.hugoissues.outputs }}" >> $GITHUB_OUTPUT
       - name: Commit files
         env:
           GITHUB_USERNAME: ${{ github.actor }}
           GITHUB_EMAIL: ${{ github.actor }}@users.noreply.github.com
         run: |
-#          date > generated.txt
           git config --local user.email ${{ env.GITHUB_EMAIL }} &&
           git config --local user.name ${{ env.GITHUB_USERNAME }} &&
           git add . &&
