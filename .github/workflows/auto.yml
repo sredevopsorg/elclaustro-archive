@@ -1,0 +1,46 @@
+name: Convert issues to markdown.
+on:
+  issues:
+    types: [opened, edited]
+  push:
+    paths:
+      - .github/workflows/main.yml
+
+    
+  workflow_dispatch:
+    
+jobs:
+  convert-issues-to-markdown:
+    runs-on: ubuntu-latest
+
+    name: Convert issues to markdown.
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: Fetch issues and generate markdowns
+        uses: sredevopsdev/hugo-with-github-issues@main
+        id: hugo-with-github-issues
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repo: elclaustro
+          owner: sredevopsdev
+#          skip-author: ''
+          use-issue-seperator: 'true'
+          output: 'content/posts'
+          issue-state: 'open'
+          skip-pull-requests: 'true'
+      - name: Set output
+        continue-on-error: true
+        run: echo "ISSUES_ADDED=${{ steps.hugo-with-github-issues.outputs.filenames }}" >> $GITHUB_OUTPUT
+      - name: Commit files
+        env:
+          GITHUB_USERNAME: ${{ github.actor }}
+          GITHUB_EMAIL: ${{ github.actor }}@users.noreply.github.com
+        run: |
+#          date > generated.txt
+          git config --local user.email ${{ env.GITHUB_EMAIL }} &&
+          git config --local user.name ${{ env.GITHUB_USERNAME }} &&
+          git add . &&
+          git commit -m "Create new posts from issues, added ${{ github.event.issue.title }}"
+          git push
