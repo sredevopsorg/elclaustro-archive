@@ -10,19 +10,11 @@ body:
       value: |
         # Publicar en ElClaustro.cl
 
-        ![](https://github.com/sredevopsdev/elclaustro/blob/1af34e052af120f96372d21b1711a1fa6e845ad6/static/images/wp-content/uploads/2020/08/cropped-cropped-banner-light-300x100.png)
+        ![](https://elclaustro.cl/images/wp-content/uploads/2020/08/cropped-cropped-cropped-cropped-banner-light-e1641680429969-300x100.png)
         
         Gracias por el tiempo para enviar tu contenido.
         
 
-  # - type: input
-  #   id: author
-  #   attributes:
-  #     label: Autor
-  #     description: Cómo te gustaría que aparezcas como autor?
-  #     placeholder: "Ejemplo: Alias o Nombre"
-  #   validations:
-  #     required: true
   # - type: dropdown
   #   id: categories
   #   attributes:
@@ -36,27 +28,37 @@ body:
   #       - Otra
   #   validations:
   #     required: true
-  # - type: textarea    
-  #   id: image
-  #   attributes:
-  #     label: image
-  #     description: ¿Tienes una imagen para acompañar tu contenido?
-  #     placeholder: "Arrastra y suelta tu imagen aquí o la URL de la imagen"
-  #     # render: bash
-  #   validations:
-  #     required: false
+  - type: textarea    
+    id: image
+    attributes:
+      label: image
+      description: ¿Tienes una imagen para acompañar tu contenido?
+      placeholder: "Arrastra y suelta tu imagen o ingresa una URL"
+      # render: bash
+    validations:
+      required: false
+  - type: input
+    id: external_url
+    attributes:
+      label: Contenido Externo
+      description: ¿Deseas agregar un video en Youtube, una canción en Spotify, un enlace a una noticia en otro sitio?
+      placeholder: "https://www.youtube.com/watch?v=..."
+    validations:
+      required: false
   - type: textarea
     id: contenido
     attributes:
       label: Contenido
       description: Puedes copiar y pegar el contenido de tu publicación, o editar directamente con Markdown (Editor integrado 🧛🏻‍♂️)
-      placeholder: Aquí arriba puedes editar el formato, agregar imágenes (puedes arrastrar o usar una URL) 👆🏻
+      placeholder: Aquí arriba puedes editar el formato, agregar más imágenes (puedes arrastrar o usar una URL) 👆🏻
     validations:
       required: true
   - type: markdown
     attributes: 
       value: |
-        
-        ## Términos y condiciones
+        _**Términos y condiciones**_
         
         Al enviar tu contenido, aceptas que sea publicado en ElClaustro.cl bajo [licecia Creative Commons NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+        Si deseas publicar contenido con licencia diferente, por favor [contáctanos](https://elclaustro.cl/contacto/).
+      
