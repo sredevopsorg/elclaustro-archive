@@ -6,7 +6,7 @@ on:
   push:
     branches: ["main"]
     paths-ignore:
-     - .github/**
+      - .github/**
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -49,6 +49,19 @@ jobs:
         uses: actions/configure-pages@v2
       # - name: Install Node.js dependencies
       #   run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Cache built website
+        uses: actions/cache@v3
+        env:
+          cache-name: cache-website-v1
+        with:
+          path: |
+            public
+            resources/_gen       
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('config', 'content', 'data', 'themes', 'static') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-       
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
