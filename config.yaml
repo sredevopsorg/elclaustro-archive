@@ -6,9 +6,6 @@ theme: newsroom
 copyright: 'Copyleft.'
 canonifyurls: true
 paginate: 10
-module:
-  imports:
-  - path: github.com/hugo-mods/lazyimg
 markup:
   goldmark:
     renderer:
@@ -82,6 +79,13 @@ sitemap:
   changefreq: weekly
   priority: 0.5
   filename: sitemap.xml
+rss:
+  filename: index.xml
+  limit: 20
+  link: https://elclaustro.cl/index.xml
+  language: es-CL
+  title: El Claustro
+  description: Difundimos Cultura Dark, Gótica y Alternativa
 params:
   AuthorName: Nicolas Georger
   GitHubUser: ngeorger

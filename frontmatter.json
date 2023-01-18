@@ -153,6 +153,10 @@
     {
       "title": "pages",
       "path": "[[workspace]]/content/pages"
+    },
+    {
+      "title": "posts",
+      "path": "[[workspace]]/content/posts"
     }
   ],
   "frontMatter.taxonomy.tags": [

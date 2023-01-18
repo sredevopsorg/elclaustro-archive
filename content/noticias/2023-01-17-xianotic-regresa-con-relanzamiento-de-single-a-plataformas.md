@@ -1,17 +1,23 @@
 ---
 title: Xianotic regresa con relanzamiento de single a Plataformas
-image: https://user-images.githubusercontent.com/96188166/212578339-4ae7d5e4-a7c1-471d-9ea4-9efabf5156fa.png
+image: null
 description: Victor Manuel Mérida,  Amadeus (Virgine Dramatica, Undeads, etc.), regresa
   para relanzar uno de sus singles a plataformas de streaming. This abyss in
   your arms
 type: post
-lastmod: 2023-01-17T07:03:02.099Z
+lastmod: 2023-01-18T06:13:54.860Z
 url: ""
 author: victormerida@chachacoma.com
 date: 2023-01-17T06:56:01.101Z
 categories:
   - Noticias
-tags: ""
+tags:
+  - xianotic
+  - amadeus
+  - victor merida
+  - el claustro
+  - label
+  - promotion
 draft: false
 excerpt: Victor Manuel Mérida,  Amadeus (Virgine Dramatica, Undeads, etc.), regresa
   para relanzar uno de sus singles a plataformas de streaming. This abyss in
