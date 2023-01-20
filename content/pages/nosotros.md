@@ -1,11 +1,13 @@
 ---
 title: Nosotros
-date: 2014-04-09
+date: 2023-01-20T04:14:56.383Z
 image: /wp-content/logo.png
-lastmod: 2023-01-14T06:44:20.512Z
+lastmod: 2023-01-20T06:19:37.407Z
 url: /nosotros/
 slug: nosotros
-type: default
+type: page
+description: Queremos rescatar, documentar y promocionar las distintas expresiones de la
+  cultura oscura, gótica, dark (o como desees llamarla 😉)
 ---
 Queremos rescatar, documentar y promocionar las distintas **expresiones de la cultura oscura, gótica, dark (o como desees llamarla 😉)**, principalmente **música de Chile, Latinoamérica y en general, hispanoparlantes**. (Inclúyase post punk, darkwave, gothic rock, electrónica, neofolk, etc) a través de publicaciones en nuestro sitio web, redes sociales y nuestra nueva iniciativa: **El Claustro: Label & Promotion**.
 

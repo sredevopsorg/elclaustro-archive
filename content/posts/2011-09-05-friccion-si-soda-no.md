@@ -3,24 +3,21 @@ title: Fricción Si! Soda No!
 author: Amadeus
 type: post
 date: 2011-09-05T06:48:00+00:00
+image: https://64.media.tumblr.com/665904e80e2c61df804b03b9989837ca/c9183e3831a935fa-c7/s540x810/52bdbe9bcebb4f9a80ffbd939354482aab042fe6.jpg
 # # url: /friccion-si-soda-no/
-tumblr_elclaustro-blog_permalink:
-  - https://elclaustro-blog.tumblr.com/post/9820468910/friccion-si-soda-no
-tumblr_elclaustro-blog_id:
-  - 9820468910
 categories:
   - Columnas
 tags:
   - Argentina
   - Coleman
+lastmod: 2023-01-19T21:10:27.585Z
 ---
-<figure class="tmblr-full" data-orig-height="500" data-orig-width="483"><img fetchpriority="high" decoding="async" src="https://64.media.tumblr.com/665904e80e2c61df804b03b9989837ca/c9183e3831a935fa-c7/s540x810/52bdbe9bcebb4f9a80ffbd939354482aab042fe6.jpg" data-orig-height="500" data-orig-width="483" /></figure> 
 
-Escrito por Amadeus en Enero &#8211; 8 &#8211; 2010
+*Escrito por Amadeus en Enero &#8211; 8 &#8211; 2010
+*
+Corría el año **1984** (para variar, glorioso año de creatividad oscura) cuando unos pendex con recursos al otro lado de los andes se hacían los bacanes escuchando cosas que el común de los mortales argentos no podían oír debido  a las regulaciones de un gobierno totalitario que odiaba a los ingleses. Mientras tomaban whisky y leían a **Lord Byron, Blake y Dylan Thomas** y se pintaban las pestañas con el rimel de la mamá, unos imberbes **Gustavo Cerati** y **Richard Coleman** componían musiquilla que sonaba a sus más rotundas ideas de cómo el mundo funcionaba en ese entonces. Oscuro, frío y decadente. De esto, surge **Clap**, la primera intentona de sonar como la gente _y no como banda de ska_ . Posteriormente, se unirían **Christian Basso** (adivinaron: el bajista xD) y **Fernando Samalea** en batería, conformando lo que posteriormente recibiría el nombre ya definitivo de **Fricción,** que debutaría en 1985 en el **Stud Free** pub. La banda generó  una impresión duradera en el público, que se pasmó con la voz de Coleman (_bowie’s school, bitches! Cerati usó la misma_) y con lo letárgico y etéreo de las guitarras, además de letras directas, pero sutiles. Poéticas, dirían otros...
 
-Corría el año **1984** (para variar, glorioso año de creatividad oscura) cuando unos pendex con recursos al otro lado de los andes se hacían los bacanes escuchando cosas que el común de los mortales argentos no podían oír debido  a las regulaciones de un gobierno totalitario que odiaba a los ingleses. Mientras tomaban whisky y leían a **Lord Byron, Blake y Dylan Thomas** y se pintaban las pestañas con el rimel de la mamá, unos imberbes **Gustavo Cerati** y **Richard Coleman** componían musiquilla que sonaba a sus más rotundas ideas de cómo el mundo funcionaba en ese entonces. Oscuro, frío y decadente. De esto, surge **Clap**, la primera intentona de sonar como la gente _y no como banda de ska_ . Posteriormente, se unirían **Christian Basso** (adivinaron: el bajista xD) y **Fernando Samalea** en batería, conformando lo que posteriormente recibiría el nombre ya definitivo de **Fricción,** que debutaría en 1985 en el **Stud Free** pub. La banda generó  una impresión duradera en el público, que se pasmó con la voz de Coleman (_bowie’s school, bitches! Cerati usó la misma_) y con lo letárgico y etéreo de las guitarras, además de letras directas, pero sutiles. Poéticas, dirían otros… 
-
-<!-- more -->Cuando a Cerati le dio por el Ska y creerse la fusión de Smith con Sting (
+Cuando a Cerati le dio por el Ska y creerse la fusión de Smith con Sting (
 
 _q wea más rara, me acordé de la mariposa smith en south park O_0)_, dejó la banda por Soda Stereo y en su reemplazo, llegaron  Gonzo Palacios (_Los Twists_) y una minoca que las hacía de _Patty Morrison corista, **Celsa Mel Gowland**, ex vocalista de **Metropoli** (otra banda que DEBEN  escuchar)._
 
@@ -30,7 +27,4 @@ _La banda era otra. Ya no estaba Samaela, que fue reemplazado en la primavera de
 
 _El año 89 fue una mierda para muchos (me incluyo) y musicalmente trajo mucha miseria. Se fueron muchos grandes de todos lados, y el 90 no fue mejor. La decadencia de la escena nacional se veía rematada por la llegada de las bandas internacionales en conciertos que incrementaron los costos y cambiaron el perfil del publico. Ya la gente no se preocupaba de las letras, de la sonoridad, de la atmósfera creada y la intimidad que se generaba entre los asistentes y la banda, sino del show mismo (como, sin desmerecer, el de **MJ**), la parafernalia y pirotécnia que terminarían por asestar el golpe final a una época gloriosa de música, tal vez no original del todo, pero propia, nuestra, cercana, que nos acompañó los días nublados, los domingos en el parque, en esas eternas noches de tinto y letras que cada vez son menos. Así como se desvaneció la escena, **Fricción** se disolvió en paz, lamentando no haber sobrepasado la barrera del under y haberse convertido en algo más. Pero eso, tal vez, es lo que muchos agradecemos, hoy, cuando el aire comienza a tener ese mismo tufillo decadente…_
 
-_Fuentes: varias, wikipedia, y algunos blogs sueltos, en especial <a title="Los Inconseguibles del Rock" target="_blank" href="http://web.archive.org/web/20100202182242/http://losinconseguiblesdelrock.blogspot.com/" rel="noopener">éste</a>._
-
-_  
-_ </p>
+_Fuentes: varias, wikipedia, y algunos blogs sueltos, en especial [Los Inconseguibles del Rock](http://web.archive.org/web/20100202182242/http://losinconseguiblesdelrock.blogspot.com/).

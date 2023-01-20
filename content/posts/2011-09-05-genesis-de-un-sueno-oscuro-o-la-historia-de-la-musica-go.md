@@ -4,11 +4,7 @@ author: Niennor
 type: post
 date: 2011-09-05T20:29:00+00:00
 # # url: /genesis-de-un-sueno-oscuro-o-la-historia-de-la-musica-go/
-image: /wp-content/uploads/web-salvador-santiago-chile-10-paz-cc-by-nc-sa-2.0.webp
-tumblr_elclaustro-blog_permalink:
-  - https://elclaustro-blog.tumblr.com/post/9847153996/genesis-de-un-sueno-oscuro-o-la-historia-de-la-musica-go
-tumblr_elclaustro-blog_id:
-  - 9847153996
+image: /images/wp-content/uploads/web-salvador-santiago-chile-10-paz-cc-by-nc-sa-2.0.webp
 categories:
   - Columnas
   - Destacados
@@ -19,13 +15,13 @@ tags:
   - gótico
   - Post Punk
 slug: genesis-de-sueno-oscuro-la-historia-de-la-musica-gotica
-lastmod: 2023-01-05T09:48:40.819Z
+lastmod: 2023-01-19T22:06:22.331Z
 ---
-_<span class="post-date right">Publicado originalmente el 15 de diciembre del 2006, como una adaptación libre del artículo de Wikipedia en inglés sobre la música gotica o el rock gotico.</span>_
+_Publicado originalmente el 15 de diciembre del 2006, como una adaptación libre del artículo de Wikipedia en inglés sobre la música gotica o el rock gotico._
 
-<img decoding="async" class="alignleft" src="https://64.media.tumblr.com/tumblr_lr2gzeA1Ud1r04xdq.jpg" /> 
+![Siouxsie](https://64.media.tumblr.com/tumblr_lr2gzeA1Ud1r04xdq.jpg)
 
-Hoy en día cada vez me es más frecuente encontrarme con personas que lucen lustrosos abrigos largos, enormes botas hebillosas, camisas de características barrocas/victorianas, al igual que mucho maquillaje: pero hay un enorme problema: **La mayoría no conoce muy bien la historia de su cultura.**
+Es muy común que nos identifgiquem pero hay un enorme problema: **La mayoría no conoce muy bien la historia de su cultura.**
 
 Para poder conocer los orígenes de la música gótica, como también las características de esta subcultura, tenemos que situarnos en un Londres de fines de los 70 y principios de los 80: Sí: imagínate la situación de ese momento. Una inminente guerra nuclear entre los dos grandes bloques económicos e ideológicos (EEUU y la URSS), varias crisis económicas y una muy&nbsp;**baja expectativa respecto a lo que deparaba el futuro**. Ese era el panorama en el Londres ochentero.  
 El rock gótico sitúa su origen en el post punk de fines de los 70. Originalmente se consideró solo como una etiqueta para un pequeño puñado de bandas punk/post punk, pero comenzó a ser catalogado como un movimiento aparte en 1981 (Aunque en los 60 una banda italiana llamada Jacula ya había experimentado con sonidos de misterio y horror). Cuando muchas bandas punk se caracterizaban por su agresividad, las primeras bandas góticas eran mas introvertidas y personales, con elementos que se basan en los antiguos movimientos literarios como el Horror Gótico, el Romanticismo, la filosofía existencial, y el Nihilismo. Las bandas pioneras del género fueron Bauhaus, The Cure y Siouxsie and the Banshees.

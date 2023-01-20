@@ -1,167 +1,58 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
-  "frontMatter.taxonomy.contentTypes": [
-    {
-      "name": "post",
-      "pageBundle": false,
-      "previewPath": null,
-      "fields": [
-        {
-          "title": "title",
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "title": "image",
-          "name": "image",
-          "type": "image"
-        },
-        {
-          "title": "description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "type",
-          "name": "type",
-          "type": "string"
-        },
-        {
-          "title": "lastmod",
-          "name": "lastmod",
-          "type": "datetime"
-        },
-        {
-          "title": "url",
-          "name": "url",
-          "type": "string"
-        },
-        {
-          "title": "author",
-          "name": "author",
-          "type": "string"
-        },
-        {
-          "title": "date",
-          "name": "date",
-          "type": "datetime"
-        },
-        {
-          "title": "categories",
-          "name": "categories",
-          "type": "categories"
-        },
-        {
-          "title": "tags",
-          "name": "tags",
-          "type": "tags"
-        },
-        {
-          "title": "draft",
-          "name": "draft",
-          "type": "boolean"
-        },
-        {
-          "title": "excerpt",
-          "name": "excerpt",
-          "type": "string"
-        }
-      ]
-    },
-    {
-      "name": "page",
-      "pageBundle": false,
-      "previewPath": null,
-      "fields": [
-        {
-          "title": "title",
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "title": "image",
-          "name": "image",
-          "type": "image"
-        },
-        {
-          "title": "description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "type",
-          "name": "type",
-          "type": "string"
-        },
-        {
-          "title": "slug",
-          "name": "slug",
-          "type": "string"
-        },
-        {
-          "title": "lastmod",
-          "name": "lastmod",
-          "type": "datetime"
-        },
-        {
-          "title": "url",
-          "name": "url",
-          "type": "string"
-        },
-        {
-          "title": "author",
-          "name": "author",
-          "type": "string"
-        },
-        {
-          "title": "date",
-          "name": "date",
-          "type": "datetime"
-        },
-        {
-          "title": "draft",
-          "name": "draft",
-          "type": "boolean"
-        },
-        {
-          "title": "excerpt",
-          "name": "excerpt",
-          "type": "string"
-        }
-      ]
-    }
-  ],
   "frontMatter.framework.id": "hugo",
-  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.publicFolder": "static/images",
   "frontMatter.content.pageFolders": [
-    {
-      "title": "entrevistas",
-      "path": "[[workspace]]/content/entrevistas"
-    },
-    {
-      "title": "discos-videos-y-playlists",
-      "path": "[[workspace]]/content/discos-videos-y-playlists"
-    },
-    {
-      "title": "noticias",
-      "path": "[[workspace]]/content/noticias"
-    },
-    {
-      "title": "columnas",
-      "path": "[[workspace]]/content/columnas"
-    },
-    {
-      "title": "pages",
-      "path": "[[workspace]]/content/pages"
-    },
     {
       "title": "posts",
       "path": "[[workspace]]/content/posts"
+        },
+    {
+      "title": "pages",
+      "path": "[[workspace]]/content/pages"
     }
   ],
   "frontMatter.taxonomy.tags": [
+    "Argentina",
+    "Binzatina",
+    "Brasil",
+    "Chile",
+    "Christian Death",
+    "Coleman",
+    "Contenido Enviado",
+    "DarkCorp",
+    "DarkCorpInside",
+    "Darkwave",
+    "Deadchovsky",
+    "Deathrock",
     "Discos, Videos y Playlists",
-    "Entrevistas"
+    "En Vivo",
+    "Entrevistas",
+    "Feria",
+    "Fields of the Nephilim",
+    "Francia",
+    "Gothic Rock",
+    "Noticias",
+    "Peter Murphy",
+    "Post Punk",
+    "Release the Bats",
+    "Teatro Comunitario Novedades",
+    "The Mission UK",
+    "amadeus",
+    "archivo",
+    "bandas",
+    "chile",
+    "dark",
+    "el claustro",
+    "goth",
+    "gótico",
+    "label",
+    "niennor",
+    "promotion",
+    "repositorio",
+    "underground",
+    "victor merida",
+    "xianotic"
   ],
   "frontMatter.taxonomy.categories": [
     "Columnas",
@@ -171,11 +62,75 @@
     "Entrevistas",
     "Noticias"
   ],
-  "frontMatter.content.snippets": {
-    "spotify": {
-      "description": "",
-      "body": "{{< spotify type=\"\" id=\"\" >}}",
-      "isMediaSnippet": true
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "posts",
+      "fileType": "md",
+      "template": "",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "image",
+          "isPreviewImage": true
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        },
+        {
+          "title": "url",
+          "name": "url",
+          "type": "string",
+          "taxonomyId": "slug",
+          "default": "{{ $var := slug }}"
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "default": "post",
+          "type": "choice",
+          "choices": ["page","post"]
+          
+        }
+      ]
     }
+  ]
   }
-}
+
