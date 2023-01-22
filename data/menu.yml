@@ -5,12 +5,12 @@
 - item: Label & Promotion
   url: label-and-promotion/
 - item: Noticias
-  url: noticias/
+  url: categories/noticias/
 - item: Discos y Multimedia
-  url: discos-videos-y-playlists/
+  url: categories/discos-videos-y-playlists/
 - item: Entrevistas
-  url: entrevistas/
+  url: categories/entrevistas/
 - item: Columnas
-  url: columnas/
+  url: categories/columnas/
 - item: Contacto
   url: contacto/

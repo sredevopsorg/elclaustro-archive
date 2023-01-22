@@ -4,7 +4,7 @@ name: Deploy Hugo site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["release"]
+    branches: ["main"]
     paths-ignore:
       - .github/**
 
@@ -52,12 +52,12 @@ jobs:
       #   run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Cache built website
         uses: actions/cache@v3
+        continue-on-error: true
         env:
-          cache-name: cache-website-v1
+          cache-name: cache-hugo-build
         with:
           path: |
-            public
-            static   
+            ./static
           key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('config', 'content', 'data', 'themes', 'static') }}
           restore-keys: |
             ${{ runner.os }}-build-${{ env.cache-name }}-
@@ -71,6 +71,7 @@ jobs:
         run: |
           hugo \
             --minify \
+            --cleanDestinationDir \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1

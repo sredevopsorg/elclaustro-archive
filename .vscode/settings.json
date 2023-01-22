@@ -25,7 +25,7 @@
     "frontMatter.git.commitMessage": "FrontMatter commit",
     "frontMatter.git.enabled": true,
     "frontMatter.media.defaultSorting": "LastModifiedDesc",
-    "frontMatter.panel.freeform": false,
+    "frontMatter.panel.freeform": true,
     "frontMatter.site.baseURL": "https://elclaustro.cl/",
     "frontMatter.taxonomy.alignFilename": true,
     "frontMatter.taxonomy.categories": [
@@ -46,7 +46,10 @@
         "name": "production",
         "description": "Production mode",
         "variables": {
-        "frontMatter.site.baseURL": "https://elclaustro.cl/"
+        "frontMatter.site.baseURL": "https://elclaustro.cl/",
+        "frontMatter.preview.host": "https://elclaustro.cl/",
+        "frontMatter.git.enabled": true,
+        "frontMatter.content.autoUpdateDate": false
         }
     },
     {

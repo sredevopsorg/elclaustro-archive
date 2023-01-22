@@ -21,6 +21,7 @@ markup:
       table: true
       taskList: true
       typographer: true
+      
     parser:
       attribute:
         block: true
@@ -73,7 +74,7 @@ permalinks:
 
 resourceDir: resources
 DefaultContentLanguage: es
-Paginate: 10
+Paginate: 4
 googleAnalytics: 'G-PJ5PR0W1LV'
 sitemap:
   changefreq: weekly
@@ -92,13 +93,13 @@ params:
   SiteTitle: El Claustro
   Subtitle: Difundimos Cultura Dark, Gótica y Alternativa
   Summary: Difundimos Cultura Dark, Gótica y Alternativa
+  description: Difundimos Cultura Dark, Gótica y Alternativa
+  summary: Difundimos Cultura Dark, Gótica y Alternativa
+  locale: es-CL
   author: 'Nicolas Georger'
   favicon: 'favicon.ico'
   site_logo: 'logo.png'
   logo: 'logo.png'
-  description: Difundimos Cultura Dark, Gótica y Alternativa
-  summary: Difundimos Cultura Dark, Gótica y Alternativa
-  locale: es-CL
   keywords: 'El Claustro'
   ga_analytics: 'G-PJ5PR0W1LV'
 #   ga_verify: ''
@@ -114,6 +115,23 @@ params:
     # - Columnas
     # - page
   disableDarkMode: false
+menu:
+- item: Inicio
+  url: /
+- item: Nosotros
+  url: nosotros/
+- item: Label & Promotion
+  url: label-and-promotion/
+- item: Noticias
+  url: categories/noticias/
+- item: Discos y Multimedia
+  url: categories/discos-videos-y-playlists/
+- item: Entrevistas
+  url: categories/entrevistas/
+- item: Columnas
+  url: categories/columnas/
+- item: Contacto
+  url: contacto/
 
 #   ananke_socials:
 #     - name: instagram

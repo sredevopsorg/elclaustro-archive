@@ -4,11 +4,11 @@
   "frontMatter.content.publicFolder": "static/images",
   "frontMatter.content.pageFolders": [
     {
-      "title": "posts",
+      "title": "post",
       "path": "[[workspace]]/content/posts"
         },
     {
-      "title": "pages",
+      "title": "page",
       "path": "[[workspace]]/content/pages"
     }
   ],
@@ -64,9 +64,7 @@
   ],
   "frontMatter.taxonomy.contentTypes": [
     {
-      "name": "posts",
-      "fileType": "md",
-      "template": "",
+      "name": "post",
       "pageBundle": false,
       "previewPath": null,
       "fields": [
@@ -83,9 +81,7 @@
         {
           "title": "Publishing date",
           "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
+          "type": "datetime"
         },
         {
           "title": "Is in draft",
@@ -117,9 +113,7 @@
         {
           "title": "url",
           "name": "url",
-          "type": "string",
-          "taxonomyId": "slug",
-          "default": "{{ $var := slug }}"
+          "type": "slug"
         },
         {
           "title": "type",
