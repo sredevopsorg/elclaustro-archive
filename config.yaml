@@ -36,6 +36,7 @@ markup:
         tags: true
         categories: true
 
+
       autoHeadingID: true
       autoHeadingIDType: github
       wrapStandAloneImageWithinParagraph: true
@@ -60,7 +61,7 @@ enableGitInfo: true
 enableInlineShortcodes: true
 
 permalinks:
-  posts: /:title/
+  posts: /:section/:title/
   pages: /:title/
   section: /:section/
   taxonomies: /:section/:slug/
@@ -68,8 +69,9 @@ permalinks:
 #   month: /:year/:month/
 #   day: /:year/:month/:day/
   tag: /tag/:slug/
-  category: /category/:slug/
-  categories: /categories/:slug/
+  category: /:slug/
+  categories: /:slug/
+  series: /series/:slug/
 
 
 resourceDir: resources
@@ -78,7 +80,7 @@ Paginate: 4
 googleAnalytics: 'G-PJ5PR0W1LV'
 sitemap:
   changefreq: weekly
-  priority: 0.5
+  priority: 1
   filename: sitemap.xml
 rss:
   filename: index.xml
@@ -98,8 +100,8 @@ params:
   locale: es-CL
   author: 'Nicolas Georger'
   favicon: 'favicon.ico'
-  site_logo: 'logo.png'
-  logo: 'logo.png'
+  site_logo: 'images/logo.svg'
+  logo: 'images/logo.svg'
   keywords: 'El Claustro'
   ga_analytics: 'G-PJ5PR0W1LV'
 #   ga_verify: ''
@@ -107,32 +109,24 @@ params:
   twitter: 'elclaustro'
   twitter_card: 'summary'
   twitter_creator: 'elclaustro'
-  # blogDir: content/posts
+  blogDir: content
   mainSections:
-    # - post
-    # - page
+    - posts
     - post
-    # - Columnas
-    # - page
+    - section
+    - sections
+    - category
+    - categories
+    - tag
+    - tags
+  #   # - post
+  #   # - page
+  #   - posts
+  #   - post
+  #   # - Columnas
+  #   # - page
   disableDarkMode: false
-menu:
-- item: Inicio
-  url: /
-- item: Nosotros
-  url: nosotros/
-- item: Label & Promotion
-  url: label-and-promotion/
-- item: Noticias
-  url: categories/noticias/
-- item: Discos y Multimedia
-  url: categories/discos-videos-y-playlists/
-- item: Entrevistas
-  url: categories/entrevistas/
-- item: Columnas
-  url: categories/columnas/
-- item: Contacto
-  url: contacto/
-
+  disableComments: true
 #   ananke_socials:
 #     - name: instagram
 #       url: 'https://www.instagram.com/elclaustrocl'

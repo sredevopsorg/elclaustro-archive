@@ -6,53 +6,47 @@
     {
       "title": "post",
       "path": "[[workspace]]/content/posts"
-        },
+    },
     {
       "title": "page",
       "path": "[[workspace]]/content/pages"
     }
   ],
   "frontMatter.taxonomy.tags": [
-    "Argentina",
-    "Binzatina",
-    "Brasil",
-    "Chile",
-    "Christian Death",
-    "Coleman",
+    "Columnas",
     "Contenido Enviado",
-    "DarkCorp",
-    "DarkCorpInside",
-    "Darkwave",
-    "Deadchovsky",
-    "Deathrock",
+    "Destacados",
     "Discos, Videos y Playlists",
-    "En Vivo",
     "Entrevistas",
-    "Feria",
-    "Fields of the Nephilim",
-    "Francia",
-    "Gothic Rock",
     "Noticias",
-    "Peter Murphy",
+    "Darkwave",
+    "Deathrock",
+    "En Vivo",
+    "Gothic Rock",
     "Post Punk",
     "Release the Bats",
-    "Teatro Comunitario Novedades",
-    "The Mission UK",
-    "amadeus",
-    "archivo",
-    "bandas",
-    "chile",
-    "dark",
-    "el claustro",
-    "goth",
-    "gótico",
-    "label",
-    "niennor",
-    "promotion",
-    "repositorio",
-    "underground",
-    "victor merida",
-    "xianotic"
+    "Dark",
+    "El Claustro",
+    "Goth",
+    "Gótico",
+    "Underground",
+    "Chile",
+    "Argentina",
+    "Mexico",
+    "Brasil",
+    "Colombia",
+    "Ecuador",
+    "Perú",
+    "Uruguay",
+    "Venezuela",
+    "Bolivia",
+    "Estados Unidos",
+    "Canada",
+    "Centroamérica",
+    "Europa",
+    "Oceanía",
+    "Asia",
+    "Africa"
   ],
   "frontMatter.taxonomy.categories": [
     "Columnas",
@@ -62,6 +56,7 @@
     "Entrevistas",
     "Noticias"
   ],
+  "frontMatter.content.defaultFileType": ".md",
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "post",
@@ -113,18 +108,90 @@
         {
           "title": "url",
           "name": "url",
-          "type": "slug"
+          "type": "string",
+          "default": "{{slug}}"
         },
         {
           "title": "type",
           "name": "type",
-          "default": "post",
-          "type": "choice",
-          "choices": ["page","post"]
-          
+          "type": "string",
+          "default": "post"
+        },
+        {
+          "title": "slug",
+          "name": "slug",
+          "type": "slug"
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "page",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "image"
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string",
+          "default": "page"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "excerpt",
+          "name": "excerpt",
+          "type": "string"
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        },
+        {
+          "title": "url",
+          "name": "url",
+          "type": "string"
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.content.snippets": {
+    "Youtube": {
+      "description": "",
+      "body": "{{< youtube id=\"\" > }}",
+      "isMediaSnippet": true
+    },
+    "Spotify": {
+      "description": "",
+      "body": "{{< spotify id=\"\" type=\"\" >}}",
+      "isMediaSnippet": true
+    }
   }
-
+}

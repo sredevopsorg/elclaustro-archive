@@ -5,13 +5,13 @@ description: Disponibilizar en plataformas de streaming el mayor catálogo de ba
   Latinoamérica.
 image: ""
 type: page
-slug: el-claustro-label-promotion
+slug: label-promotion
 date: 2023-01-04T21:22:50.826Z
 excerpt: Nuestro label tiene como objetivo disponibilizar en plataformas de streaming
   el mayor catálogo de bandas y discos de la escena oscura (gótica, dark, etc),
   tanto de Chile como Latinoamérica.
 author: ngeorger
-lastmod: 2023-01-18T06:42:14.040Z
+lastmod: 2023-01-23T05:49:01.036Z
 url: label-and-promotion
 ---
 
