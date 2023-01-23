@@ -1,7 +1,7 @@
 name: Convert issues to markdown.
 on:
   issues:
-    types: [opened, edited]
+    types: [opened, edited, reopened]
   push:
     paths:
       - .github/workflows/main.yml
@@ -13,41 +13,41 @@ jobs:
   convert-issues-to-markdown:
     runs-on: ubuntu-latest
     permissions:
-      issues: read
-      pull-requests: read
-      contents: write
+        contents: write
+        pull-requests: write
+        issues: read
 
+    
     name: Convert issues to markdown.
     steps:
       - name: checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
-
+          
 
       - name: Fetch issues and generate markdowns
         uses: sredevopsdev/hugo-with-github-issues@main
         id: hugoissues
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          repo: elclaustro
-          owner: sredevopsdev
-          skip-author: 'false'
-          use-issue-seperator: 'true'
+          github-token: '${{ secrets.GITHUB_TOKEN }}'
+          repo: 'hugo-with-github-issues'
+          owner: 'sredevopsdev'
+          skip-author: 'github-actions[bot]'
+          use-issue-seperator: 'false'
           output: 'content/posts'
           issue-state: 'open'
           skip-pull-requests: 'true'
-          
       - name: Commit files
         env:
-          GITHUB_USERNAME: ${{ github.actor }}
-          GITHUB_EMAIL: ${{ github.actor }}@gmail.com
+          GITHUB_USERNAME: '${{ github.actor }}'
+          GITHUB_EMAIL: '${{ github.actor }}@sredevops.dev'
         run: |
+          date > generated.txt
           git config --global user.email ${{ env.GITHUB_EMAIL }} &&
           git config --global user.name ${{ env.GITHUB_USERNAME }} &&
-          git config --global --add safe.directory $(pwd) &&
+          git checkout -b ${{ github.sha }} &&
           git add . &&
-          git commit -m "Update posts from issues ${{ github.sha }}" &&
-          git push
+          git commit -m "Create new posts from issues, added ${{ github.sha }} &&
+          git push --set-upstream origin ${{ github.sha }} || true
