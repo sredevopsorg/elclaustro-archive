@@ -90,4 +90,4 @@ repository-open-graph-template.png~
 .tmp.driveupload
 resources/_gen/**
 themes/theme-hugo-elclaustro
-themes/newsroom
+themes/newsroom/**
