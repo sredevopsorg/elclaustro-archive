@@ -38,9 +38,6 @@
     ],
     "frontMatter.templates.enabled": true,
     "frontMatter.templates.prefix": "",
-    "frontMatter.taxonomy.tags": [
-        
-    ],
     "frontMatter.global.modes": [
     {
         "name": "production",

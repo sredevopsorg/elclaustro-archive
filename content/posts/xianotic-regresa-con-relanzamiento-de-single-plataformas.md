@@ -1,30 +1,27 @@
 ---
 title: Xianotic regresa con relanzamiento de single a Plataformas
-image: /xianotic Medium.webp
+image: xianotic Medium.webp
 description: Victor Manuel Mérida,  Amadeus (Virgine Dramatica, Undeads, etc.), regresa
   para relanzar uno de sus singles a plataformas de streaming. This abyss in
   your arms
 type: post
-lastmod: 2023-01-24T09:40:49.370Z
+lastmod: 2023-01-24T10:48:25.235Z
 author: victormerida@chachacoma.com
 date: 2023-01-17T06:56:01.101Z
 categories:
   - Noticias
   - Contenido Enviado
 tags:
-  - xianotic
-  - amadeus
-  - victor merida
-  - el claustro
-  - label
-  - promotion
+  - Chile
+  - Dark
+  - Goth
+  - Darkwave
 draft: false
 excerpt: Victor Manuel Mérida,  Amadeus (Virgine Dramatica, Undeads, etc.), regresa
   para relanzar uno de sus singles a plataformas de streaming. This abyss in
   your arms
 slug: xianotic-regresa-con-relanzamiento-de-single-plataformas
 preview: /xianotic Medium.webp
-url: /xianotic-regresa-con-relanzamiento-de-single-plataformas
 ---
 
 El proyecto solista (por ahora) de **Victor Manuel Mérida**, mejor conocido  _**Amadeus**_ (_Virgine Dramatica, Undeads_, etc.), regresa desde el más allá para relanzar uno de sus singles a plataformas de streaming. **_"This abyss in your arms"_** es el elegido para abrir los fuegos digitales de este proyecto, donde destacados músicos nacionales colaboraron y participaron, como **[Melhaller](https://open.spotify.com/artist/7kVnXhRBRsvMAvnyezpuMz?si=Dfa-ofYJQyG3ZvOkhKk_EQ)** (quien compuso el single), Leo Pampa (guitarras) y Yenia Saa (coros), entre otros.
