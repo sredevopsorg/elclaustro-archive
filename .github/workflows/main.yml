@@ -32,13 +32,13 @@ jobs:
         id: hugoissues
         with:
           github-token: '${{ secrets.GITHUB_TOKEN }}'
-          repo: 'hugo-with-github-issues'
+          repo: 'elclaustro'
           owner: 'sredevopsdev'
-          skip-author: 'github-actions[bot]'
-          use-issue-seperator: 'false'
+          skip-author: 'false'
+          use-issue-seperator: 'true'
           output: 'content/posts'
           issue-state: 'open'
-          skip-pull-requests: 'true'
+          skip-pull-requests: 'false'
       - name: Commit files
         env:
           GITHUB_USERNAME: '${{ github.actor }}'
@@ -50,4 +50,4 @@ jobs:
           git checkout -b ${{ github.sha }} &&
           git add . &&
           git commit -m "Create new posts from issues, added ${{ github.sha }} &&
-          git push --set-upstream origin ${{ github.sha }} || true
+          git push  || true
