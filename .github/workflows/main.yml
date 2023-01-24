@@ -1,7 +1,7 @@
 name: Convert issues to markdown.
 on:
   issues:
-    types: [opened, edited, reopened]
+    types: [opened, edited]
   push:
     paths:
       - .github/workflows/main.yml
@@ -13,41 +13,41 @@ jobs:
   convert-issues-to-markdown:
     runs-on: ubuntu-latest
     permissions:
-        contents: write
-        pull-requests: write
-        issues: read
+      issues: read
+      pull-requests: read
+      contents: write
 
-    
     name: Convert issues to markdown.
     steps:
       - name: checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
-          
+
 
       - name: Fetch issues and generate markdowns
         uses: sredevopsdev/hugo-with-github-issues@main
         id: hugoissues
         with:
-          github-token: '${{ secrets.GITHUB_TOKEN }}'
-          repo: 'elclaustro'
-          owner: 'sredevopsdev'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repo: elclaustro
+          owner: sredevopsdev
           skip-author: 'false'
           use-issue-seperator: 'true'
           output: 'content/posts'
           issue-state: 'open'
-          skip-pull-requests: 'false'
+          skip-pull-requests: 'true'
+          
       - name: Commit files
         env:
-          GITHUB_USERNAME: '${{ github.actor }}'
-          GITHUB_EMAIL: '${{ github.actor }}@sredevops.dev'
+          GITHUB_USERNAME: ${{ github.actor }}
+          GITHUB_EMAIL: ${{ github.actor }}@gmail.com
         run: |
-          date > generated.txt
           git config --global user.email ${{ env.GITHUB_EMAIL }} &&
           git config --global user.name ${{ env.GITHUB_USERNAME }} &&
-          git checkout -b ${{ github.sha }} &&
+          git config --global --add safe.directory $(pwd) &&
           git add . &&
-          git commit -m "Create new posts from issues, added ${{ github.sha }} &&
-          git push  || true
+          git commit -m "Update posts from issues ${{ github.sha }}" &&
+          git push
