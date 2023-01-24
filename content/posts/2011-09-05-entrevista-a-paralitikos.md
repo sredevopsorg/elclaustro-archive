@@ -10,13 +10,13 @@ tumblr_elclaustro-blog_id:
 categories:
   - Entrevistas
 tags: []
-lastmod: 2023-01-10T04:11:28.124Z
+lastmod: 2023-01-24T09:40:43.152Z
 ---
 Es un placer y un honor poder presentar esta entrevista a Paralítikos, una de las bandas afterpunk mas destacadas de España. En esta ocasión nos han respondido entusiasmadamente a las preguntas Ricardo, Kike, Elizia y Carmelo, quienes conforman la banda en la actualidad.
 
 Entrevista por Niennor Georger
 
-<img decoding="async" src="https://64.media.tumblr.com/7f97d297f78c84f6e0f22dd31acfc601/90616573c4dc6ef3-ee/s540x810/c01644fecc8ce602a965ae48e97df32939ae280c.jpg" data-orig-height="299" data-orig-width="400" />
+<img decoding="async" src="https://64.media.tumblr.com/7f97d297f78c84f6e0f22dd31acfc601/90616573c4dc6ef3-ee/s540x810/c01644fecc8ce602a965ae48e97df32939ae280c.webp" data-orig-height="299" data-orig-width="400" />
 
 **1.- ‚¡Saludos!, primero que todo muchas gracias por darte el tiempo de contestar a nuestras preguntas. Dentro de la escena oscura en general se está sintiendo poco a poco como la escena oscura tiende a volver a sus raíces (post punk, deathrock, etc). ‚¿Ustedes se sienten parte de esta idea de volver a lo original, volver a sentir ese encantamiento curioso con la música?**
 
@@ -24,7 +24,7 @@ Ricardo.- En realidad nunca hemos abandonado el criterio Afterpunk con el que em
 
 Es verdad que sí ha evolucionado el sonido de la banda ya que son muchos años de existencia, cambios de formación, etc.. y éso da más capacidad técnica y creativa.
 
-<img decoding="async" loading="lazy" src="http://web.archive.org/web/20071017084315im_/http://elclaustro.cl/cutenews/data/upimages/conciertoHeaven1.jpg" height="209" width="190" align="left" border="0" /> Kike.- Nuestro sonido se puede englobar dentro de esa primera oleada de música oscura. De modo que queda claro que nuestras referencias y gustos musicales las encontramos en ese estilo más que en otros de los que más tarde pasaron a formar parte de la escena gótica.
+<img decoding="async" loading="lazy" src="http://web.archive.org/web/20071017084315im_/http://elclaustro.cl/cutenews/data/upimages/conciertoHeaven1.webp" height="209" width="190" align="left" border="0" /> Kike.- Nuestro sonido se puede englobar dentro de esa primera oleada de música oscura. De modo que queda claro que nuestras referencias y gustos musicales las encontramos en ese estilo más que en otros de los que más tarde pasaron a formar parte de la escena gótica.
 
 Por ello, me alegra especialmente este resurgimiento del Afterpunk y además espero que ello &ldquo;limpie&rdquo; en parte esa imagen que en los últimos tiempos se ha formado de los &ldquo;góticos&rdquo; como una especie de &ldquo;heavies light&rdquo; o &ldquo;bakaladeros&rdquo;.
 

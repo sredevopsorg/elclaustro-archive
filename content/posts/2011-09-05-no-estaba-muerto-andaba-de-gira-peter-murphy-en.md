@@ -15,8 +15,9 @@ tags:
   - chile
   - En Vivo
   - Peter Murphy
+lastmod: 2023-01-24T09:40:43.165Z
 ---
-<img decoding="async" src="https://64.media.tumblr.com/tumblr_lr18sggExI1r04xdq.jpg" />Escrito por Malinconia el Miércoles, 18 Febrero 2009, foto por ElBeso.cl 
+<img decoding="async" src="https://64.media.tumblr.com/tumblr_lr18sggExI1r04xdq.webp" />Escrito por Malinconia el Miércoles, 18 Febrero 2009, foto por ElBeso.cl 
 
 Finalmente sucedió. Y de forma inesperada, de principio a fin. Ya desde un comienzo, la noticia del concierto de **Peter Murphy** llegó en el momento que menos imaginábamos. Una grata sorpresa que por momentos temimos que no se cumpliría -cuando se corrió el concierto-, pero afortunadamente no fue así.
 

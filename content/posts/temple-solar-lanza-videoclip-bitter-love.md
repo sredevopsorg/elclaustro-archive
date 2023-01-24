@@ -14,7 +14,7 @@ categories:
 slug: temple-solar-lanza-videoclip-bitter-love
 cover: https://user-images.githubusercontent.com/34670018/213978639-afbb2f70-8bdb-4dfe-a701-88da33c3bfa8.jpg
 image: https://user-images.githubusercontent.com/34670018/213978639-afbb2f70-8bdb-4dfe-a701-88da33c3bfa8.jpg
-lastmod: 2023-01-23T13:46:36.308Z
+lastmod: 2023-01-24T09:51:34.316Z
 url: temple-solar-lanza-videoclip-bitter-love
 description: La banda Chilena de Darkwave / Goth Rock Temple Solar  ha publicado, en su
   cuenta oficial de youtube, el segundo single de su EP llamado ‘City’, el
@@ -30,7 +30,7 @@ El track elegido por la banda es  Bitter Love, canción que representa una parte
 >
 > - Carlos, guitarrista de Temple Solar
 
-{{< youtube "https://www.youtube.com/watch?v=rUW9jVO7uc4" >}}
+{{< youtube "rUW9jVO7uc4" >}}
 
 Instagram: [templesolar.darkwavegoth](https://instagram.com/templesolar.darkwavegoth)
 

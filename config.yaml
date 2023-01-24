@@ -1,7 +1,7 @@
 
 baseurl: 'https://elclaustro.cl/'
 title: El Claustro
-theme: newsroom
+theme: blist
 # author: Weru
 copyright: 'Copyleft.'
 canonifyurls: true
@@ -30,6 +30,7 @@ markup:
       table: true
       taskList: true
       typographer: true
+
       
     parser:
       attribute:
@@ -44,12 +45,16 @@ markup:
         slug: true
         tags: true
         categories: true
+        images: true
+        image: true
+        
 
 
       autoHeadingID: true
       autoHeadingIDType: github
       wrapStandAloneImageWithinParagraph: true
   highlight:
+    style: darkcula
     codeFences: true
     guessSyntax: true
     hl_Lines: ''
@@ -60,7 +65,7 @@ markup:
     tabWidth: 2
 # disqusShortname: elclaustrocl
 baseURL: https://elclaustro.cl/
-languageCode: es_CL
+languageCode: es
 url: https://elclaustro.cl
 name: "El Claustro"
 description: Difundimos Cultura Dark, Gótica y Alternativa
@@ -84,7 +89,11 @@ permalinks:
 
 
 resourceDir: resources
-DefaultContentLanguage: es
+staticDir: static
+blogDir: content
+publishDir: public
+tailwindConfig: tailwind.config.js
+
 Paginate: 4
 googleAnalytics: 'G-PJ5PR0W1LV'
 sitemap:
@@ -95,10 +104,18 @@ rss:
   filename: index.xml
   limit: 20
   link: https://elclaustro.cl/index.xml
-  language: es-CL
+  language: es
   title: El Claustro
   description: Difundimos Cultura Dark, Gótica y Alternativa
+    
 params:
+  ascentColor: black
+  darkModeToggle: true
+  darkModeSync: true
+  darkModeStyle: 'dark'
+  darkmode: dark
+  enableDarkMode: true
+  toc: true
   AuthorName: Nicolas Georger
   GitHubUser: ngeorger
   SiteTitle: El Claustro
@@ -108,44 +125,78 @@ params:
   summary: Difundimos Cultura Dark, Gótica y Alternativa
   locale: es-CL
   author: 'Nicolas Georger'
-  favicon: 'favicon.ico'
-  site_logo: 'images/logo.svg'
-  logo: 'images/logo.svg'
-  keywords: 'El Claustro'
+  favicon: '/icons/favicon.ico'
+  site_logo: '/logo.svg'
+  logo: '/logo.svg'
+  keywords: "Goth, Gotico, Dark, Chile, Castellano, Español, Post Punk, Deathrock"
   ga_analytics: 'G-PJ5PR0W1LV'
 #   ga_verify: ''
   instagram: 'elclaustrocl'
   twitter: 'elclaustro'
   twitter_card: 'summary'
   twitter_creator: 'elclaustro'
-  blogDir: content
-  mainSections:
-    - posts
-    - post
-    - section
-    - sections
-    - category
-    - categories
-    - tag
-    - tags
-  #   # - post
-  #   # - page
-  #   - posts
-  #   - post
-  #   # - Columnas
-  #   # - page
-  disableDarkMode: false
-  disableComments: true
-#   ananke_socials:
-#     - name: instagram
-#       url: 'https://www.instagram.com/elclaustrocl'
-#     - name: youtube
-#       url: 'https://www.youtube.com/@elclaustrocl'
-#     - name: facebook
-#       url: 'https://www.facebook.com/elclaustrocl'
-#     - name: twitter
-#       url: 'https://www.twitter.com/elclaustro'
-#     - name: github
-#       url: 'https://www.github.com/sredevopsdev/elclaustro'
-#     - name: rss
-#       url: 'https://elclaustro.cl/index.xml'
+  disableLightMode: true
+
+  comments:
+    system: giscus
+    repo: 'sredevopsdev/elclaustro'
+    repoid: ''
+    category: 'General'
+    categoryid: ''
+    mapping: ''
+    strict: 'false'
+    reactionsenabled: 'true'
+    emitmetadata: 'true'
+    inputposition: 'bottom'
+    theme: 'dark'
+  homepage:
+    social:
+      title: Plataformas El Claustro
+      description: Hacemos contracultura en las redes sociales
+      icons:
+        - website: instagram
+          url: 'https://www.instagram.com/elclaustrocl'
+        - website: youtube
+          url: 'https://www.youtube.com/@elclaustrocl'
+        - website: facebook
+          url: 'https://www.facebook.com/elclaustrocl'
+        - website: twitter
+          url: 'https://www.twitter.com/elclaustro'
+        - website: github
+          url: 'https://www.github.com/sredevopsdev/elclaustro'
+        - website: rss
+          url: 'https://elclaustro.cl/index.xml'
+
+menu:
+  main:
+  - name: Inicio
+    url: /
+    weight: 1
+  - name: Nosotros
+    url: nosotros/
+    weight: 2
+  - name: Label & Promotion
+    url: label-and-promotion/
+    weight: 3
+  - name: Noticias
+    url: /noticias/
+    weight: 4
+  - name: Discos y Multimedia
+    url: /discos-videos-y-playlists/
+    weight: 5
+  - name: Entrevistas
+    url: /entrevistas/
+    weight: 6
+  - name: Columnas
+    url: /columnas/
+    weight: 7
+  - name: Contacto
+    url: contacto/
+build:
+  writeStats: false
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+  

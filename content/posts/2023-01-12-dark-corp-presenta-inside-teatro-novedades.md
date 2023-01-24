@@ -2,7 +2,7 @@
 title: 'Dark Corp presenta: "INSIDE Teatro Novedades"'
 description: ""
 date: 2023-01-13T23:18:55.162Z
-preview: /images/wp-content/319887950_511013844338584_4425611462702603530_n.jpg
+preview: /images/wp-content/319887950_511013844338584_4425611462702603530_n.webp
 draft: false
 tags:
   - DarkCorp
@@ -12,10 +12,10 @@ tags:
   - Feria
 categories:
   - Noticias
-lastmod: 2023-01-13T23:21:46.473Z
+lastmod: 2023-01-24T09:40:43.158Z
 slug: dark-corp-presenta-teatro-novedades
 type: post
-image: /wp-content/319887950_511013844338584_4425611462702603530_n.jpg
+image: /wp-content/319887950_511013844338584_4425611462702603530_n.webp
 ---
 
 El Teatro Comunitario Novedades se encuentra ubicado en Cueto #257, corazón de Barrio Yungay, cercano a metro Cumming y a minutos de metro Quinta Normal, a solo dos cuadras de Plaza Brasil. Te esperamos con las mejores bandas, expositores, foodtrucks y performance artísticas los días 14 y 15 de Enero, a partir de las 12:00 hrs.

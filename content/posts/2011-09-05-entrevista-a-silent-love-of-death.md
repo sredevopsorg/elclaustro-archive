@@ -13,8 +13,9 @@ categories:
   - Entrevistas
 tags:
   - Entrevistas
+lastmod: 2023-01-24T09:40:43.167Z
 ---
-<img decoding="async" src="https://64.media.tumblr.com/tumblr_lr18eoo4661r04xdq.jpg" />
+<img decoding="async" src="https://64.media.tumblr.com/tumblr_lr18eoo4661r04xdq.webp" />
 
 Presentamos esta entrevista a la banda Darkfolk/Neofolk española Silent Love of Death. Nos respondieron de manera muy entusiasmada los hermanos Miguel Ángel y Juan Carlos desde España.
 

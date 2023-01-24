@@ -3,14 +3,14 @@ title: Fricción Si! Soda No!
 author: Amadeus
 type: post
 date: 2011-09-05T06:48:00+00:00
-image: https://64.media.tumblr.com/665904e80e2c61df804b03b9989837ca/c9183e3831a935fa-c7/s540x810/52bdbe9bcebb4f9a80ffbd939354482aab042fe6.jpg
+image: https://64.media.tumblr.com/665904e80e2c61df804b03b9989837ca/c9183e3831a935fa-c7/s540x810/52bdbe9bcebb4f9a80ffbd939354482aab042fe6.webp
 # # url: /friccion-si-soda-no/
 categories:
   - Columnas
 tags:
   - Argentina
   - Coleman
-lastmod: 2023-01-19T21:10:27.585Z
+lastmod: 2023-01-24T09:40:43.156Z
 ---
 
 *Escrito por Amadeus en Enero &#8211; 8 &#8211; 2010

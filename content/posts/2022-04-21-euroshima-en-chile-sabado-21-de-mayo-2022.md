@@ -4,10 +4,10 @@ author: Niennor
 type: post
 date: 2022-04-21T16:27:08+00:00
 # url: /euroshima-en-chile-sabado-21-de-mayo-2022/
-image: /wp-content/uploads/2022/04/278143867_1639602806405241_4507035180442723711_n-920x613.jpg
+image: /wp-content/uploads/2022/04/278143867_1639602806405241_4507035180442723711_n-920x613.webp
 categories:
   - Noticias
-lastmod: 2023-01-05T09:48:40.824Z
+lastmod: 2023-01-24T09:40:43.145Z
 ---
  
 

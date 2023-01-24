@@ -1,5 +1,6 @@
 ---
-title: 'Release the Bats: Undead, Undead Undead!!! Viernes 16 de Diciembre, Santa Filomena 126'
+title: "Release the Bats: Undead, Undead Undead!!! Viernes 16 de Diciembre, Santa
+  Filomena 126"
 author: Niennor
 type: post
 date: 2011-11-15T17:43:00+00:00
@@ -11,13 +12,13 @@ tumblr_elclaustro-blog_id:
 categories:
   - Noticias
 format: gallery
-
+lastmod: 2023-01-24T09:40:43.035Z
 ---
 <div id='gallery-1' class='gallery galleryid-148 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://elclaustro.cl/release-the-bats-undead-undead-undead-viernes/attachment/149/'><img width="150" height="150" src="https://elclaustro.cl/wp-content/uploads/2011/11/tumblr_lupqk8bcdm1r2fqrro1_640-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://elclaustro.cl/wp-content/uploads/2011/11/tumblr_lupqk8bcdm1r2fqrro1_640-150x150.jpg 150w, https://elclaustro.cl/wp-content/uploads/2011/11/tumblr_lupqk8bcdm1r2fqrro1_640-96x96.jpg 96w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://elclaustro.cl/release-the-bats-undead-undead-undead-viernes/attachment/149/'><img width="150" height="150" src="https://elclaustro.cl/wp-content/uploads/2011/11/tumblr_lupqk8bcdm1r2fqrro1_640-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://elclaustro.cl/wp-content/uploads/2011/11/tumblr_lupqk8bcdm1r2fqrro1_640-150x150.webp 150w, https://elclaustro.cl/wp-content/uploads/2011/11/tumblr_lupqk8bcdm1r2fqrro1_640-96x96.webp 96w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure>
 </div>
 

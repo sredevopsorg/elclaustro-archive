@@ -16,10 +16,11 @@ tags:
   - Deathrock
   - Entrevistas
   - Francia
+lastmod: 2023-01-24T09:40:43.154Z
 ---
 Es un honor y un placer presentar la entrevista a una de las bandas más destacadas y prometedoras de la escena deathrock mundial. Deadchovsky contestó a nuestro cuestionario, donde hablamos desde sus discos e inspiraciones hasta la Tercera Guerra Mundial.
 
-<img decoding="async" src="https://64.media.tumblr.com/tumblr_lr17ofnCru1r04xdq.jpg" /> 
+<img decoding="async" src="https://64.media.tumblr.com/tumblr_lr17ofnCru1r04xdq.webp" /> 
 
 Con ustedes, el Espíritu Santo de Igor, el Corpus Vodka, Deadchovsky!
 

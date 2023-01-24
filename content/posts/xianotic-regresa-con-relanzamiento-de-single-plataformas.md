@@ -1,11 +1,11 @@
 ---
 title: Xianotic regresa con relanzamiento de single a Plataformas
-image: /xianotic Medium.jpeg
+image: /xianotic Medium.webp
 description: Victor Manuel Mérida,  Amadeus (Virgine Dramatica, Undeads, etc.), regresa
   para relanzar uno de sus singles a plataformas de streaming. This abyss in
   your arms
 type: post
-lastmod: 2023-01-20T06:18:04.663Z
+lastmod: 2023-01-24T09:40:49.370Z
 author: victormerida@chachacoma.com
 date: 2023-01-17T06:56:01.101Z
 categories:
@@ -23,7 +23,7 @@ excerpt: Victor Manuel Mérida,  Amadeus (Virgine Dramatica, Undeads, etc.), reg
   para relanzar uno de sus singles a plataformas de streaming. This abyss in
   your arms
 slug: xianotic-regresa-con-relanzamiento-de-single-plataformas
-preview: /xianotic Medium.jpeg
+preview: /xianotic Medium.webp
 url: /xianotic-regresa-con-relanzamiento-de-single-plataformas
 ---
 

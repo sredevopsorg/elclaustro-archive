@@ -5,11 +5,11 @@ author: ngeorger
 type: post
 date: 2023-01-05T00:20:38.398Z
 excerpt: ""
-image: /wp-content/polyester.jpeg
+image: /wp-content/polyester.webp
 categories:
   - Noticias
 tags: []
-lastmod: 2023-01-05T09:48:40.826Z
+lastmod: 2023-01-24T09:40:49.351Z
 description: ""
 preview: ""
 keywords:
