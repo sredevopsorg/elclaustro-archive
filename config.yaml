@@ -6,6 +6,15 @@ theme: newsroom
 copyright: 'Copyleft.'
 canonifyurls: true
 paginate: 10
+imaging:
+  anchor: Smart
+  anchorPosition: Center
+  fit: Inside
+  bgColor: '#000000'
+  hint: photo
+  quality: 75
+  resampleFilter: Box
+  format: webp
 markup:
   goldmark:
     renderer:
