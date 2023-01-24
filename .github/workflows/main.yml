@@ -28,7 +28,7 @@ jobs:
 
 
       - name: Fetch issues and generate markdowns
-        uses: sredevopsdev/hugo-with-github-issues@main
+        uses: sredevopsdev/hugo-with-github-issues@v0.0.3
         id: hugoissues
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
