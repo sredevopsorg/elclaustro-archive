@@ -1,7 +1,7 @@
 ---
 title: Nosotros
 date: 2023-01-20T04:14:56.383Z
-lastmod: 2023-01-23T05:41:01.200Z
+lastmod: 2023-01-24T13:06:24.730Z
 url: /nosotros/
 slug: nosotros
 type: page
@@ -9,7 +9,7 @@ description: Queremos rescatar, documentar y promocionar las distintas expresion
   cultura oscura, gótica, dark (o como desees llamarla 😉)
 excerpt: Queremos rescatar, documentar y promocionar las distintas expresiones de la
   cultura oscura, gótica, dark (o como desees llamarla 😉), principalmente
-  música de Chile, Latinoamérica y en general, hispanoparlantes
+  música de Chile, Latinoamérica e hispanoparlantes
 author: ngeorger
 image: ""
 ---

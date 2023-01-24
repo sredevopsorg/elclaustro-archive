@@ -56,13 +56,5 @@
         "frontMatter.site.baseURL": "http://localhost:1313/"
         }
     }
-    ],
-    "frontMatter.data.folders": [
-    {
-        "path": "data",
-        "type": "yaml",
-        "name": "data",
-        "description": "Data files"
-    }
     ]
 }

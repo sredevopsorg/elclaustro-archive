@@ -95,7 +95,7 @@ blogDir: content
 publishDir: public
 tailwindConfig: tailwind.config.js
 
-Paginate: 4
+Paginate: 10
 googleAnalytics: 'G-PJ5PR0W1LV'
 sitemap:
   changefreq: weekly
@@ -126,9 +126,9 @@ params:
   summary: Difundimos Cultura Dark, Gótica y Alternativa
   locale: es-CL
   author: 'Nicolas Georger'
-  favicon: '/icons/favicon.ico'
-  site_logo: '/logo.svg'
-  logo: '/logo.svg'
+  favicon: '/images/icon-elclaustro.svg'
+  # site_logo: 'images/logo.svg'
+  logo: '/images/logo.svg'
   keywords: "Goth, Gotico, Dark, Chile, Castellano, Español, Post Punk, Deathrock"
   ga_analytics: 'G-PJ5PR0W1LV'
 #   ga_verify: ''
@@ -148,8 +148,13 @@ params:
     strict: 'false'
     reactionsenabled: 'true'
     emitmetadata: 'true'
-    inputposition: 'bottom'
+    inputposition: 'top'
     theme: 'dark'
+    config:
+      repo: 'sredevopsdev/elclaustro'
+      repoId: 'MDEwOlJlcG9zaXRvcnkyNzIzNjg3MzE='
+      category: 'General'
+      categoryId: 'MDE4OkRpc2N1c3Npb25DYXRlZ29yeTEyMjQyMjMw'
   homepage:
     social:
       title: Plataformas El Claustro
@@ -174,10 +179,10 @@ menu:
     url: /
     weight: 1
   - name: Nosotros
-    url: nosotros/
+    url: /nosotros/
     weight: 2
   - name: Label & Promotion
-    url: label-and-promotion/
+    url: /label-and-promotion/
     weight: 3
   - name: Noticias
     url: /noticias/
@@ -192,7 +197,7 @@ menu:
     url: /columnas/
     weight: 7
   - name: Contacto
-    url: contacto/
+    url: /contacto/
 build:
   writeStats: false
 outputs:
@@ -200,4 +205,3 @@ outputs:
     - HTML
     - RSS
     - JSON
-  
