@@ -132,16 +132,6 @@
           "title": "preview",
           "name": "preview",
           "type": "string"
-        },
-        {
-          "title": "keywords",
-          "name": "keywords",
-          "type": "choice",
-          "choices": [
-            "manto negro",
-            "libro",
-            "historia del gotico en chile"
-          ]
         }
       ]
     },

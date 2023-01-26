@@ -3,12 +3,12 @@ title: Fricción Si! Soda No!
 author: Amadeus
 type: post
 date: 2011-09-05T06:48:00+00:00
-image: images/52bdbe9bcebb4f9a80ffbd939354482aab042fe6.jpg
+image: /images/52bdbe9bcebb4f9a80ffbd939354482aab042fe6.jpg
 categories:
   - Columnas
 tags:
   - Argentina
-lastmod: 2023-01-24T16:30:36.436Z
+lastmod: 2023-01-25T02:26:29.048Z
 url: friccion-si-soda
 slug: friccion-si-soda
 draft: false

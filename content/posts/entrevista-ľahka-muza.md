@@ -1,10 +1,10 @@
 ---
 title: Entrevista a Ľahká Múza
-image: images/wp-content/1885.webp
+image: /images/wp-content/1885.webp
 description: Es motivo de gran orgullo presentar la siguiente entrevista a la serpiente
   Gudrun, vocalista de la banda darkwave/ritual; Lahka Muza.
 type: post
-lastmod: 2023-01-24T16:47:57.478Z
+lastmod: 2023-01-25T02:26:26.606Z
 url: entrevista-ľahka-muza
 author: Leonardo Kendall
 # date: 2006-12-17T22:57:12.430Z

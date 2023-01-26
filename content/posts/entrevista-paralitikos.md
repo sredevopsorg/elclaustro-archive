@@ -1,16 +1,20 @@
 ---
 title: Entrevista a Paralitikos
 author: Niennor
-type: page
 date: 2011-09-05T04:22:05+00:00
-# url: /entrevista-a-paralitikos/
-tumblr_elclaustro-blog_permalink: ""
-tumblr_elclaustro-blog_id:
-  - 9821616453
+lastmod: 2023-01-25T03:04:18.273Z
+type: post
+url: entrevista-paralitikos
+description: "Es un placer y un honor poder presentar esta entrevista a Paralítikos, una de
+  las bandas afterpunk mas destacadas de España. "
+slug: entrevista-paralitikos
+draft: false
+tags:
+  - Europa
+  - Deathrock
 categories:
   - Entrevistas
-tags: []
-lastmod: 2023-01-24T09:40:43.152Z
+image: /images/paralitikos.webp
 ---
 Es un placer y un honor poder presentar esta entrevista a Paralítikos, una de las bandas afterpunk mas destacadas de España. En esta ocasión nos han respondido entusiasmadamente a las preguntas Ricardo, Kike, Elizia y Carmelo, quienes conforman la banda en la actualidad.
 

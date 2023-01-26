@@ -11,7 +11,8 @@ tumblr_elclaustro-blog_id:
 categories:
   - Discos, Videos y Playlists
   - Noticias
-lastmod: 2023-01-24T09:40:43.172Z
+lastmod: 2023-01-25T06:14:35.650Z
+url: peter-murphy-vuelve-chile-este-4-de-mayo
 ---
 <img decoding="async" loading="lazy" align="left" height="261" src="https://64.media.tumblr.com/tumblr_lzhph8vY8O1r04xdq.webp" width="261" />Una de las voces más aclamadas de la música británica vuelve por segunda vez a Santiago este Viernes 4 de Mayo, enmarcado en la gira de presentación de su más reciente trabajo titulado &ldquo;Ninth&rdquo;.
 

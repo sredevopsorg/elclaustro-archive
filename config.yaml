@@ -4,6 +4,9 @@ title: El Claustro
 theme: blist
 # author: Weru
 copyright: 'Copyleft.'
+hideMeta: false
+hidePageThumbnail: false
+hideThumbnail: false
 canonifyurls: true
 paginate: 10
 imaging:
@@ -53,7 +56,7 @@ markup:
 
       autoHeadingID: true
       autoHeadingIDType: github
-      wrapStandAloneImageWithinParagraph: true
+      wrapStandAloneImageWithinParagraph: false
   highlight:
     style: darkcula
     codeFences: true
@@ -84,7 +87,7 @@ permalinks:
 #   month: /:year/:month/
 #   day: /:year/:month/:day/
   tag: /tag/:slug/
-  category: /:slug/
+  category: /category/:slug/
   categories: /:slug/
   series: /series/:slug/
 
@@ -92,6 +95,7 @@ permalinks:
 resourceDir: resources
 staticDir: static
 blogDir: content
+contentDir: content
 publishDir: public
 tailwindConfig: tailwind.config.js
 
@@ -116,7 +120,7 @@ params:
   darkModeStyle: 'dark'
   darkmode: dark
   enableDarkMode: true
-  toc: true
+  toc: false
   AuthorName: Nicolas Georger
   GitHubUser: ngeorger
   SiteTitle: El Claustro

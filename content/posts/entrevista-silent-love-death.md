@@ -1,21 +1,21 @@
 ---
 title: Entrevista a Silent Love of Death
 author: Niennor
-type: page
+type: post
 date: 2011-09-05T04:28:05+00:00
-# url: /entrevista-a-silent-love-of-death/
-tumblr_elclaustro-blog_permalink:
-  - https://elclaustro-blog.tumblr.com/post/9821879325/entrevista-a-silent-love-of-death
-tumblr_elclaustro-blog_id:
-  - 9821879325
 categories:
   - Discos, Videos y Playlists
   - Entrevistas
 tags:
   - Entrevistas
-lastmod: 2023-01-24T09:40:43.167Z
+lastmod: 2023-01-25T05:46:57.821Z
+url: entrevista-silent-love-death
+draft: false
+image: /images/silent love of death.webp
+slug: entrevista-silent-love-death
 ---
-<img decoding="async" src="https://64.media.tumblr.com/tumblr_lr18eoo4661r04xdq.webp" />
+
+
 
 Presentamos esta entrevista a la banda Darkfolk/Neofolk española Silent Love of Death. Nos respondieron de manera muy entusiasmada los hermanos Miguel Ángel y Juan Carlos desde España.
 
