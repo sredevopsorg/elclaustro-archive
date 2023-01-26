@@ -1,13 +1,8 @@
 ---
 title: Entrevista a Deadchovsky
 author: Niennor
-type: page
+type: post
 date: 2011-09-05T04:21:00+00:00
-# url: /entrevista-a-deadchovsky/
-tumblr_elclaustro-blog_permalink:
-  - https://elclaustro-blog.tumblr.com/post/9821352588/entrevista-a-deadchovsky
-tumblr_elclaustro-blog_id:
-  - 9821352588
 categories:
   - Discos, Videos y Playlists
   - Entrevistas
@@ -16,15 +11,23 @@ tags:
   - Deathrock
   - Entrevistas
   - Francia
-lastmod: 2023-01-24T09:40:43.154Z
+lastmod: 2023-01-25T02:57:07.951Z
+keywords:
+  - deadchovsky
+description: Es un honor y un placer presentar la entrevista a una de las bandas más
+  destacadas y prometedoras de la escena deathrock mundial. Deadchovsky contestó
+  a nuestro cuestionario
+draft: false
+url: entrevista-deadchovsky
+slug: entrevista-deadchovsky
+image: /images/deadchovsky.webp
 ---
+
+{{< spotify id="6ZKJX6l0cBSwiDDBGFjl7o" type="album" >}}
+
 Es un honor y un placer presentar la entrevista a una de las bandas más destacadas y prometedoras de la escena deathrock mundial. Deadchovsky contestó a nuestro cuestionario, donde hablamos desde sus discos e inspiraciones hasta la Tercera Guerra Mundial.
 
-<img decoding="async" src="https://64.media.tumblr.com/tumblr_lr17ofnCru1r04xdq.webp" /> 
-
 Con ustedes, el Espíritu Santo de Igor, el Corpus Vodka, Deadchovsky!
-
-<!-- more -->
 
 **El Claustro: Existe algún propósito, una idea o un concepto a mostrar detrás de cada disco?**
 

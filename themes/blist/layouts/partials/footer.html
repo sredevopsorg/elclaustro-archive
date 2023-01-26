@@ -1,3 +1,14 @@
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 <footer class="container p-6 mx-auto flex justify-between items-center">
   <span class="text-sm font-light">
     {{ if (isset .Site.Params "copyright") }}

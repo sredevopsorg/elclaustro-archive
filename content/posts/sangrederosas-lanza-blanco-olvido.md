@@ -1,10 +1,10 @@
 ---
 title: SANGREDEROSAS lanza "Blanco Olvido"
-image: images/BlancoOlvido Caratula.webp
+image: /images/BlancoOlvido Caratula.webp
 description: SDR acaba de publicar su EP adelanto a su siquiente disco con su formación
   actual.
 type: post
-lastmod: 2023-01-24T16:41:48.341Z
+lastmod: 2023-01-25T02:26:34.141Z
 author: Niennor
 date: 2023-01-14T08:26:21.947Z
 categories:

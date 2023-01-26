@@ -4,7 +4,7 @@ author: ngeorger
 type: post
 date: 2023-01-05T01:15:53.985Z
 excerpt: Selección de músca dark, gótica y/o oscura hecha en Chile o por chilenos.
-lastmod: 2023-01-24T16:51:33.554Z
+lastmod: 2023-01-25T02:26:23.871Z
 url: elclaustro-cl-presenta-hecho-en-chile
 slug: elclaustro-cl-presenta-hecho-en-chile
 description: Selección de músca dark, gótica y/o oscura hecha en Chile o por chilenos.
@@ -14,7 +14,7 @@ tags:
 categories:
   - Discos, Videos y Playlists
   - Destacados
-image: images/wp-content/rtb1.webp
+image: /images/wp-content/rtb1.webp
 ---
 
 Selección de músca dark, gótica y/o oscura hecha en Chile o por chilenos.

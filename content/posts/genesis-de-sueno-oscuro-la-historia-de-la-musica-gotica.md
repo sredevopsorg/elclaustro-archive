@@ -15,7 +15,8 @@ tags:
   - gótico
   - Post Punk
 slug: genesis-de-sueno-oscuro-la-historia-de-la-musica-gotica
-lastmod: 2023-01-24T09:40:43.162Z
+lastmod: 2023-01-25T05:44:59.818Z
+url: genesis-de-sueno-oscuro-la-historia-de-la-musica-gotica
 ---
 _Publicado originalmente el 15 de diciembre del 2006, como una adaptación libre del artículo de Wikipedia en inglés sobre la música gotica o el rock gotico._
 

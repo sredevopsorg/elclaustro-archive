@@ -9,10 +9,10 @@ tags:
   - DarkCorp
 categories:
   - Noticias
-lastmod: 2023-01-24T16:28:20.095Z
+lastmod: 2023-01-25T06:23:36.137Z
 slug: dark-corp-presenta-teatro-novedades
 type: post
-image: wp-content/319887950_511013844338584_4425611462702603530_n.jpg.webp
+image: /images/wp-content/319887950_511013844338584_4425611462702603530_n.jpg.webp
 url: dark-corp-presenta-teatro-novedades
 ---
 

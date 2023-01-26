@@ -4,14 +4,14 @@ description: Binzatina - Camaleón
 date: 2023-01-04T18:55:15.123Z
 preview: /wp-content/uploads/camaleon.webp
 draft: false
-image: images/wp-content/binzatina-camaleon.webp
+image: /images/wp-content/binzatina-camaleon.webp
 tags:
   - Chile
   - Darkwave
 categories:
   - Discos, Videos y Playlists
   - Noticias
-lastmod: 2023-01-24T16:32:22.542Z
+lastmod: 2023-01-25T02:26:21.373Z
 slug: binzatina-camaleon
 type: post
 url: binzatina-camaleon

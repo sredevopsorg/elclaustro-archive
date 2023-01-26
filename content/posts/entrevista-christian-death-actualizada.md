@@ -4,14 +4,14 @@ author: Niennor
 type: post
 date: 2011-09-05T04:42:23+00:00
 # url: /entrevista-a-christian-death/
-image: images/wp-content/uploads/Screenshot-2022-11-20-at-14.42.47.jpeg.webp
+image: /images/wp-content/uploads/Screenshot-2022-11-20-at-14.42.47.jpeg.webp
 categories:
   - Destacados
   - Entrevistas
 tags:
   - Christian Death
   - Entrevistas
-lastmod: 2023-01-24T23:27:56.583Z
+lastmod: 2023-01-25T02:26:25.254Z
 url: entrevista-christian-death-actualizada
 slug: entrevista-christian-death-actualizada
 description: Luego de varios mensajes de ida y vuelta entre los cuasi legendarios y no poco

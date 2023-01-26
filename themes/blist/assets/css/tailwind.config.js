@@ -1,20 +1,17 @@
-const themeDir = __dirname + "/../../";
+// const themeDir = __dirname + "/../../";
 
 module.exports = {
-  purge: {
-    enabled: process.env.HUGO_ENVIRONMENT === "production",
-    content: [
-      themeDir + "layouts/**/*.html",
-      themeDir + "content/**/*.html",
-      "layouts/**/*.html",
-      "config.toml",
-      "content/**/*.html",
-      "assets/js/search.js",
-      "exampleSite/layouts/**/*.html",
-      "exampleSite/config.toml",
-      "exampleSite/content/**/*.html",
-    ],
-  },
+  // purge: {
+  //   enabled: process.env.HUGO_ENVIRONMENT === "production",
+  //   content: [
+  //     themeDir + "layouts/**/*.html",
+  //     themeDir + "content/**/*.html",
+  //     "layouts/**/*.html",
+  //     "config.toml",
+  //     "content/**/*.html",
+  //     "assets/js/search.js"
+  //   ],
+  // },
   darkMode: "class",
   theme: {
     defaultMode: "dark",
@@ -36,7 +33,7 @@ module.exports = {
           css: [
             {
               color: theme("colors.gray.400"),
-              '[class~="lead"]': {
+              '[class~=""]': {
                 color: theme("colors.gray.300"),
               },
               a: {
@@ -108,4 +105,5 @@ module.exports = {
     },
   },
   plugins: [require("@tailwindcss/typography")],
+  
 };

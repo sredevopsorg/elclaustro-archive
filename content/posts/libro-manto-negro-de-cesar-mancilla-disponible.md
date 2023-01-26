@@ -10,8 +10,8 @@ tags:
 categories:
   - Noticias
   - Destacados
-image: images/manto-negro.webp
-lastmod: 2023-01-24T23:29:07.350Z
+image: /images/manto-negro.webp
+lastmod: 2023-01-25T02:26:30.479Z
 url: libro-manto-negro-de-cesar-mancilla-disponible
 type: post
 slug: libro-manto-negro-de-cesar-mancilla-disponible
