@@ -9,7 +9,7 @@
 
     <script>
     if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.regis ter('/sw.js');
+    navigator.serviceWorker.register('/sw.js');
     };
     </script>
   <link rel="icon" href="{{ if (isset .Site.Params "favicon") }}{{ .Site.Params.favicon }}{{ else }}/favicon.ico{{ end }}">
