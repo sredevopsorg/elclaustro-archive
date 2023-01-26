@@ -3,7 +3,9 @@
 backend:
   name: github
   repo: sredevopsdev/elclaustro
-  branch: main # Branch to update (optional; defaults to master)
+  branch: main
+  open_authoring: true
+  
 publish_mode: editorial_workflow
 media_folder: static/images
 public_folder: /images
@@ -15,7 +17,7 @@ collections:
       slug: "{{title}}"
       fields:
       - {label: "type", name: "type", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Título", name: "title", widget: "string"}
       - {label: "Imagen destacada", name: "image", widget: "image"}
       - {label: "Body", name: "body" , widget: "markdown"}
       - {label: "description", name: "description", widget: "string"}
