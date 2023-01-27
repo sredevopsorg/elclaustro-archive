@@ -1,17 +1,17 @@
-// const themeDir = __dirname + "/../../";
+const themeDir = __dirname + "/../../";
 
 module.exports = {
-  // purge: {
-  //   enabled: process.env.HUGO_ENVIRONMENT === "production",
-  //   content: [
-  //     themeDir + "layouts/**/*.html",
-  //     themeDir + "content/**/*.html",
-  //     "layouts/**/*.html",
-  //     "config.toml",
-  //     "content/**/*.html",
-  //     "assets/js/search.js"
-  //   ],
-  // },
+  purge: {
+    enabled: process.env.HUGO_ENVIRONMENT === "production",
+    content: [
+      themeDir + "layouts/**/*.html",
+      themeDir + "content/**/*.html",
+      "layouts/**/*.html",
+      "config.yaml",
+      "content/**/*.html",
+      "assets/js/search.js"
+    ],
+  },
   darkMode: "class",
   theme: {
     defaultMode: "dark",
@@ -68,7 +68,7 @@ module.exports = {
                 color: theme("colors.white"),
               },
               "figure figcaption": {
-                color: theme("colors.gray.400"),
+                color: theme("colors.gray.100"),
               },
               code: {
                 color: theme("colors.white"),
@@ -93,6 +93,10 @@ module.exports = {
               "tbody tr": {
                 borderBottomColor: theme("colors.gray.600"),
               },
+              "body": {
+                background: theme("colors.gray.900"),
+              } 
+              
             },
           ],
         },
