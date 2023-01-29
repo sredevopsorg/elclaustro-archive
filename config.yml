@@ -1,0 +1,53 @@
+
+
+backend:
+  name: github
+  repo: sredevopsdev/elclaustro
+  branch: main
+  auth_scope: repo
+  open_authoring: true
+publish_mode: editorial_workflow
+logo_url: "https://elclaustro.cl/images/logo.svg"
+locale: es
+media_folder: static/images
+public_folder: static/
+collections:
+    - name: Posts
+      label: post
+      folder: "content/posts"
+      create: true
+      slug: "{{title}}"
+      image: "{{image}}"
+      fields:
+      - {label: "type", name: "type", widget: "hidden", default: "post"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Imagen destacada", name: "image", widget: "image"}
+      - {label: "Body", name: "body" , widget: "markdown"}
+      - {label: "description", name: "description", widget: "string"}
+      - {label: "date", name: "date", widget: "datetime"}
+      - {label: "draft", name: "draft", widget: "boolean"}
+      - {label: "tags", name: "tags", widget: "list", ""}
+      - {label: "Categoría", name: "categories", widget: "list"}
+    - name: Páginas Estáticas
+      label: page
+      slug: "{{title}}"
+      image: "{{image}}"
+      folder: content/pages/
+      create: true
+      fields:
+        - label: Title
+          name: title
+          widget: string
+        - label: Descripción
+          name: description
+          widget: "string"
+        - label: Imagen destacada
+          name: image
+          widget: image
+        - label: URL
+          name: url
+          widget: "string"
+        - label: body
+          name: body
+          widget: markdown
+     
