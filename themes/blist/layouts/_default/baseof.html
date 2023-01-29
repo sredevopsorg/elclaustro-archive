@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html lang="{{ .Lang }}" itemscope itemtype="http://schema.org/WebPage" class="dark">
-  {{- partial "head.html" . -}}
-  <body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen">
-    {{- partial "header.html" . -}}
-    <main class="flex-1">
+<html lang="{{ .Lang }}" itemscope itemtype="http://schema.org/WebPage">
+{{- partial "head.html" . -}}
+
+<body class="dark:bg-black dark:text-white relative flex flex-col min-h-screen">
+  {{- partial "header.html" . -}}
+  <main class="flex-1">
     {{- block "main" . }}{{- end }}
-    </main>
-    {{- partial "footer.html" . -}}
-  </body>
+  </main>
+  {{- partial "footer.html" . -}}
+</body>
+
 </html>

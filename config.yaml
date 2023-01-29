@@ -33,6 +33,7 @@ markup:
       table: true
       taskList: true
       typographer: true
+    
 
       
     parser:
@@ -97,7 +98,7 @@ staticDir: static
 blogDir: content
 contentDir: content
 publishDir: public
-tailwindConfig: tailwind.config.js
+# tailwindConfig: tailwind.config.js
 
 Paginate: 10
 googleAnalytics: 'G-PJ5PR0W1LV'
@@ -114,7 +115,7 @@ rss:
   description: Difundimos Cultura Dark, Gótica y Alternativa
     
 params:
-  ascentColor: black
+  ascentColor: bg-black
   darkModeToggle: true
   darkModeSync: true
   darkModeStyle: 'dark'
@@ -142,24 +143,29 @@ params:
   twitter_creator: 'elclaustro'
   disableLightMode: true
 
-  comments:
-    system: giscus
-    repo: 'sredevopsdev/elclaustro'
-    repoid: ''
-    category: 'General'
-    categoryid: ''
-    mapping: ''
-    strict: 'false'
-    reactionsenabled: 'true'
-    emitmetadata: 'true'
-    inputposition: 'top'
-    theme: 'dark'
-    config:
-      repo: 'sredevopsdev/elclaustro'
-      repoId: 'MDEwOlJlcG9zaXRvcnkyNzIzNjg3MzE='
-      category: 'General'
-      categoryId: 'MDE4OkRpc2N1c3Npb25DYXRlZ29yeTEyMjQyMjMw'
+  # comments:
+  #   system: giscus
+  #   repo: 'sredevopsdev/elclaustro'
+  #   repoid: ''
+  #   category: 'General'
+  #   categoryid: ''
+  #   mapping: ''
+  #   strict: 'false'
+  #   reactionsenabled: 'true'
+  #   emitmetadata: 'true'
+  #   inputposition: 'top'
+  #   theme: 'dark'
+  #   config:
+  #     repo: 'sredevopsdev/elclaustro'
+  #     repoId: 'MDEwOlJlcG9zaXRvcnkyNzIzNjg3MzE='
+  #     category: 'General'
+  #     categoryId: 'MDE4OkRpc2N1c3Npb25DYXRlZ29yeTEyMjQyMjMw'
   homepage:
+    title: El Claustro
+    subtitle: Difundimos Cultura Dark, Gótica y Alternativa
+    description: Difundimos Cultura Dark, Gótica y Alternativa
+    summary: Difundimos Cultura Dark, Gótica y Alternativa
+    keywords: "Goth, Gotico, Dark, Chile, Castellano, Español, Post Punk, Deathrock"
     social:
       title: Plataformas El Claustro
       description: Hacemos contracultura en las redes sociales
@@ -202,9 +208,26 @@ menu:
     weight: 7
   - name: Contacto
     url: /contacto/
-build:
-  writeStats: true
-outputs:
+# build:
+#   renderToDisk: true
+#   renderFuture: true
+#   renderDrafts: false
+#   writeStats: true
+#   writeManifest: true
+#   uglify:
+#     js: true
+#     css: true
+#   minify:
+#     enable: true
+#     exclude:
+#       - 'js/*.js'
+#       - 'css/*.css'
+#   cleanDestinationDir: true
+#   resources:
+#     - resources
+#   # ignoreFiles:
+
+outputs: # https://gohugo.io/getting-started/configuration-markup/#outputs
   home:
     - HTML
     - RSS

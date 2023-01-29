@@ -32,12 +32,12 @@ module.exports = {
         dark: {
           css: [
             {
-              color: theme("colors.gray.400"),
+              color: theme("colors.white"),
               '[class~=""]': {
-                color: theme("colors.gray.300"),
+                color: theme("colors.gray.900"),
               },
               a: {
-                color: theme("colors.white"),
+                color: theme("colors.gray.100"),
               },
               strong: {
                 color: theme("colors.white"),
@@ -46,7 +46,7 @@ module.exports = {
                 color: theme("colors.gray.400"),
               },
               "ul > li::before": {
-                backgroundColor: theme("colors.gray.600"),
+                backgroundColor: theme("colors.black"),
               },
               hr: {
                 borderColor: theme("colors.gray.200"),
@@ -68,10 +68,10 @@ module.exports = {
                 color: theme("colors.white"),
               },
               "figure figcaption": {
-                color: theme("colors.gray.100"),
+                color: theme("colors.gray.400"),
               },
               code: {
-                color: theme("colors.white"),
+                color: theme("colors.gray.100"),
               },
               "a code": {
                 color: theme("colors.white"),
@@ -84,7 +84,7 @@ module.exports = {
               },
               pre: {
                 color: theme("colors.gray.800"),
-                backgroundColor: theme("colrors.gray.800"),
+                backgroundColor: theme("bg-black"),
               },
               thead: {
                 color: theme("colors.white"),
@@ -94,7 +94,7 @@ module.exports = {
                 borderBottomColor: theme("colors.gray.600"),
               },
               "body": {
-                background: theme("colors.gray.900"),
+                backgroundColor: theme("colors.bg-black"),
               } 
               
             },
