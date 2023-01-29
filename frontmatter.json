@@ -1,58 +1,53 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.framework.id": "hugo",
-  "frontMatter.content.publicFolder": "static/images",
+  "frontMatter.content.publicFolder": "static/",
   "frontMatter.content.pageFolders": [
     {
-      "title": "posts",
+      "title": "post",
       "path": "[[workspace]]/content/posts"
-        },
+    },
     {
-      "title": "pages",
+      "title": "page",
       "path": "[[workspace]]/content/pages"
     }
   ],
   "frontMatter.taxonomy.tags": [
+    "Africa",
     "Argentina",
-    "Binzatina",
+    "Asia",
+    "Bolivia",
     "Brasil",
+    "Canada",
+    "Centroamérica",
     "Chile",
-    "Christian Death",
-    "Coleman",
+    "Colombia",
+    "Columnas",
     "Contenido Enviado",
-    "DarkCorp",
-    "DarkCorpInside",
+    "Dark",
     "Darkwave",
-    "Deadchovsky",
     "Deathrock",
+    "Destacados",
     "Discos, Videos y Playlists",
+    "Ecuador",
+    "El Claustro",
     "En Vivo",
     "Entrevistas",
-    "Feria",
-    "Fields of the Nephilim",
-    "Francia",
+    "Estados Unidos",
+    "Europa",
+    "Goth",
     "Gothic Rock",
+    "Gótico",
+    "Mexico",
     "Noticias",
-    "Peter Murphy",
+    "Oceanía",
+    "Perú",
     "Post Punk",
     "Release the Bats",
-    "Teatro Comunitario Novedades",
-    "The Mission UK",
-    "amadeus",
-    "archivo",
-    "bandas",
-    "chile",
-    "dark",
-    "el claustro",
-    "goth",
-    "gótico",
-    "label",
-    "niennor",
-    "promotion",
-    "repositorio",
-    "underground",
-    "victor merida",
-    "xianotic"
+    "Underground",
+    "Uruguay",
+    "Venezuela",
+    "promotion"
   ],
   "frontMatter.taxonomy.categories": [
     "Columnas",
@@ -62,11 +57,10 @@
     "Entrevistas",
     "Noticias"
   ],
+  "frontMatter.content.defaultFileType": ".md",
   "frontMatter.taxonomy.contentTypes": [
     {
-      "name": "posts",
-      "fileType": "md",
-      "template": "",
+      "name": "post",
       "pageBundle": false,
       "previewPath": null,
       "fields": [
@@ -83,9 +77,7 @@
         {
           "title": "Publishing date",
           "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
+          "type": "datetime"
         },
         {
           "title": "Is in draft",
@@ -118,19 +110,94 @@
           "title": "url",
           "name": "url",
           "type": "string",
-          "taxonomyId": "slug",
-          "default": "{{ $var := slug }}"
+          "default": "{{slug}}"
         },
         {
           "title": "type",
           "name": "type",
-          "default": "post",
-          "type": "choice",
-          "choices": ["page","post"]
-          
+          "type": "string",
+          "default": "post"
+        },
+        {
+          "title": "slug",
+          "name": "slug",
+          "type": "slug"
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "preview",
+          "name": "preview",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "page",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "image"
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string",
+          "default": "page"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "excerpt",
+          "name": "excerpt",
+          "type": "string"
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        },
+        {
+          "title": "url",
+          "name": "url",
+          "type": "string"
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.content.snippets": {
+    "Youtube": {
+      "description": "",
+      "body": "{{< youtube id=\"\" > }}",
+      "isMediaSnippet": true
+    },
+    "Spotify": {
+      "description": "",
+      "body": "{{< spotify id=\"\" type=\"\" >}}",
+      "isMediaSnippet": true
+    }
   }
-
+}

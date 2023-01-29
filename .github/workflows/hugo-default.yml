@@ -4,9 +4,7 @@ name: Deploy Hugo site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["release"]
-    paths-ignore:
-      - .github/**
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -42,36 +40,20 @@ jobs:
       #   run: sudo snap install dart-sass-embedded
       - name: Checkout
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          submodules: recursive
+        # with:
+        #   submodules: recursive
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
-      # - name: Install Node.js dependencies
-      #   run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-      - name: Cache built website
-        uses: actions/cache@v3
-        env:
-          cache-name: cache-website-v1
-        with:
-          path: |
-            public
-            static   
-          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('config', 'content', 'data', 'themes', 'static') }}
-          restore-keys: |
-            ${{ runner.os }}-build-${{ env.cache-name }}-
-            ${{ runner.os }}-build-
-            ${{ runner.os }}-       
+      - name: Install Node.js dependencies
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-        run: |
-          hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+        run: npm ci && HUGO_ENVIRONMENT=production hugo --baseURL "${{ steps.pages.outputs.base_url }}/" --minify --gc
+            
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:

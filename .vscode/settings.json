@@ -25,7 +25,7 @@
     "frontMatter.git.commitMessage": "FrontMatter commit",
     "frontMatter.git.enabled": true,
     "frontMatter.media.defaultSorting": "LastModifiedDesc",
-    "frontMatter.panel.freeform": false,
+    "frontMatter.panel.freeform": true,
     "frontMatter.site.baseURL": "https://elclaustro.cl/",
     "frontMatter.taxonomy.alignFilename": true,
     "frontMatter.taxonomy.categories": [
@@ -38,15 +38,15 @@
     ],
     "frontMatter.templates.enabled": true,
     "frontMatter.templates.prefix": "",
-    "frontMatter.taxonomy.tags": [
-        
-    ],
     "frontMatter.global.modes": [
     {
         "name": "production",
         "description": "Production mode",
         "variables": {
-        "frontMatter.site.baseURL": "https://elclaustro.cl/"
+        "frontMatter.site.baseURL": "https://elclaustro.cl/",
+        "frontMatter.preview.host": "https://elclaustro.cl/",
+        "frontMatter.git.enabled": true,
+        "frontMatter.content.autoUpdateDate": false
         }
     },
     {
@@ -57,12 +57,7 @@
         }
     }
     ],
-    "frontMatter.data.folders": [
-    {
-        "path": "data",
-        "type": "yaml",
-        "name": "data",
-        "description": "Data files"
+    "yaml.schemas": {
+        "https://json.schemastore.org/netlify.json": "file:///Users/ngeorger/elclaustro/static/publica/config.yml"
     }
-    ]
 }

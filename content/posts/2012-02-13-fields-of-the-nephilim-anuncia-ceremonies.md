@@ -13,8 +13,9 @@ categories:
   - Noticias
 tags:
   - Fields of the Nephilim
+lastmod: 2023-01-24T09:40:34.823Z
 ---
-<img decoding="async" align="left" src="http://www.fields-of-the-nephilim.com/files/stacks_image_336_1.png" />La legendaria banda Fields of the Nephilim acaba de revelar el primer track de su próximo album &ldquo;Ceremonies&rdquo;, disco que muestra una faceta más cargada al metal y sonidos más extremos.
+<img decoding="async" align="left" src="http://www.fields-of-the-nephilim.com/files/stacks_image_336_1.webp" />La legendaria banda Fields of the Nephilim acaba de revelar el primer track de su próximo album &ldquo;Ceremonies&rdquo;, disco que muestra una faceta más cargada al metal y sonidos más extremos.
 
 El disco -que también viene en versión DVD- cuenta con los himnos de la banda en vivo, en una grabación realizada en el teatro Sheper&rsquo;s Bush Empire de Londres, presentación editada y dirigida por el mismo Carl McCoy.
 
