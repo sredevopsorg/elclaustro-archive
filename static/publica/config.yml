@@ -3,10 +3,9 @@
 backend:
   name: github
   repo: sredevopsdev/elclaustro
-  branch: release
+  branch: main
   auth_scope: repo
   open_authoring: true
-local_backend: true
 media_folder: static/images
 publish_mode: editorial_workflow
 logo_url: "https://elclaustro.cl/images/logo.svg"
